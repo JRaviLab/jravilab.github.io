@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+## Other
+.DS_Store
+.DS_Store?
+Icon
+Icon?
