@@ -1,8 +1,4 @@
 # Janani Ravi's Research Group
-## Where?
-Pathobiology & Diagnostic Investigation (G304) <br>
-Michigan State University, East Lansing, MI.
-
 ## What we do!
 We use computational approaches to study evolutionary and translational aspects of host-pathogen biology!
 
@@ -19,7 +15,7 @@ Computational Biology | Bioinformatics | Phylogenetics & Molecular Evolution | C
 Name| GitHub/Twitter | Email | Project
 ----|------|------|----
 | **PI** |
-[Janani Ravi](jananiravi.github.io) | [@jananiravi](https://github.com/jananiravi) <br> @janani137 | janani@msu.edu | PI
+[Janani Ravi](jananiravi.github.io) | [\@jananiravi](https://github.com/jananiravi) <br> @janani137 | janani@msu.edu | _A dash of everything!_
 |**Undergraduate Researchers** |
 Samuel Chen | @samuelzornchen | chensam2@msu.edu | Mol Evolution
 Phoebe Tuyishime | @phoebetuyishime <br> @TuyishimePhoebe | tuyishi1@msu.edu | Drug Repurposing
@@ -29,6 +25,7 @@ Karn Jongnarangsin | @Karn-Jongnarangsin <br> @KarnJong | jongnara@msu.edu | Com
 Kewalin Samart | @samartke <br> @KewalinSamart | samartke@msu.edu | Drug-repurposing
 
 ## Contact
+**Address:** Pathobiology & Diagnostic Investigation (G304), Michigan State University, East Lansing, MI. <br>
 **Webpage:** https://jravilab.github.io <br>
 **Twitter:** https://twitter.com/JRaviLab <br>
-**PI:** Janani Ravi | janani@msu.edu | [jananiravi.github.io](https://jananiravi.github.io) | [@janani137](https://twitter.com/janani137)
+**PI:** Janani Ravi | janani@msu.edu | [jananiravi.github.io](https://jananiravi.github.io) | [\@janani137](https://twitter.com/janani137)
