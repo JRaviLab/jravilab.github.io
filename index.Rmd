@@ -1,16 +1,3 @@
 ---
+site: blogdown:::blogdown_site
 ---
-
-<br>
-
-# What we do!
-We use computational approaches to study evolutionary and translational aspects of host-pathogen biology!
-
-Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
-
-i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis,
-ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and
-iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.
-
-### Keywords
-Computational Biology | Bioinformatics | Phylogenetics & Molecular Evolution | Comparative pathogenomics | Molecular drug/vaccine discovery | Data Analysis & Visualization
