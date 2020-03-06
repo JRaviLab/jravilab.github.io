@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karim Lakehal | JRavi Lab</title>
-    <link>/public/authors/karim-lakehal/</link>
-      <atom:link href="/public/authors/karim-lakehal/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/karim-lakehal/</link>
+      <atom:link href="/authors/karim-lakehal/index.xml" rel="self" type="application/rss+xml" />
     <description>Karim Lakehal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 -0400</lastBuildDate>
     <image>
-      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Karim Lakehal</title>
-      <link>/public/authors/karim-lakehal/</link>
+      <link>/authors/karim-lakehal/</link>
     </image>
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/public/publication/jimm/</link>
+      <link>/publication/jimm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
-      <guid>/public/publication/jimm/</guid>
+      <guid>/publication/jimm/</guid>
       <description></description>
     </item>
     

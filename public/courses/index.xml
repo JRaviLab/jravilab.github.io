@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | JRavi Lab</title>
-    <link>/public/courses/</link>
-      <atom:link href="/public/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>/courses/</link>
+      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright>
     <image>
-      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Courses</title>
-      <link>/public/courses/</link>
+      <link>/courses/</link>
     </image>
     
   </channel>

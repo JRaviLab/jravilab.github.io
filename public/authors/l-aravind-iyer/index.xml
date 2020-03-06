@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L Aravind Iyer | JRavi Lab</title>
-    <link>/public/authors/l-aravind-iyer/</link>
-      <atom:link href="/public/authors/l-aravind-iyer/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/l-aravind-iyer/</link>
+      <atom:link href="/authors/l-aravind-iyer/index.xml" rel="self" type="application/rss+xml" />
     <description>L Aravind Iyer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>L Aravind Iyer</title>
-      <link>/public/authors/l-aravind-iyer/</link>
+      <link>/authors/l-aravind-iyer/</link>
     </image>
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/public/publication/psp-actino/</link>
+      <link>/publication/psp-actino/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/public/publication/psp-actino/</guid>
+      <guid>/publication/psp-actino/</guid>
       <description></description>
     </item>
     

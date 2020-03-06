@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Janani Ravi | JRavi Lab</title>
-    <link>/public/authors/janani-ravi/</link>
-      <atom:link href="/public/authors/janani-ravi/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/janani-ravi/</link>
+      <atom:link href="/authors/janani-ravi/index.xml" rel="self" type="application/rss+xml" />
     <description>Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Janani Ravi</title>
-      <link>/public/authors/janani-ravi/</link>
+      <link>/authors/janani-ravi/</link>
     </image>
     
     <item>
       <title>Join us!</title>
-      <link>/public/joinus/</link>
+      <link>/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
-      <guid>/public/joinus/</guid>
+      <guid>/joinus/</guid>
       <description>&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
 &lt;h2 id=&#34;undergraduate-student-research&#34;&gt;Undergraduate Student Research&lt;/h2&gt;
 &lt;p&gt;We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em&gt;e.g.,&lt;/em&gt; SROP, ENSURE, other department/college-level awards).&lt;/p&gt;
@@ -44,9 +44,9 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/public/publication/jimm/</link>
+      <link>/publication/jimm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
-      <guid>/public/publication/jimm/</guid>
+      <guid>/publication/jimm/</guid>
       <description></description>
     </item>
     

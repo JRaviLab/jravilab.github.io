@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria L Gennaro | JRavi Lab</title>
-    <link>/public/authors/maria-l-gennaro/</link>
-      <atom:link href="/public/authors/maria-l-gennaro/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/maria-l-gennaro/</link>
+      <atom:link href="/authors/maria-l-gennaro/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria L Gennaro</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Maria L Gennaro</title>
-      <link>/public/authors/maria-l-gennaro/</link>
+      <link>/authors/maria-l-gennaro/</link>
     </image>
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/public/publication/psp-actino/</link>
+      <link>/publication/psp-actino/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/public/publication/psp-actino/</guid>
+      <guid>/publication/psp-actino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/public/publication/sigfac-mtb/</link>
+      <link>/publication/sigfac-mtb/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/public/publication/sigfac-mtb/</guid>
+      <guid>/publication/sigfac-mtb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/public/publication/psp-mtb/</link>
+      <link>/publication/psp-mtb/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/public/publication/psp-mtb/</guid>
+      <guid>/publication/psp-mtb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/public/publication/jimm/</link>
+      <link>/publication/jimm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
-      <guid>/public/publication/jimm/</guid>
+      <guid>/publication/jimm/</guid>
       <description></description>
     </item>
     

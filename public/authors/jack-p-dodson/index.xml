@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jack P Dodson | JRavi Lab</title>
-    <link>/public/authors/jack-p-dodson/</link>
-      <atom:link href="/public/authors/jack-p-dodson/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/jack-p-dodson/</link>
+      <atom:link href="/authors/jack-p-dodson/index.xml" rel="self" type="application/rss+xml" />
     <description>Jack P Dodson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Jack P Dodson</title>
-      <link>/public/authors/jack-p-dodson/</link>
+      <link>/authors/jack-p-dodson/</link>
     </image>
     
     <item>
       <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
-      <link>/public/publication/saureus_tcy/</link>
+      <link>/publication/saureus_tcy/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/public/publication/saureus_tcy/</guid>
+      <guid>/publication/saureus_tcy/</guid>
       <description></description>
     </item>
     

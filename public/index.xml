@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JRavi Lab</title>
-    <link>/public/</link>
-      <atom:link href="/public/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>JRavi Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>JRavi Lab</title>
-      <link>/public/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
-      <link>/public/publication/saureus_tcy/</link>
+      <link>/publication/saureus_tcy/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/public/publication/saureus_tcy/</guid>
+      <guid>/publication/saureus_tcy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Join us!</title>
-      <link>/public/joinus/</link>
+      <link>/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
-      <guid>/public/joinus/</guid>
+      <guid>/joinus/</guid>
       <description>&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
 &lt;h2 id=&#34;undergraduate-student-research&#34;&gt;Undergraduate Student Research&lt;/h2&gt;
 &lt;p&gt;We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em&gt;e.g.,&lt;/em&gt; SROP, ENSURE, other department/college-level awards).&lt;/p&gt;
@@ -52,27 +52,27 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     
     <item>
       <title>Privacy Policy</title>
-      <link>/public/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/public/privacy/</guid>
+      <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>/public/terms/</link>
+      <link>/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/public/terms/</guid>
+      <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>/public/reading/</link>
+      <link>/reading/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
-      <guid>/public/reading/</guid>
+      <guid>/reading/</guid>
       <description>&lt;p&gt;Check out my 
 &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
 </description>
@@ -80,16 +80,16 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     
     <item>
       <title>Resources</title>
-      <link>/public/resources/</link>
+      <link>/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
-      <guid>/public/resources/</guid>
+      <guid>/resources/</guid>
       <description>&lt;p&gt;My posts with some 
-&lt;a href=&#34;/public/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/public/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;/public/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;great-posts--academic&#34;&gt;Great posts | academic&lt;/h2&gt;
 &lt;ul&gt;
@@ -163,33 +163,33 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/public/publication/psp-actino/</link>
+      <link>/publication/psp-actino/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/public/publication/psp-actino/</guid>
+      <guid>/publication/psp-actino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/public/publication/sigfac-mtb/</link>
+      <link>/publication/sigfac-mtb/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/public/publication/sigfac-mtb/</guid>
+      <guid>/publication/sigfac-mtb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/public/publication/psp-mtb/</link>
+      <link>/publication/psp-mtb/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/public/publication/psp-mtb/</guid>
+      <guid>/publication/psp-mtb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/public/publication/jimm/</link>
+      <link>/publication/jimm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
-      <guid>/public/publication/jimm/</guid>
+      <guid>/publication/jimm/</guid>
       <description></description>
     </item>
     
