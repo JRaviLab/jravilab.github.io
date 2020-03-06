@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabor Balázsi | JRavi Lab</title>
-    <link>/authors/gabor-balazsi/</link>
-      <atom:link href="/authors/gabor-balazsi/index.xml" rel="self" type="application/rss+xml" />
+    <link>/public/authors/gabor-balazsi/</link>
+      <atom:link href="/public/authors/gabor-balazsi/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabor Balázsi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
       <title>Gabor Balázsi</title>
-      <link>/authors/gabor-balazsi/</link>
+      <link>/public/authors/gabor-balazsi/</link>
     </image>
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/sigfac-mtb/</link>
+      <link>/public/publication/sigfac-mtb/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/sigfac-mtb/</guid>
+      <guid>/public/publication/sigfac-mtb/</guid>
       <description></description>
     </item>
     

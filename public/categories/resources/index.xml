@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources | JRavi Lab</title>
-    <link>/categories/resources/</link>
-      <atom:link href="/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    <link>/public/categories/resources/</link>
+      <atom:link href="/public/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Mon, 07 May 2018 00:00:00 -0400</lastBuildDate>
     <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
       <title>Resources</title>
-      <link>/categories/resources/</link>
+      <link>/public/categories/resources/</link>
     </image>
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>/public/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
-      <guid>/resources/</guid>
+      <guid>/public/resources/</guid>
       <description>&lt;p&gt;My posts with some 
-&lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;/public/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;/public/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;/public/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;great-posts--academic&#34;&gt;Great posts | academic&lt;/h2&gt;
 &lt;ul&gt;

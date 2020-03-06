@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugh Salamon | JRavi Lab</title>
-    <link>/authors/hugh-salamon/</link>
-      <atom:link href="/authors/hugh-salamon/index.xml" rel="self" type="application/rss+xml" />
+    <link>/public/authors/hugh-salamon/</link>
+      <atom:link href="/public/authors/hugh-salamon/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugh Salamon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 -0400</lastBuildDate>
     <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
       <title>Hugh Salamon</title>
-      <link>/authors/hugh-salamon/</link>
+      <link>/public/authors/hugh-salamon/</link>
     </image>
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/publication/jimm/</link>
+      <link>/public/publication/jimm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
-      <guid>/publication/jimm/</guid>
+      <guid>/public/publication/jimm/</guid>
       <description></description>
     </item>
     

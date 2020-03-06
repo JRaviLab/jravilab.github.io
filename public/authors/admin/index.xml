@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JRavi Lab</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/public/authors/admin/</link>
+      <atom:link href="/public/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>JRavi Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
       <title>JRavi Lab</title>
-      <link>/authors/admin/</link>
+      <link>/public/authors/admin/</link>
     </image>
     
     <item>
       <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
-      <link>/publication/saureus_tcy/</link>
+      <link>/public/publication/saureus_tcy/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/saureus_tcy/</guid>
+      <guid>/public/publication/saureus_tcy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/psp-actino/</link>
+      <link>/public/publication/psp-actino/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/psp-actino/</guid>
+      <guid>/public/publication/psp-actino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/sigfac-mtb/</link>
+      <link>/public/publication/sigfac-mtb/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/sigfac-mtb/</guid>
+      <guid>/public/publication/sigfac-mtb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/psp-mtb/</link>
+      <link>/public/publication/psp-mtb/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/psp-mtb/</guid>
+      <guid>/public/publication/psp-mtb/</guid>
       <description></description>
     </item>
     

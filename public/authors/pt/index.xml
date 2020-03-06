@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JRavi Lab</title>
-    <link>/authors/pt/</link>
-      <atom:link href="/authors/pt/index.xml" rel="self" type="application/rss+xml" />
+    <link>/public/authors/pt/</link>
+      <atom:link href="/public/authors/pt/index.xml" rel="self" type="application/rss+xml" />
     <description>JRavi Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright>
     <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <url>/public/img/jananiravi-grp-webpage-logo.png</url>
       <title>JRavi Lab</title>
-      <link>/authors/pt/</link>
+      <link>/public/authors/pt/</link>
     </image>
     
   </channel>
