@@ -12,17 +12,15 @@ iii) Developing tools and resources for seamlessly relating sequence, structure,
 Computational Biology | Bioinformatics | Phylogenetics & Molecular Evolution | Comparative pathogenomics | Molecular drug/vaccine discovery | Data Analysis & Visualization
 
 ## Group members
-Name| GitHub/Twitter | Email | Project
-----|------|------|----
-| **PI** |
+### PI
 [Janani Ravi](jananiravi.github.io) | [@jananiravi](https://github.com/jananiravi) <br> @janani137 | janani@msu.edu | _A dash of everything!_
-|**Undergraduate Researchers** |
-Samuel Chen | @samuelzornchen | chensam2@msu.edu | Mol Evolution
-Phoebe Tuyishime | @phoebetuyishime <br> @TuyishimePhoebe | tuyishi1@msu.edu | Drug Repurposing
-Philip Calhoun | @philipacalhoun <br> @PhilipCalhoun5 | calhou67@msu.edu | sRNA discovery
-Lauren Sosinski | @laurensosinski <br> @lauren_sosinski | sosinsk7@msu.edu | Mol Evolution
-Karn Jongnarangsin | @Karn-Jongnarangsin <br> @KarnJong | jongnara@msu.edu | Comparative Pathogenomics
-Kewalin Samart | @samartke <br> @KewalinSamart | samartke@msu.edu | Drug-repurposing
+### **Undergraduate Researchers**
+- Samuel Chen | @samuelzornchen | chensam2@msu.edu | Mol Evolution
+- Phoebe Tuyishime | @phoebetuyishime <br> @TuyishimePhoebe | tuyishi1@msu.edu | Drug Repurposing
+- Philip Calhoun | @philipacalhoun <br> @PhilipCalhoun5 | calhou67@msu.edu | sRNA discovery
+- Lauren Sosinski | @laurensosinski <br> @lauren_sosinski | sosinsk7@msu.edu | Mol Evolution
+- Karn Jongnarangsin | @Karn-Jongnarangsin <br> @KarnJong | jongnara@msu.edu | Comparative Pathogenomics
+- Kewalin Samart | @samartke <br> @KewalinSamart | samartke@msu.edu | Drug-repurposing
 
 ## Contact
 **Address:** Pathobiology & Diagnostic Investigation (G304), Michigan State University, East Lansing, MI. <br>
