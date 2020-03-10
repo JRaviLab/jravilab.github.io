@@ -2,8 +2,8 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 9  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -19,19 +19,21 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 1
   
   [[content.filter_button]]
     name = "All"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Research"
+    tag = "compbio-bioinfo"
+    categories = "Research"
   
   [[content.filter_button]]
     name = "Other"
-    tag = "Demo"
+    tag = "R"
+    #categories = "R-Ladies"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -42,7 +44,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -53,9 +53,8 @@ subtitle = ""
 
 # Computational Systems Biology of Infectious Diseases
 
-<center><img src="/img/jananiravi-grp-webpage-logo-dark.png" width="30%" border="5"/></center>
+<center><img src="/img/jananiravi-grp-webpage-logo-dark.png" width="0%" border="5"/></center>
 
-<br>
 
 We study evolutionary and translational aspects of host & pathogen biology.
 

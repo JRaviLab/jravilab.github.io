@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julian Camillo Bello R | JRavi Lab</title>
+    <link>/authors/julian-camillo-bello-r/</link>
+      <atom:link href="/authors/julian-camillo-bello-r/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julian Camillo Bello R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Mon, 24 Feb 2020 18:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>Julian Camillo Bello R</title>
+      <link>/authors/julian-camillo-bello-r/</link>
+    </image>
+    
+    <item>
+      <title>RLEL Workshop on RMarkdown &amp; Reproducible Research</title>
+      <link>/talk/2020-rmarkdown/</link>
+      <pubDate>Mon, 24 Feb 2020 18:00:00 -0500</pubDate>
+      <guid>/talk/2020-rmarkdown/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RLEL Workshop on DataViz 2.0</title>
+      <link>/talk/2020-rlel-dataviz2.0/</link>
+      <pubDate>Mon, 10 Feb 2020 18:00:00 -0500</pubDate>
+      <guid>/talk/2020-rlel-dataviz2.0/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stress-response | JRavi Lab</title>
+    <link>/tags/stress-response/</link>
+      <atom:link href="/tags/stress-response/index.xml" rel="self" type="application/rss+xml" />
+    <description>stress-response</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Thu, 27 Feb 2020 09:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>stress-response</title>
+      <link>/tags/stress-response/</link>
+    </image>
+    
+    <item>
+      <title>Computational evolutionary approaches to understand poorly characterized pathogens</title>
+      <link>/talk/2020-cbp/</link>
+      <pubDate>Thu, 27 Feb 2020 09:00:00 -0500</pubDate>
+      <guid>/talk/2020-cbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
+      <link>/publication/saureus_tcy/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/saureus_tcy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational approaches for understanding host–pathogen biology</title>
+      <link>/talk/2019-cocoh/</link>
+      <pubDate>Tue, 27 Aug 2019 11:00:00 -0400</pubDate>
+      <guid>/talk/2019-cocoh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and modularity in the pan-bacterial psp stress response system</title>
+      <link>/talk/2019-grampos/</link>
+      <pubDate>Fri, 26 Jul 2019 03:00:00 -0400</pubDate>
+      <guid>/talk/2019-grampos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrative computational evolutionary approach to accelerate the discovery of molecular targets in prevalent under-studied pathogens</title>
+      <link>/talk/2019-cbps/</link>
+      <pubDate>Thu, 16 May 2019 09:00:00 -0400</pubDate>
+      <guid>/talk/2019-cbps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial Stress Response</title>
+      <link>/project/stress-response/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/project/stress-response/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;I started working on Bacterial Stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
+&lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
+&lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;michigan-state-university&#34;&gt;Michigan State University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Neal Hammer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Marila Gennaro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ncbi-nih&#34;&gt;NCBI, NIH&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;L Aravind&lt;/li&gt;
+&lt;li&gt;Vivek Anantharaman&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using computational appraches to understand host-pathogen biology</title>
+      <link>/talk/2018-ismb/</link>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
+      <guid>/talk/2018-ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
+      <link>/publication/psp-actino/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/psp-actino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
+      <link>/publication/sigfac-mtb/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/sigfac-mtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>/publication/psp-mtb/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/psp-mtb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

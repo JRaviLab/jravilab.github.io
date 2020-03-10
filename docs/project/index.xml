@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | JRavi Lab</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Bacterial Stress Response</title>
+      <link>/project/stress-response/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/project/stress-response/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;I started working on Bacterial Stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
+&lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
+&lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;michigan-state-university&#34;&gt;Michigan State University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Neal Hammer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Marila Gennaro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ncbi-nih&#34;&gt;NCBI, NIH&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;L Aravind&lt;/li&gt;
+&lt;li&gt;Vivek Anantharaman&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R &amp; R-Ladies East Lansing</title>
+      <link>/project/r/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      <guid>/project/r/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;/tags/R&#34;&gt;R&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Host-responses to infection</title>
+      <link>/project/lipid-metabolism/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/lipid-metabolism/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We also studied host responses to &lt;em&gt;M. tuberculosis&lt;/em&gt; infection using computational approaches:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li&gt;
+&lt;li&gt;understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Marila Gennaro&lt;/li&gt;
+&lt;li&gt;Sanjay Tyagi&lt;/li&gt;
+&lt;li&gt;Eduardo Sontag (now in North Eastern)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tulane-university&#34;&gt;Tulane University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Deepak Kaushal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knowledge-synthesis&#34;&gt;Knowledge Synthesis&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugh Salamon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamical Systems &amp; Modeling</title>
+      <link>/project/dynamical-systems/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
+      <guid>/project/dynamical-systems/</guid>
+      <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+&lt;p&gt;During 
+&lt;a href=&#34;http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my graduate research with Dr John Tyson&lt;/a&gt;, I built mathematical models to understand dynamical aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Modeling the START transition in the budding yeast cell cycle:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li&gt;
+&lt;li&gt;Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li&gt;
+&lt;li&gt;Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li&gt;
+&lt;li&gt;Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li&gt;
+&lt;li&gt;This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modeling bistability in the canonical Wnt pathway:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
+additional key regulatory interactions.&lt;/li&gt;
+&lt;li&gt;Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
+experimental results.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;related-publications&#34;&gt;Related publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ravi J, Tyson JJ. Modeling the START transition in the budding yeast cell cycle. &lt;em&gt;Submitted&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Thorne C, Ravi J, Tyson JJ, Lee E. Modeling bistability in the canonical Wnt signaling pathway. &lt;em&gt;Submitted&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;virginia-tech&#34;&gt;Virginia Tech&lt;/h4&gt;
+&lt;p&gt;John Tyson&lt;/p&gt;
+&lt;h4 id=&#34;vanderbilt-university&#34;&gt;Vanderbilt University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethan Lee&lt;/li&gt;
+&lt;li&gt;Curtis A. Thorne (now at University of Arizona)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
