@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>compbio-bioinfo | JRavi Lab</title>
+    <link>/tags/compbio-bioinfo/</link>
+      <atom:link href="/tags/compbio-bioinfo/index.xml" rel="self" type="application/rss+xml" />
+    <description>compbio-bioinfo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Thu, 27 Feb 2020 09:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>compbio-bioinfo</title>
+      <link>/tags/compbio-bioinfo/</link>
+    </image>
+    
+    <item>
+      <title>Computational evolutionary approaches to understand poorly characterized pathogens</title>
+      <link>/talk/2020-cbp/</link>
+      <pubDate>Thu, 27 Feb 2020 09:00:00 -0500</pubDate>
+      <guid>/talk/2020-cbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidyverse for Genomics</title>
+      <link>/talk/2020-plb/</link>
+      <pubDate>Wed, 05 Feb 2020 09:00:00 -0500</pubDate>
+      <guid>/talk/2020-plb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
+      <link>/publication/saureus_tcy/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/saureus_tcy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational approaches for understanding host–pathogen biology</title>
+      <link>/talk/2019-cocoh/</link>
+      <pubDate>Tue, 27 Aug 2019 11:00:00 -0400</pubDate>
+      <guid>/talk/2019-cocoh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and modularity in the pan-bacterial psp stress response system</title>
+      <link>/talk/2019-grampos/</link>
+      <pubDate>Fri, 26 Jul 2019 03:00:00 -0400</pubDate>
+      <guid>/talk/2019-grampos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrative computational evolutionary approach to accelerate the discovery of molecular targets in prevalent under-studied pathogens</title>
+      <link>/talk/2019-cbps/</link>
+      <pubDate>Thu, 16 May 2019 09:00:00 -0400</pubDate>
+      <guid>/talk/2019-cbps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Tidyverse for Genomics workshop</title>
+      <link>/talk/2019-iitm/</link>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 -0500</pubDate>
+      <guid>/talk/2019-iitm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidyverse workshop</title>
+      <link>/talk/2019-plb/</link>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
+      <guid>/talk/2019-plb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Join us!</title>
+      <link>/joinus/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      <guid>/joinus/</guid>
+      <description>&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
+&lt;h2 id=&#34;undergraduate-student-research&#34;&gt;Undergraduate Student Research&lt;/h2&gt;
+&lt;p&gt;We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em&gt;e.g.,&lt;/em&gt; SROP, ENSURE, other department/college-level awards).&lt;/p&gt;
+&lt;p&gt;We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus. As part of this project, they will have the opportunity to work closely with a senior scientist and learn to: a) work with large datasets, b) write structured, well-documented code to analyze, integrate, and visualize these datasets, c) interpret the results in the context of pathogenesis, and d) communicate the results in the form of a paper and presentation.&lt;/p&gt;
+&lt;p&gt;We have high expectations for their level of commitment to research, and we are keen on incorporating their contributions into co-authored papers in conferences/journals. As an undergraduate student, if you are interested in discussing research opportunities, please send me 
+&lt;a href=&#34;mailto:janani@msu.edu&#34;&gt;an email&lt;/a&gt; to set up a time to talk.&lt;/p&gt;
+&lt;h2 id=&#34;graduate-student-research&#34;&gt;Graduate Student Research&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Masters student who is looking to do an internship or a long-term project (6mo–1yr) in developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. You will be a perfect fit if you have a background in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields. Having programming experience in R, Python, Perl, and/or C/C++ is a huge plus. In addition to these technical qualifications, we are looking for someone who can work well in a team, work hard, and give/take constructive feedback.&lt;/p&gt;
+&lt;p&gt;This research experience will give you the opportunity to i) use data analysis and visualization to address key biological questions as pertaining to molecular evolution, diagnosis, and treatment (using R), ii) present at group meetings, journals, technical workshops and conferences, iii) develop high coding standards for writing efficient, clear, well-documented, version-controlled code, iv) equip yourself professional for your next career step.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Start a conversation&lt;/em&gt;
+Please send me your latest CV and a cover letter that includes i) a summary of your academic/work experience, ii) description of relevant coursework, research experience (incl. publications, conference talks/posters), iii) a brief note on familiarity in the field of phylogenetics, molecular evolution, and comparative pathogenomics, iv) coding experience, if any. If you are already at MSU, please 
+&lt;a href=&#34;mailto:janani@msu.edu&#34;&gt;email me&lt;/a&gt; to set a time to 
+&lt;a href=&#34;//jananiravi.github.io/#contact&#34;&gt;meet&lt;/a&gt; and discuss your interest.&lt;/p&gt;
+&lt;h2 id=&#34;visiting-scientist&#34;&gt;Visiting Scientist&lt;/h2&gt;
+&lt;p&gt;We welcome visiting scientists to come and collaborate with us for a short period (summer/6mo). If you have a burning question or an interesting idea that is directly related to or complements our research project(s), we would be glad to share our space, experience, and resources with you to develop your project and execute it. Having your own funding would be the easiest way to make this happen. There are some funding sources that you can apply to (e.g., 
+&lt;a href=&#34;http://www.biologists.com/travelling-fellowships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoB&lt;/a&gt;). Please send me an 
+&lt;a href=&#34;mailto:janani@msu.edu&#34;&gt;email&lt;/a&gt; to discuss this opportunity.&lt;/p&gt;
+&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;
+&lt;p&gt;If you are interested in any of our specific areas of research or have other great ideas that we could work on together, 
+&lt;a href=&#34;mailto:janani@msu.edu&#34;&gt;email me&lt;/a&gt; right away!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jananiravi.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contact details&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useful Resources</title>
+      <link>/post/useful-resources/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/useful-resources/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Great posts | academic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bioinformatics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/&#34;&gt;Microbial Bioinformatics Starter Kit &lt;em&gt;by&lt;/em&gt; Lauren Cowley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microbial genome annotation &lt;em&gt;by&lt;/em&gt; Michael Eisen
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/phylogenomics/status/999406494859718662&#34;&gt;Twitter thread&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/i/moments/999641962025074696&#34;&gt;moment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/&#34;&gt;Tools for bacterial comparative genomes &lt;em&gt;by&lt;/em&gt; Holt lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;R&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;data-visualization&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Visualization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/10/03/plotting-trees-data/&#34;&gt;Plotting trees + data &lt;em&gt;by&lt;/em&gt; Holt Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blogdown-hugo-academic-r-markdown&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown: Creating websites with R Markdown &lt;em&gt;by&lt;/em&gt; Yihui Xie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio&#34;&gt;Hugo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.gohugo.io/&#34;&gt;Hugo discussion forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Hugo Academic &lt;em&gt;by&lt;/em&gt; George Cushen&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/index.html&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/&#34;&gt;Building your blog using blogdown &lt;em&gt;by&lt;/em&gt; Marie Dussault&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blogging-tips&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Blogging tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523&#34;&gt;Lifehacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-blog-as-an-academic/&#34;&gt;6 tips for low-cost academic blogging &lt;em&gt;by&lt;/em&gt; Matt Might&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bacterial Stress Response</title>
+      <link>/project/stress-response/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/project/stress-response/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;I started working on Bacterial Stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
+&lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
+&lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;michigan-state-university&#34;&gt;Michigan State University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Neal Hammer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Marila Gennaro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ncbi-nih&#34;&gt;NCBI, NIH&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;L Aravind&lt;/li&gt;
+&lt;li&gt;Vivek Anantharaman&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using computational appraches to understand host-pathogen biology</title>
+      <link>/talk/2018-ismb/</link>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
+      <guid>/talk/2018-ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      <guid>/resources/</guid>
+      <description>&lt;p&gt;My posts with some 
+&lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;great-posts--academic&#34;&gt;Great posts | academic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bioinformatics&#34;&gt;Bioinformatics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microbial Bioinformatics Starter Kit &lt;em&gt;by&lt;/em&gt; Lauren Cowley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microbial genome annotation &lt;em&gt;by&lt;/em&gt; Michael Eisen
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/phylogenomics/status/999406494859718662&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter thread&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://twitter.com/i/moments/999641962025074696&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;moment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tools for bacterial comparative genomes &lt;em&gt;by&lt;/em&gt; Holt lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; 
+&lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Related post: 
+&lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;blogdown-hugo-academic--r-markdown&#34;&gt;Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blogdown: Creating websites with R Markdown &lt;em&gt;by&lt;/em&gt; Yihui Xie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/gohugoio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://discourse.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo discussion forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic &lt;em&gt;by&lt;/em&gt; George Cushen&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rmarkdown.rstudio.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building your blog using blogdown &lt;em&gt;by&lt;/em&gt; Marie Dussault&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://holtlab.net/2015/10/03/plotting-trees-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotting trees + data &lt;em&gt;by&lt;/em&gt; Holt Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;blogging-tips&#34;&gt;Blogging tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lifehacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://matt.might.net/articles/how-to-blog-as-an-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;6 tips for low-cost academic blogging &lt;em&gt;by&lt;/em&gt; Matt Might&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
+      <link>/publication/psp-actino/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/psp-actino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
+      <link>/talk/2017-asm-tb/</link>
+      <pubDate>Mon, 03 Apr 2017 17:00:00 -0400</pubDate>
+      <guid>/talk/2017-asm-tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
+      <link>/talk/2016-asm/</link>
+      <pubDate>Sat, 18 Jun 2016 14:45:00 -0400</pubDate>
+      <guid>/talk/2016-asm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
+      <link>/publication/sigfac-mtb/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/sigfac-mtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host-responses to infection</title>
+      <link>/project/lipid-metabolism/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/lipid-metabolism/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We also studied host responses to &lt;em&gt;M. tuberculosis&lt;/em&gt; infection using computational approaches:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li&gt;
+&lt;li&gt;understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Marila Gennaro&lt;/li&gt;
+&lt;li&gt;Sanjay Tyagi&lt;/li&gt;
+&lt;li&gt;Eduardo Sontag (now in North Eastern)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tulane-university&#34;&gt;Tulane University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Deepak Kaushal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knowledge-synthesis&#34;&gt;Knowledge Synthesis&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugh Salamon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
+      <link>/talk/2015-rutgers-symp/</link>
+      <pubDate>Thu, 05 Nov 2015 11:45:00 -0500</pubDate>
+      <guid>/talk/2015-rutgers-symp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>/publication/psp-mtb/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/psp-mtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
+      <link>/publication/jimm/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      <guid>/publication/jimm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical Systems &amp; Modeling</title>
+      <link>/project/dynamical-systems/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
+      <guid>/project/dynamical-systems/</guid>
+      <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+&lt;p&gt;During 
+&lt;a href=&#34;http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my graduate research with Dr John Tyson&lt;/a&gt;, I built mathematical models to understand dynamical aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Modeling the START transition in the budding yeast cell cycle:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li&gt;
+&lt;li&gt;Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li&gt;
+&lt;li&gt;Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li&gt;
+&lt;li&gt;Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li&gt;
+&lt;li&gt;This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modeling bistability in the canonical Wnt pathway:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
+additional key regulatory interactions.&lt;/li&gt;
+&lt;li&gt;Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
+experimental results.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;related-publications&#34;&gt;Related publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ravi J, Tyson JJ. Modeling the START transition in the budding yeast cell cycle. &lt;em&gt;Submitted&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Thorne C, Ravi J, Tyson JJ, Lee E. Modeling bistability in the canonical Wnt signaling pathway. &lt;em&gt;Submitted&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;virginia-tech&#34;&gt;Virginia Tech&lt;/h4&gt;
+&lt;p&gt;John Tyson&lt;/p&gt;
+&lt;h4 id=&#34;vanderbilt-university&#34;&gt;Vanderbilt University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethan Lee&lt;/li&gt;
+&lt;li&gt;Curtis A. Thorne (now at University of Arizona)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
