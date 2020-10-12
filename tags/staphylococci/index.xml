@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>staphylococci | JRavi Lab</title>
+    <link>/tags/staphylococci/</link>
+      <atom:link href="/tags/staphylococci/index.xml" rel="self" type="application/rss+xml" />
+    <description>staphylococci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>staphylococci</title>
+      <link>/tags/staphylococci/</link>
+    </image>
+    
+    <item>
+      <title>Computational evolutionary approaches</title>
+      <link>/project/pathogenic-features/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/pathogenic-features/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;h4 id=&#34;molecular-evolution&#34;&gt;Molecular Evolution&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Chen&lt;/li&gt;
+&lt;li&gt;Lauren Sosinski&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;comparative-genomics&#34;&gt;Comparative Genomics&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Karn Jongnarangsin&lt;/li&gt;
+&lt;li&gt;Lauryn Brooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Neal Hammer (Staphylococci)&lt;/li&gt;
+&lt;li&gt;Srinand Sreevatsan, Robert Abramovitch, Andrew Olive (Mycobacteria)&lt;/li&gt;
+&lt;li&gt;Antonella Fioravanti (&lt;em&gt;B. anthracis&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Chris Waters (Vibrio)&lt;/li&gt;
+&lt;li&gt;Sean Crosson (Brucella, Caulobacter)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
+      <link>/publication/saureus_tcy/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/saureus_tcy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host-responses to infection</title>
+      <link>/project/host-response/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/host-response/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
+&lt;li&gt;Phoebe Tuyishime (MSU, Rwanda)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arjun Krishnan (MSU)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

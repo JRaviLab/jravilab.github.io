@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tb | JRavi Lab</title>
+    <link>/tags/tb/</link>
+      <atom:link href="/tags/tb/index.xml" rel="self" type="application/rss+xml" />
+    <description>tb</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>tb</title>
+      <link>/tags/tb/</link>
+    </image>
+    
+    <item>
+      <title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population.</title>
+      <link>/publication/mtb-brazil/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mtb-brazil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host-responses to infection</title>
+      <link>/project/host-response/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/host-response/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
+&lt;li&gt;Phoebe Tuyishime (MSU, Rwanda)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arjun Krishnan (MSU)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying lipid metabolism deregulation in TB</title>
+      <link>/project/lipid-metabolism/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/lipid-metabolism/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We also studied host responses to &lt;em&gt;M. tuberculosis&lt;/em&gt; infection using computational approaches:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li&gt;
+&lt;li&gt;understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Marila Gennaro&lt;/li&gt;
+&lt;li&gt;Sanjay Tyagi&lt;/li&gt;
+&lt;li&gt;Eduardo Sontag (now in North Eastern)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tulane-university&#34;&gt;Tulane University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Deepak Kaushal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knowledge-synthesis&#34;&gt;Knowledge Synthesis&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugh Salamon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>/publication/psp-mtb/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/psp-mtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
+      <link>/publication/jimm/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      <guid>/publication/jimm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

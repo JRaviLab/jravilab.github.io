@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sRNA | JRavi Lab</title>
+    <link>/tags/srna/</link>
+      <atom:link href="/tags/srna/index.xml" rel="self" type="application/rss+xml" />
+    <description>sRNA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>sRNA</title>
+      <link>/tags/srna/</link>
+    </image>
+    
+    <item>
+      <title>sRNA discovery</title>
+      <link>/project/srna/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/srna/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Philip Calhoun&lt;/li&gt;
+&lt;li&gt;Elliot Majlessi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

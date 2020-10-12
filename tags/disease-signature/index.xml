@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>disease signature | JRavi Lab</title>
+    <title>disease-signature | JRavi Lab</title>
     <link>/tags/disease-signature/</link>
       <atom:link href="/tags/disease-signature/index.xml" rel="self" type="application/rss+xml" />
-    <description>disease signature</description>
+    <description>disease-signature</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>disease signature</title>
+      <title>disease-signature</title>
       <link>/tags/disease-signature/</link>
     </image>
     
@@ -18,6 +18,26 @@
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/connectivity-score-review/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Host-responses to infection</title>
+      <link>/project/host-response/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/host-response/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
+&lt;li&gt;Phoebe Tuyishime (MSU, Rwanda)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arjun Krishnan (MSU)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

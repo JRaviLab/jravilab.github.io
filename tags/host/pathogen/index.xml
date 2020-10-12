@@ -13,10 +13,38 @@
     </image>
     
     <item>
+      <title>sRNA discovery</title>
+      <link>/project/srna/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/srna/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Philip Calhoun&lt;/li&gt;
+&lt;li&gt;Elliot Majlessi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players.</title>
       <link>/publication/psp-evolution/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/psp-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population.</title>
+      <link>/publication/mtb-brazil/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mtb-brazil/</guid>
       <description></description>
     </item>
     
@@ -26,35 +54,6 @@
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/publication/saureus_tcy/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Bacterial Stress Response</title>
-      <link>/project/stress-response/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/project/stress-response/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;I started working on Bacterial Stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
-&lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
-&lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;michigan-state-university&#34;&gt;Michigan State University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Neal Hammer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;ncbi-nih&#34;&gt;NCBI, NIH&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;L Aravind&lt;/li&gt;
-&lt;li&gt;Vivek Anantharaman&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
@@ -74,7 +73,7 @@
     </item>
     
     <item>
-      <title>Host-responses to infection</title>
+      <title>Studying lipid metabolism deregulation in TB</title>
       <link>/project/lipid-metabolism/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
       <guid>/project/lipid-metabolism/</guid>

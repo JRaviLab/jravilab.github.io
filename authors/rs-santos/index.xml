@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RS Santos | JRavi Lab</title>
+    <link>/authors/rs-santos/</link>
+      <atom:link href="/authors/rs-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>RS Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>RS Santos</title>
+      <link>/authors/rs-santos/</link>
+    </image>
+    
+    <item>
+      <title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population.</title>
+      <link>/publication/mtb-brazil/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mtb-brazil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

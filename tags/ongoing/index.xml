@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ongoing | JRavi Lab</title>
+    <link>/tags/ongoing/</link>
+      <atom:link href="/tags/ongoing/index.xml" rel="self" type="application/rss+xml" />
+    <description>ongoing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>ongoing</title>
+      <link>/tags/ongoing/</link>
+    </image>
+    
+    <item>
+      <title>Computational evolutionary approaches</title>
+      <link>/project/pathogenic-features/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/pathogenic-features/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;h4 id=&#34;molecular-evolution&#34;&gt;Molecular Evolution&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Chen&lt;/li&gt;
+&lt;li&gt;Lauren Sosinski&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;comparative-genomics&#34;&gt;Comparative Genomics&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Karn Jongnarangsin&lt;/li&gt;
+&lt;li&gt;Lauryn Brooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Neal Hammer (Staphylococci)&lt;/li&gt;
+&lt;li&gt;Srinand Sreevatsan, Robert Abramovitch, Andrew Olive (Mycobacteria)&lt;/li&gt;
+&lt;li&gt;Antonella Fioravanti (&lt;em&gt;B. anthracis&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Chris Waters (Vibrio)&lt;/li&gt;
+&lt;li&gt;Sean Crosson (Brucella, Caulobacter)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sRNA discovery</title>
+      <link>/project/srna/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/srna/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Philip Calhoun&lt;/li&gt;
+&lt;li&gt;Elliot Majlessi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bacterial Stress Response</title>
+      <link>/project/stress-response/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/project/stress-response/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;I started working on Bacterial Stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
+&lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
+&lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;h4 id=&#34;michigan-state-university&#34;&gt;Michigan State University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Neal Hammer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Marila Gennaro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ncbi-nih&#34;&gt;NCBI, NIH&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;L Aravind&lt;/li&gt;
+&lt;li&gt;Vivek Anantharaman&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Host-responses to infection</title>
+      <link>/project/host-response/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/host-response/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
+&lt;li&gt;Phoebe Tuyishime (MSU, Rwanda)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arjun Krishnan (MSU)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
