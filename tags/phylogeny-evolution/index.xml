@@ -5,12 +5,20 @@
     <link>/tags/phylogeny-evolution/</link>
       <atom:link href="/tags/phylogeny-evolution/index.xml" rel="self" type="application/rss+xml" />
     <description>phylogeny-evolution</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>phylogeny-evolution</title>
       <link>/tags/phylogeny-evolution/</link>
     </image>
+    
+    <item>
+      <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players.</title>
+      <link>/publication/psp-evolution/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/psp-evolution/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>

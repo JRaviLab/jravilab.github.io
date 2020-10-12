@@ -5,7 +5,7 @@
     <link>/tags/compbio-bioinfo/</link>
       <atom:link href="/tags/compbio-bioinfo/index.xml" rel="self" type="application/rss+xml" />
     <description>compbio-bioinfo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Thu, 27 Feb 2020 09:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>compbio-bioinfo</title>
@@ -13,7 +13,47 @@
     </image>
     
     <item>
-      <title>Computational evolutionary approaches to understand poorly characterized pathogens</title>
+      <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players.</title>
+      <link>/publication/psp-evolution/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/psp-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>
+      <link>/publication/connectivity-score-review/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/connectivity-score-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetics &amp; Comparative Genomics | MMG801</title>
+      <link>/talk/2020-mmg/</link>
+      <pubDate>Tue, 08 Sep 2020 09:00:00 -0400</pubDate>
+      <guid>/talk/2020-mmg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational evolutionary approaches for understanding pathogen biology</title>
+      <link>/talk/2020-beacon/</link>
+      <pubDate>Thu, 13 Aug 2020 16:15:00 -0400</pubDate>
+      <guid>/talk/2020-beacon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and modularity in the pan-bacterial psp stress response system</title>
+      <link>/talk/2020-ismb/</link>
+      <pubDate>Tue, 14 Jul 2020 03:00:00 -0400</pubDate>
+      <guid>/talk/2020-ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Evolution and Phylogeny</title>
       <link>/talk/2020-cbp/</link>
       <pubDate>Thu, 27 Feb 2020 09:00:00 -0500</pubDate>
       <guid>/talk/2020-cbp/</guid>

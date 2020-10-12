@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JRavi Lab</title>
+    <link>/authors/samuel-z-chen/</link>
+      <atom:link href="/authors/samuel-z-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>JRavi Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>JRavi Lab</title>
+      <link>/authors/samuel-z-chen/</link>
+    </image>
+    
+    <item>
+      <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players.</title>
+      <link>/publication/psp-evolution/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/psp-evolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

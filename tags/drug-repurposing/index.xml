@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drug-repurposing | JRavi Lab</title>
+    <link>/tags/drug-repurposing/</link>
+      <atom:link href="/tags/drug-repurposing/index.xml" rel="self" type="application/rss+xml" />
+    <description>drug-repurposing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>drug-repurposing</title>
+      <link>/tags/drug-repurposing/</link>
+    </image>
+    
+    <item>
+      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>
+      <link>/publication/connectivity-score-review/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/connectivity-score-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

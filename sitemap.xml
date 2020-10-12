@@ -3,67 +3,182 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/samuel-z-chen/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/compbio-bioinfo/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/2020-cbp/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <loc>/authors/l-aravind/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/janani-ravi/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <loc>/authors/maria-l-gennaro/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/molecular-evolution/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <loc>/publication/psp-evolution/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/phylogeny/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogeny-evolution/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pratik-datta/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/research/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/software-tools/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/stress-response/</loc>
-    <lastmod>2020-02-27T09:00:00-05:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vivek-anantharaman/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kewalin-samart/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/phoebe-tuyishime/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/arjun-krishnan/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/disease-signature/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/drug-repurposing/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/connectivity-score-review/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/comparative-genomics/</loc>
+    <lastmod>2020-09-08T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/janani-ravi/</loc>
+    <lastmod>2020-09-08T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/molecular-evolution/</loc>
+    <lastmod>2020-09-08T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-mmg/</loc>
+    <lastmod>2020-09-08T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-09-08T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software-tools/</loc>
+    <lastmod>2020-09-08T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/teaching/</loc>
+    <lastmod>2020-09-08T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-beacon/</loc>
+    <lastmod>2020-08-13T16:15:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-ismb/</loc>
+    <lastmod>2020-07-14T03:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-cbp/</loc>
     <lastmod>2020-02-27T09:00:00-05:00</lastmod>
   </url>
   
@@ -79,11 +194,6 @@
   
   <url>
     <loc>/authors/julian-camillo-bello-r/</loc>
-    <lastmod>2020-02-24T18:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
     <lastmod>2020-02-24T18:00:00-05:00</lastmod>
   </url>
   
@@ -133,11 +243,6 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -184,21 +289,6 @@
   
   <url>
     <loc>/authors/phillip-c-delekta/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/phylogeny-evolution/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -363,17 +453,7 @@
   </url>
   
   <url>
-    <loc>/authors/maria-l-gennaro/</loc>
-    <lastmod>2018-07-09T15:50:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/2018-ismb/</loc>
-    <lastmod>2018-07-09T15:50:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/vivek-anantharaman/</loc>
     <lastmod>2018-07-09T15:50:00-04:00</lastmod>
   </url>
   
@@ -488,11 +568,6 @@
   </url>
   
   <url>
-    <loc>/authors/pratik-datta/</loc>
-    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/sigfac-mtb/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -520,11 +595,6 @@
   <url>
     <loc>/talk/2015-rutgers-symp/</loc>
     <lastmod>2015-11-05T11:45:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sc/</loc>
-    <lastmod>2015-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -633,31 +703,23 @@
   </url>
   
   <url>
-    <loc>/authors/em/</loc>
+    <loc>/authors/elliot-majlessi/</loc>
   </url>
   
   <url>
-    <loc>/authors/kj/</loc>
+    <loc>/authors/karn-jongnarangsin/</loc>
   </url>
   
   <url>
-    <loc>/authors/ks/</loc>
+    <loc>/authors/lauren-m-sosinski/</loc>
   </url>
   
   <url>
-    <loc>/authors/lb/</loc>
+    <loc>/authors/lauryn-brooks/</loc>
   </url>
   
   <url>
-    <loc>/authors/ls/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/pc/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/pt/</loc>
+    <loc>/authors/philip-a-calhoun/</loc>
   </url>
   
   <url>

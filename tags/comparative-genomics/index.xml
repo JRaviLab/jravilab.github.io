@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comparative-genomics | JRavi Lab</title>
+    <link>/tags/comparative-genomics/</link>
+      <atom:link href="/tags/comparative-genomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>comparative-genomics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 08 Sep 2020 09:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>comparative-genomics</title>
+      <link>/tags/comparative-genomics/</link>
+    </image>
+    
+    <item>
+      <title>Phylogenetics &amp; Comparative Genomics | MMG801</title>
+      <link>/talk/2020-mmg/</link>
+      <pubDate>Tue, 08 Sep 2020 09:00:00 -0400</pubDate>
+      <guid>/talk/2020-mmg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational evolutionary approaches for understanding pathogen biology</title>
+      <link>/talk/2020-beacon/</link>
+      <pubDate>Thu, 13 Aug 2020 16:15:00 -0400</pubDate>
+      <guid>/talk/2020-beacon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

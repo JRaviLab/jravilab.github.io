@@ -5,7 +5,7 @@
     <link>/tags/software-tools/</link>
       <atom:link href="/tags/software-tools/index.xml" rel="self" type="application/rss+xml" />
     <description>software-tools</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Thu, 27 Feb 2020 09:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2020</copyright><lastBuildDate>Tue, 08 Sep 2020 09:00:00 -0400</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>software-tools</title>
@@ -13,7 +13,31 @@
     </image>
     
     <item>
-      <title>Computational evolutionary approaches to understand poorly characterized pathogens</title>
+      <title>Phylogenetics &amp; Comparative Genomics | MMG801</title>
+      <link>/talk/2020-mmg/</link>
+      <pubDate>Tue, 08 Sep 2020 09:00:00 -0400</pubDate>
+      <guid>/talk/2020-mmg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational evolutionary approaches for understanding pathogen biology</title>
+      <link>/talk/2020-beacon/</link>
+      <pubDate>Thu, 13 Aug 2020 16:15:00 -0400</pubDate>
+      <guid>/talk/2020-beacon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and modularity in the pan-bacterial psp stress response system</title>
+      <link>/talk/2020-ismb/</link>
+      <pubDate>Tue, 14 Jul 2020 03:00:00 -0400</pubDate>
+      <guid>/talk/2020-ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Evolution and Phylogeny</title>
       <link>/talk/2020-cbp/</link>
       <pubDate>Thu, 27 Feb 2020 09:00:00 -0500</pubDate>
       <guid>/talk/2020-cbp/</guid>
