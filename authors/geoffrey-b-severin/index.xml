@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brian Y Hsueh | JRavi Lab</title>
-    <link>/authors/brian-y-hsueh/</link>
-      <atom:link href="/authors/brian-y-hsueh/index.xml" rel="self" type="application/rss+xml" />
-    <description>Brian Y Hsueh</description>
+    <title>Geoffrey B Severin | JRavi Lab</title>
+    <link>/authors/geoffrey-b-severin/</link>
+      <atom:link href="/authors/geoffrey-b-severin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geoffrey B Severin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>Brian Y Hsueh</title>
-      <link>/authors/brian-y-hsueh/</link>
+      <title>Geoffrey B Severin</title>
+      <link>/authors/geoffrey-b-severin/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/dcdv-vibrio/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/dcdv-vibrio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
-      <link>/publication/saureus_tcy/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/saureus_tcy/</guid>
       <description></description>
     </item>
     
