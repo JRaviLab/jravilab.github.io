@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gram-positive-bacteria | JRavi Lab</title>
+    <link>/tags/gram-positive-bacteria/</link>
+      <atom:link href="/tags/gram-positive-bacteria/index.xml" rel="self" type="application/rss+xml" />
+    <description>gram-positive-bacteria</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>gram-positive-bacteria</title>
+      <link>/tags/gram-positive-bacteria/</link>
+    </image>
+    
+    <item>
+      <title>S-layers: the proteinaceous multifunctional armours of Gram-positive pathogens.</title>
+      <link>/publication/slps-grampos/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/slps-grampos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
