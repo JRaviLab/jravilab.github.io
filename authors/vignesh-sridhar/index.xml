@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JRavi Lab</title>
-    <link>/authors/mary-zhang/</link>
-      <atom:link href="/authors/mary-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/vignesh-sridhar/</link>
+      <atom:link href="/authors/vignesh-sridhar/index.xml" rel="self" type="application/rss+xml" />
     <description>JRavi Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>JRavi Lab</title>
-      <link>/authors/mary-zhang/</link>
+      <link>/authors/vignesh-sridhar/</link>
     </image>
     
   </channel>
