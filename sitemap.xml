@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/publication/slps-grampos/</loc>
+    <loc>/publication/slps_grampos/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,7 +98,7 @@
   </url>
   
   <url>
-    <loc>/publication/dcdv-vibrio/</loc>
+    <loc>/publication/dcdv_vcholerae/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,7 +248,7 @@
   </url>
   
   <url>
-    <loc>/publication/psp-evolution/</loc>
+    <loc>/publication/psp_evolution/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -293,7 +293,7 @@
   </url>
   
   <url>
-    <loc>/publication/connectivity-scores/</loc>
+    <loc>/publication/connectivity_scores/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -303,7 +303,7 @@
   </url>
   
   <url>
-    <loc>/publication/mtb-brazil/</loc>
+    <loc>/publication/brazil_genomes_mtb/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -498,7 +498,7 @@
   </url>
   
   <url>
-    <loc>/publication/saureus-tcy/</loc>
+    <loc>/publication/tcy_saureus/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -708,7 +708,7 @@
   </url>
   
   <url>
-    <loc>/publication/psp-actino/</loc>
+    <loc>/publication/psp_actino/</loc>
     <lastmod>2018-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -788,7 +788,7 @@
   </url>
   
   <url>
-    <loc>/publication/sigfac-mtb/</loc>
+    <loc>/publication/sigfac_mtb/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -853,7 +853,7 @@
   </url>
   
   <url>
-    <loc>/publication/psp-mtb/</loc>
+    <loc>/publication/psp_mtb/</loc>
     <lastmod>2015-08-03T00:00:00+00:00</lastmod>
   </url>
   

@@ -14,17 +14,17 @@
     
     <item>
       <title>S-layers: the proteinaceous multifunctional armours of Gram-positive pathogens.</title>
-      <link>/publication/slps-grampos/</link>
+      <link>/publication/slps_grampos/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/slps-grampos/</guid>
+      <guid>/publication/slps_grampos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Broadly Conserved Deoxycytidine Deaminase Protects Bacteria from Phage Infection.</title>
-      <link>/publication/dcdv-vibrio/</link>
+      <link>/publication/dcdv_vcholerae/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/dcdv-vibrio/</guid>
+      <guid>/publication/dcdv_vcholerae/</guid>
       <description></description>
     </item>
     
@@ -80,25 +80,25 @@
     
     <item>
       <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players.</title>
-      <link>/publication/psp-evolution/</link>
+      <link>/publication/psp_evolution/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/psp-evolution/</guid>
+      <guid>/publication/psp_evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>
-      <link>/publication/connectivity-scores/</link>
+      <link>/publication/connectivity_scores/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/connectivity-scores/</guid>
+      <guid>/publication/connectivity_scores/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population.</title>
-      <link>/publication/mtb-brazil/</link>
+      <link>/publication/brazil_genomes_mtb/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mtb-brazil/</guid>
+      <guid>/publication/brazil_genomes_mtb/</guid>
       <description></description>
     </item>
     
@@ -162,9 +162,9 @@
     
     <item>
       <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
-      <link>/publication/saureus-tcy/</link>
+      <link>/publication/tcy_saureus/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/saureus-tcy/</guid>
+      <guid>/publication/tcy_saureus/</guid>
       <description></description>
     </item>
     
@@ -953,9 +953,9 @@ Data Visualization Workshop: GitHub • Google Drive&lt;/p&gt;
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/psp-actino/</link>
+      <link>/publication/psp_actino/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/psp-actino/</guid>
+      <guid>/publication/psp_actino/</guid>
       <description></description>
     </item>
     
@@ -1526,9 +1526,9 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/sigfac-mtb/</link>
+      <link>/publication/sigfac_mtb/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/sigfac-mtb/</guid>
+      <guid>/publication/sigfac_mtb/</guid>
       <description></description>
     </item>
     
@@ -1591,9 +1591,9 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/psp-mtb/</link>
+      <link>/publication/psp_mtb/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/psp-mtb/</guid>
+      <guid>/publication/psp_mtb/</guid>
       <description></description>
     </item>
     
