@@ -5,7 +5,7 @@
     <link>/categories/teaching/</link>
       <atom:link href="/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Tue, 08 Sep 2020 09:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Tue, 08 Sep 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Teaching</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Phylogenetics &amp; Comparative Genomics | MMG801</title>
       <link>/talk/2020-mmg/</link>
-      <pubDate>Tue, 08 Sep 2020 09:00:00 -0400</pubDate>
+      <pubDate>Tue, 08 Sep 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-mmg/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Molecular Evolution and Phylogeny</title>
       <link>/talk/2020-cbp/</link>
-      <pubDate>Thu, 27 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Thu, 27 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-cbp/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Tidyverse for Genomics</title>
       <link>/talk/2020-plb/</link>
-      <pubDate>Wed, 05 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-plb/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Tidyverse workshop</title>
       <link>/talk/2019-plb/</link>
-      <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate>
       <guid>/talk/2019-plb/</guid>
       <description></description>
     </item>

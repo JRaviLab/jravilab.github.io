@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Tue, 08 Sep 2020 09:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Tue, 08 Sep 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Phylogenetics &amp; Comparative Genomics | MMG801</title>
       <link>/talk/2020-mmg/</link>
-      <pubDate>Tue, 08 Sep 2020 09:00:00 -0400</pubDate>
+      <pubDate>Tue, 08 Sep 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-mmg/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Computational evolutionary approaches for understanding pathogen proteins and genomes</title>
       <link>/talk/2020-beacon/</link>
-      <pubDate>Thu, 13 Aug 2020 16:15:00 -0400</pubDate>
+      <pubDate>Thu, 13 Aug 2020 16:15:00 +0000</pubDate>
       <guid>/talk/2020-beacon/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Computational evolutionary approaches to characterize bacterial proteins</title>
       <link>/talk/2020-ismb/</link>
-      <pubDate>Tue, 14 Jul 2020 03:00:00 -0400</pubDate>
+      <pubDate>Tue, 14 Jul 2020 03:00:00 +0000</pubDate>
       <guid>/talk/2020-ismb/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Molecular Evolution and Phylogeny</title>
       <link>/talk/2020-cbp/</link>
-      <pubDate>Thu, 27 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Thu, 27 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-cbp/</guid>
       <description></description>
     </item>
@@ -47,25 +47,25 @@
     <item>
       <title>RLEL Workshop on RMarkdown &amp; Reproducible Research</title>
       <link>/talk/2020-rmarkdown/</link>
-      <pubDate>Mon, 24 Feb 2020 18:00:00 -0500</pubDate>
+      <pubDate>Mon, 24 Feb 2020 18:00:00 +0000</pubDate>
       <guid>/talk/2020-rmarkdown/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>RLEL Workshop on DataViz 2.0</title>
       <link>/talk/2020-rlel-dataviz2.0/</link>
-      <pubDate>Mon, 10 Feb 2020 18:00:00 -0500</pubDate>
+      <pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate>
       <guid>/talk/2020-rlel-dataviz2.0/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Tidyverse for Genomics</title>
       <link>/talk/2020-plb/</link>
-      <pubDate>Wed, 05 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-plb/</guid>
       <description></description>
     </item>
@@ -73,7 +73,7 @@
     <item>
       <title>Computational approaches for understanding host–pathogen biology</title>
       <link>/talk/2019-cocoh/</link>
-      <pubDate>Tue, 27 Aug 2019 11:00:00 -0400</pubDate>
+      <pubDate>Tue, 27 Aug 2019 11:00:00 +0000</pubDate>
       <guid>/talk/2019-cocoh/</guid>
       <description></description>
     </item>
@@ -81,7 +81,7 @@
     <item>
       <title>Conservation and modularity in the pan-bacterial psp stress response system</title>
       <link>/talk/2019-grampos/</link>
-      <pubDate>Fri, 26 Jul 2019 03:00:00 -0400</pubDate>
+      <pubDate>Fri, 26 Jul 2019 03:00:00 +0000</pubDate>
       <guid>/talk/2019-grampos/</guid>
       <description></description>
     </item>
@@ -89,7 +89,7 @@
     <item>
       <title>An integrative computational evolutionary approach to accelerate the discovery of molecular targets in prevalent under-studied pathogens</title>
       <link>/talk/2019-cbps/</link>
-      <pubDate>Thu, 16 May 2019 09:00:00 -0400</pubDate>
+      <pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate>
       <guid>/talk/2019-cbps/</guid>
       <description></description>
     </item>
@@ -97,7 +97,7 @@
     <item>
       <title>Using Tidyverse for Genomics workshop</title>
       <link>/talk/2019-iitm/</link>
-      <pubDate>Tue, 05 Mar 2019 14:00:00 -0500</pubDate>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 +0000</pubDate>
       <guid>/talk/2019-iitm/</guid>
       <description></description>
     </item>
@@ -105,7 +105,7 @@
     <item>
       <title>Tidyverse workshop</title>
       <link>/talk/2019-plb/</link>
-      <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate>
       <guid>/talk/2019-plb/</guid>
       <description></description>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
       <link>/talk/2019-cvm/</link>
-      <pubDate>Thu, 24 Jan 2019 12:00:00 -0500</pubDate>
+      <pubDate>Thu, 24 Jan 2019 12:00:00 +0000</pubDate>
       <guid>/talk/2019-cvm/</guid>
       <description></description>
     </item>
@@ -121,9 +121,9 @@
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
       <link>/talk/2018-rlel-tidydata/</link>
-      <pubDate>Mon, 05 Nov 2018 18:00:00 -0500</pubDate>
+      <pubDate>Mon, 05 Nov 2018 18:00:00 +0000</pubDate>
       <guid>/talk/2018-rlel-tidydata/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
 &lt;p&gt;Workshop material: 
 &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
 &lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
@@ -133,9 +133,9 @@
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
       <link>/talk/2018-rlel-dataviz/</link>
-      <pubDate>Mon, 08 Oct 2018 18:00:00 -0400</pubDate>
+      <pubDate>Mon, 08 Oct 2018 18:00:00 +0000</pubDate>
       <guid>/talk/2018-rlel-dataviz/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
 &lt;p&gt;Workshop material: 
 &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
 &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
@@ -145,7 +145,7 @@
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
       <link>/talk/2018-ismb/</link>
-      <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 +0000</pubDate>
       <guid>/talk/2018-ismb/</guid>
       <description></description>
     </item>
@@ -153,7 +153,7 @@
     <item>
       <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
       <link>/talk/2017-asm-tb/</link>
-      <pubDate>Mon, 03 Apr 2017 17:00:00 -0400</pubDate>
+      <pubDate>Mon, 03 Apr 2017 17:00:00 +0000</pubDate>
       <guid>/talk/2017-asm-tb/</guid>
       <description></description>
     </item>
@@ -161,7 +161,7 @@
     <item>
       <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
       <link>/talk/2016-asm/</link>
-      <pubDate>Sat, 18 Jun 2016 14:45:00 -0400</pubDate>
+      <pubDate>Sat, 18 Jun 2016 14:45:00 +0000</pubDate>
       <guid>/talk/2016-asm/</guid>
       <description></description>
     </item>
@@ -169,7 +169,7 @@
     <item>
       <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
       <link>/talk/2015-rutgers-symp/</link>
-      <pubDate>Thu, 05 Nov 2015 11:45:00 -0500</pubDate>
+      <pubDate>Thu, 05 Nov 2015 11:45:00 +0000</pubDate>
       <guid>/talk/2015-rutgers-symp/</guid>
       <description></description>
     </item>
@@ -177,7 +177,7 @@
     <item>
       <title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title>
       <link>/talk/2014-imsc/</link>
-      <pubDate>Fri, 31 Oct 2014 13:00:00 -0400</pubDate>
+      <pubDate>Fri, 31 Oct 2014 13:00:00 +0000</pubDate>
       <guid>/talk/2014-imsc/</guid>
       <description></description>
     </item>
@@ -185,7 +185,7 @@
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
       <link>/talk/2011-cshl/</link>
-      <pubDate>Tue, 29 Mar 2011 18:00:00 -0400</pubDate>
+      <pubDate>Tue, 29 Mar 2011 18:00:00 +0000</pubDate>
       <guid>/talk/2011-cshl/</guid>
       <description></description>
     </item>
@@ -193,7 +193,7 @@
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
       <link>/talk/2009-grc/</link>
-      <pubDate>Sun, 05 Jul 2009 13:00:00 -0400</pubDate>
+      <pubDate>Sun, 05 Jul 2009 13:00:00 +0000</pubDate>
       <guid>/talk/2009-grc/</guid>
       <description></description>
     </item>
@@ -201,7 +201,7 @@
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
       <link>/talk/2009-cshl/</link>
-      <pubDate>Tue, 24 Mar 2009 13:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Mar 2009 13:00:00 +0000</pubDate>
       <guid>/talk/2009-cshl/</guid>
       <description></description>
     </item>
@@ -209,7 +209,7 @@
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
       <link>/talk/2009-vt-symp/</link>
-      <pubDate>Sun, 01 Mar 2009 13:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Mar 2009 13:00:00 +0000</pubDate>
       <guid>/talk/2009-vt-symp/</guid>
       <description></description>
     </item>

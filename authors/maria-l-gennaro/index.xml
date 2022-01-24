@@ -5,7 +5,7 @@
     <link>/authors/maria-l-gennaro/</link>
       <atom:link href="/authors/maria-l-gennaro/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria L Gennaro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Maria L Gennaro</title>
@@ -23,7 +23,7 @@
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
       <link>/talk/2018-ismb/</link>
-      <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 +0000</pubDate>
       <guid>/talk/2018-ismb/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
       <link>/talk/2017-asm-tb/</link>
-      <pubDate>Mon, 03 Apr 2017 17:00:00 -0400</pubDate>
+      <pubDate>Mon, 03 Apr 2017 17:00:00 +0000</pubDate>
       <guid>/talk/2017-asm-tb/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
       <link>/talk/2016-asm/</link>
-      <pubDate>Sat, 18 Jun 2016 14:45:00 -0400</pubDate>
+      <pubDate>Sat, 18 Jun 2016 14:45:00 +0000</pubDate>
       <guid>/talk/2016-asm/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
       <link>/publication/jimm/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       <guid>/publication/jimm/</guid>
       <description></description>
     </item>

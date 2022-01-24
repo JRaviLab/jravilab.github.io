@@ -5,7 +5,7 @@
     <link>/tags/r/</link>
       <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>R</title>
@@ -31,25 +31,25 @@
     <item>
       <title>RLEL Workshop on RMarkdown &amp; Reproducible Research</title>
       <link>/talk/2020-rmarkdown/</link>
-      <pubDate>Mon, 24 Feb 2020 18:00:00 -0500</pubDate>
+      <pubDate>Mon, 24 Feb 2020 18:00:00 +0000</pubDate>
       <guid>/talk/2020-rmarkdown/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>RLEL Workshop on DataViz 2.0</title>
       <link>/talk/2020-rlel-dataviz2.0/</link>
-      <pubDate>Mon, 10 Feb 2020 18:00:00 -0500</pubDate>
+      <pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate>
       <guid>/talk/2020-rlel-dataviz2.0/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;
 </description>
     </item>
     
     <item>
       <title>Tidyverse for Genomics</title>
       <link>/talk/2020-plb/</link>
-      <pubDate>Wed, 05 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-plb/</guid>
       <description></description>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>Using Tidyverse for Genomics workshop</title>
       <link>/talk/2019-iitm/</link>
-      <pubDate>Tue, 05 Mar 2019 14:00:00 -0500</pubDate>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 +0000</pubDate>
       <guid>/talk/2019-iitm/</guid>
       <description></description>
     </item>
@@ -65,7 +65,7 @@
     <item>
       <title>Tidyverse workshop</title>
       <link>/talk/2019-plb/</link>
-      <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate>
       <guid>/talk/2019-plb/</guid>
       <description></description>
     </item>
@@ -73,7 +73,7 @@
     <item>
       <title>Join us!</title>
       <link>/joinus/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/joinus/</guid>
       <description>&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
 &lt;h2 id=&#34;undergraduate-student-research&#34;&gt;Undergraduate Student Research&lt;/h2&gt;
@@ -172,9 +172,9 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
       <link>/talk/2018-rlel-tidydata/</link>
-      <pubDate>Mon, 05 Nov 2018 18:00:00 -0500</pubDate>
+      <pubDate>Mon, 05 Nov 2018 18:00:00 +0000</pubDate>
       <guid>/talk/2018-rlel-tidydata/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
 &lt;p&gt;Workshop material: 
 &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
 &lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
@@ -184,9 +184,9 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
       <link>/talk/2018-rlel-dataviz/</link>
-      <pubDate>Mon, 08 Oct 2018 18:00:00 -0400</pubDate>
+      <pubDate>Mon, 08 Oct 2018 18:00:00 +0000</pubDate>
       <guid>/talk/2018-rlel-dataviz/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
 &lt;p&gt;Workshop material: 
 &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
 &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
@@ -194,9 +194,20 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     </item>
     
     <item>
+      <title>R &amp; R-Ladies East Lansing</title>
+      <link>/project/r/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      <guid>/project/r/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;/tags/R&#34;&gt;R&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Resources</title>
       <link>/resources/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       <guid>/resources/</guid>
       <description>&lt;p&gt;My posts with some 
 &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
@@ -273,17 +284,6 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
 &lt;li&gt;
 &lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R &amp; R-Ladies East Lansing</title>
-      <link>/project/r/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <guid>/project/r/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;/tags/R&#34;&gt;R&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

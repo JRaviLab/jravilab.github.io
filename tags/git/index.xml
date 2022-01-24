@@ -5,7 +5,7 @@
     <link>/tags/git/</link>
       <atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <description>git</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>git</title>
@@ -84,7 +84,7 @@
     <item>
       <title>Resources</title>
       <link>/resources/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       <guid>/resources/</guid>
       <description>&lt;p&gt;My posts with some 
 &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;

@@ -5,7 +5,7 @@
     <link>/tags/stress-response/</link>
       <atom:link href="/tags/stress-response/index.xml" rel="self" type="application/rss+xml" />
     <description>stress-response</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>stress-response</title>
@@ -23,7 +23,7 @@
     <item>
       <title>Computational evolutionary approaches to characterize bacterial proteins</title>
       <link>/talk/2020-ismb/</link>
-      <pubDate>Tue, 14 Jul 2020 03:00:00 -0400</pubDate>
+      <pubDate>Tue, 14 Jul 2020 03:00:00 +0000</pubDate>
       <guid>/talk/2020-ismb/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Molecular Evolution and Phylogeny</title>
       <link>/talk/2020-cbp/</link>
-      <pubDate>Thu, 27 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Thu, 27 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-cbp/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Computational approaches for understanding host–pathogen biology</title>
       <link>/talk/2019-cocoh/</link>
-      <pubDate>Tue, 27 Aug 2019 11:00:00 -0400</pubDate>
+      <pubDate>Tue, 27 Aug 2019 11:00:00 +0000</pubDate>
       <guid>/talk/2019-cocoh/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Conservation and modularity in the pan-bacterial psp stress response system</title>
       <link>/talk/2019-grampos/</link>
-      <pubDate>Fri, 26 Jul 2019 03:00:00 -0400</pubDate>
+      <pubDate>Fri, 26 Jul 2019 03:00:00 +0000</pubDate>
       <guid>/talk/2019-grampos/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>An integrative computational evolutionary approach to accelerate the discovery of molecular targets in prevalent under-studied pathogens</title>
       <link>/talk/2019-cbps/</link>
-      <pubDate>Thu, 16 May 2019 09:00:00 -0400</pubDate>
+      <pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate>
       <guid>/talk/2019-cbps/</guid>
       <description></description>
     </item>
@@ -100,7 +100,7 @@
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
       <link>/talk/2018-ismb/</link>
-      <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 +0000</pubDate>
       <guid>/talk/2018-ismb/</guid>
       <description></description>
     </item>

@@ -5,7 +5,7 @@
     <link>/tags/academic/</link>
       <atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Wed, 05 Feb 2020 09:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Wed, 05 Feb 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>academic</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Tidyverse for Genomics</title>
       <link>/talk/2020-plb/</link>
-      <pubDate>Wed, 05 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-plb/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Tidyverse workshop</title>
       <link>/talk/2019-plb/</link>
-      <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate>
       <guid>/talk/2019-plb/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
       <link>/talk/2019-cvm/</link>
-      <pubDate>Thu, 24 Jan 2019 12:00:00 -0500</pubDate>
+      <pubDate>Thu, 24 Jan 2019 12:00:00 +0000</pubDate>
       <guid>/talk/2019-cvm/</guid>
       <description></description>
     </item>
@@ -130,7 +130,7 @@
     <item>
       <title>Resources</title>
       <link>/resources/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       <guid>/resources/</guid>
       <description>&lt;p&gt;My posts with some 
 &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;

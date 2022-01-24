@@ -5,7 +5,7 @@
     <link>/tags/math-modeling/</link>
       <atom:link href="/tags/math-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>math-modeling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>math-modeling</title>
@@ -112,7 +112,7 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
     <item>
       <title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title>
       <link>/talk/2014-imsc/</link>
-      <pubDate>Fri, 31 Oct 2014 13:00:00 -0400</pubDate>
+      <pubDate>Fri, 31 Oct 2014 13:00:00 +0000</pubDate>
       <guid>/talk/2014-imsc/</guid>
       <description></description>
     </item>
@@ -120,7 +120,7 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
     <item>
       <title>Dynamical Systems &amp; Modeling</title>
       <link>/project/dynamical-systems/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
       <guid>/project/dynamical-systems/</guid>
       <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
 &lt;p&gt;During 
@@ -165,7 +165,7 @@ experimental results.&lt;/li&gt;
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
       <link>/talk/2011-cshl/</link>
-      <pubDate>Tue, 29 Mar 2011 18:00:00 -0400</pubDate>
+      <pubDate>Tue, 29 Mar 2011 18:00:00 +0000</pubDate>
       <guid>/talk/2011-cshl/</guid>
       <description></description>
     </item>
@@ -173,7 +173,7 @@ experimental results.&lt;/li&gt;
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
       <link>/talk/2009-grc/</link>
-      <pubDate>Sun, 05 Jul 2009 13:00:00 -0400</pubDate>
+      <pubDate>Sun, 05 Jul 2009 13:00:00 +0000</pubDate>
       <guid>/talk/2009-grc/</guid>
       <description></description>
     </item>
@@ -181,7 +181,7 @@ experimental results.&lt;/li&gt;
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
       <link>/talk/2009-cshl/</link>
-      <pubDate>Tue, 24 Mar 2009 13:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Mar 2009 13:00:00 +0000</pubDate>
       <guid>/talk/2009-cshl/</guid>
       <description></description>
     </item>
@@ -189,7 +189,7 @@ experimental results.&lt;/li&gt;
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
       <link>/talk/2009-vt-symp/</link>
-      <pubDate>Sun, 01 Mar 2009 13:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Mar 2009 13:00:00 +0000</pubDate>
       <guid>/talk/2009-vt-symp/</guid>
       <description></description>
     </item>

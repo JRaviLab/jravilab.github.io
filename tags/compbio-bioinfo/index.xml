@@ -5,7 +5,7 @@
     <link>/tags/compbio-bioinfo/</link>
       <atom:link href="/tags/compbio-bioinfo/index.xml" rel="self" type="application/rss+xml" />
     <description>compbio-bioinfo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>compbio-bioinfo</title>
@@ -105,7 +105,7 @@
     <item>
       <title>Phylogenetics &amp; Comparative Genomics | MMG801</title>
       <link>/talk/2020-mmg/</link>
-      <pubDate>Tue, 08 Sep 2020 09:00:00 -0400</pubDate>
+      <pubDate>Tue, 08 Sep 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-mmg/</guid>
       <description></description>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>Computational evolutionary approaches for understanding pathogen proteins and genomes</title>
       <link>/talk/2020-beacon/</link>
-      <pubDate>Thu, 13 Aug 2020 16:15:00 -0400</pubDate>
+      <pubDate>Thu, 13 Aug 2020 16:15:00 +0000</pubDate>
       <guid>/talk/2020-beacon/</guid>
       <description></description>
     </item>
@@ -121,7 +121,7 @@
     <item>
       <title>Computational evolutionary approaches to characterize bacterial proteins</title>
       <link>/talk/2020-ismb/</link>
-      <pubDate>Tue, 14 Jul 2020 03:00:00 -0400</pubDate>
+      <pubDate>Tue, 14 Jul 2020 03:00:00 +0000</pubDate>
       <guid>/talk/2020-ismb/</guid>
       <description></description>
     </item>
@@ -129,7 +129,7 @@
     <item>
       <title>Molecular Evolution and Phylogeny</title>
       <link>/talk/2020-cbp/</link>
-      <pubDate>Thu, 27 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Thu, 27 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-cbp/</guid>
       <description></description>
     </item>
@@ -137,7 +137,7 @@
     <item>
       <title>Tidyverse for Genomics</title>
       <link>/talk/2020-plb/</link>
-      <pubDate>Wed, 05 Feb 2020 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate>
       <guid>/talk/2020-plb/</guid>
       <description></description>
     </item>
@@ -153,7 +153,7 @@
     <item>
       <title>Computational approaches for understanding host–pathogen biology</title>
       <link>/talk/2019-cocoh/</link>
-      <pubDate>Tue, 27 Aug 2019 11:00:00 -0400</pubDate>
+      <pubDate>Tue, 27 Aug 2019 11:00:00 +0000</pubDate>
       <guid>/talk/2019-cocoh/</guid>
       <description></description>
     </item>
@@ -161,7 +161,7 @@
     <item>
       <title>Conservation and modularity in the pan-bacterial psp stress response system</title>
       <link>/talk/2019-grampos/</link>
-      <pubDate>Fri, 26 Jul 2019 03:00:00 -0400</pubDate>
+      <pubDate>Fri, 26 Jul 2019 03:00:00 +0000</pubDate>
       <guid>/talk/2019-grampos/</guid>
       <description></description>
     </item>
@@ -169,7 +169,7 @@
     <item>
       <title>An integrative computational evolutionary approach to accelerate the discovery of molecular targets in prevalent under-studied pathogens</title>
       <link>/talk/2019-cbps/</link>
-      <pubDate>Thu, 16 May 2019 09:00:00 -0400</pubDate>
+      <pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate>
       <guid>/talk/2019-cbps/</guid>
       <description></description>
     </item>
@@ -177,7 +177,7 @@
     <item>
       <title>Using Tidyverse for Genomics workshop</title>
       <link>/talk/2019-iitm/</link>
-      <pubDate>Tue, 05 Mar 2019 14:00:00 -0500</pubDate>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 +0000</pubDate>
       <guid>/talk/2019-iitm/</guid>
       <description></description>
     </item>
@@ -185,7 +185,7 @@
     <item>
       <title>Tidyverse workshop</title>
       <link>/talk/2019-plb/</link>
-      <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate>
       <guid>/talk/2019-plb/</guid>
       <description></description>
     </item>
@@ -193,7 +193,7 @@
     <item>
       <title>Join us!</title>
       <link>/joinus/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/joinus/</guid>
       <description>&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
 &lt;h2 id=&#34;undergraduate-student-research&#34;&gt;Undergraduate Student Research&lt;/h2&gt;
@@ -321,7 +321,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
       <link>/talk/2018-ismb/</link>
-      <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 +0000</pubDate>
       <guid>/talk/2018-ismb/</guid>
       <description></description>
     </item>
@@ -329,7 +329,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>Resources</title>
       <link>/resources/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       <guid>/resources/</guid>
       <description>&lt;p&gt;My posts with some 
 &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
@@ -420,7 +420,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
       <link>/talk/2017-asm-tb/</link>
-      <pubDate>Mon, 03 Apr 2017 17:00:00 -0400</pubDate>
+      <pubDate>Mon, 03 Apr 2017 17:00:00 +0000</pubDate>
       <guid>/talk/2017-asm-tb/</guid>
       <description></description>
     </item>
@@ -428,7 +428,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
       <link>/talk/2016-asm/</link>
-      <pubDate>Sat, 18 Jun 2016 14:45:00 -0400</pubDate>
+      <pubDate>Sat, 18 Jun 2016 14:45:00 +0000</pubDate>
       <guid>/talk/2016-asm/</guid>
       <description></description>
     </item>
@@ -493,7 +493,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
       <link>/talk/2015-rutgers-symp/</link>
-      <pubDate>Thu, 05 Nov 2015 11:45:00 -0500</pubDate>
+      <pubDate>Thu, 05 Nov 2015 11:45:00 +0000</pubDate>
       <guid>/talk/2015-rutgers-symp/</guid>
       <description></description>
     </item>
@@ -509,7 +509,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
       <link>/publication/jimm/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       <guid>/publication/jimm/</guid>
       <description></description>
     </item>
@@ -517,7 +517,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     <item>
       <title>Dynamical Systems &amp; Modeling</title>
       <link>/project/dynamical-systems/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
       <guid>/project/dynamical-systems/</guid>
       <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
 &lt;p&gt;During 

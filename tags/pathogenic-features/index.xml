@@ -5,7 +5,7 @@
     <link>/tags/pathogenic-features/</link>
       <atom:link href="/tags/pathogenic-features/index.xml" rel="self" type="application/rss+xml" />
     <description>pathogenic-features</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2021</copyright><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>pathogenic-features</title>
@@ -77,7 +77,7 @@
     <item>
       <title>Computational evolutionary approaches for understanding pathogen proteins and genomes</title>
       <link>/talk/2020-beacon/</link>
-      <pubDate>Thu, 13 Aug 2020 16:15:00 -0400</pubDate>
+      <pubDate>Thu, 13 Aug 2020 16:15:00 +0000</pubDate>
       <guid>/talk/2020-beacon/</guid>
       <description></description>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>Computational evolutionary approaches to characterize bacterial proteins</title>
       <link>/talk/2020-ismb/</link>
-      <pubDate>Tue, 14 Jul 2020 03:00:00 -0400</pubDate>
+      <pubDate>Tue, 14 Jul 2020 03:00:00 +0000</pubDate>
       <guid>/talk/2020-ismb/</guid>
       <description></description>
     </item>
