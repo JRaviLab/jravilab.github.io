@@ -5,12 +5,20 @@
     <link>/tags/host-response/</link>
       <atom:link href="/tags/host-response/index.xml" rel="self" type="application/rss+xml" />
     <description>host-response</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>host-response</title>
       <link>/tags/host-response/</link>
     </image>
+    
+    <item>
+      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing.</title>
+      <link>/publication/connectivity_scores/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/connectivity_scores/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>sRNA discovery</title>
@@ -30,14 +38,6 @@
 &lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>
-      <link>/publication/connectivity_scores/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/connectivity_scores/</guid>
-      <description></description>
     </item>
     
     <item>

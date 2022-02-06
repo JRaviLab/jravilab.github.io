@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evan J Waldron | JRavi Lab</title>
+    <link>/authors/evan-j-waldron/</link>
+      <atom:link href="/authors/evan-j-waldron/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evan J Waldron</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>Evan J Waldron</title>
+      <link>/authors/evan-j-waldron/</link>
+    </image>
+    
+    <item>
+      <title>A Broadly Conserved Deoxycytidine Deaminase Protects Bacteria from Phage Infection.</title>
+      <link>/publication/avcd_vcholerae/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/avcd_vcholerae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

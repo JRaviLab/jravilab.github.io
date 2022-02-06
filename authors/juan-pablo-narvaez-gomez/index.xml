@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Pablo Narváez-Gómez | JRavi Lab</title>
+    <link>/authors/juan-pablo-narvaez-gomez/</link>
+      <atom:link href="/authors/juan-pablo-narvaez-gomez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Pablo Narváez-Gómez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>Juan Pablo Narváez-Gómez</title>
+      <link>/authors/juan-pablo-narvaez-gomez/</link>
+    </image>
+    
+    <item>
+      <title>Ten simple rules to host an inclusive conference</title>
+      <link>/publication/10sr_inclusive_conference/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/10sr_inclusive_conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

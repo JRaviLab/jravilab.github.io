@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>staphylococcus | JRavi Lab</title>
+    <link>/tags/staphylococcus/</link>
+      <atom:link href="/tags/staphylococcus/index.xml" rel="self" type="application/rss+xml" />
+    <description>staphylococcus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>staphylococcus</title>
+      <link>/tags/staphylococcus/</link>
+    </image>
+    
+    <item>
+      <title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition.</title>
+      <link>/publication/ggt_saureus/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ggt_saureus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

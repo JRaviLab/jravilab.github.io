@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John J Tyson | JRavi Lab</title>
+    <link>/authors/john-j-tyson/</link>
+      <atom:link href="/authors/john-j-tyson/index.xml" rel="self" type="application/rss+xml" />
+    <description>John J Tyson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>John J Tyson</title>
+      <link>/authors/john-j-tyson/</link>
+    </image>
+    
+    <item>
+      <title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory.</title>
+      <link>/publication/wnt_bistability/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wnt_bistability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

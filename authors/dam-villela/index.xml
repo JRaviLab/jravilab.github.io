@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAM Villela | JRavi Lab</title>
+    <link>/authors/dam-villela/</link>
+      <atom:link href="/authors/dam-villela/index.xml" rel="self" type="application/rss+xml" />
+    <description>DAM Villela</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>DAM Villela</title>
+      <link>/authors/dam-villela/</link>
+    </image>
+    
+    <item>
+      <title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population.</title>
+      <link>/publication/brazil_genomes_mtb/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/brazil_genomes_mtb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

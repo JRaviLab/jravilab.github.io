@@ -5,12 +5,52 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Ten simple rules to host an inclusive conference</title>
+      <link>/publication/10sr_inclusive_conference/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/10sr_inclusive_conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory.</title>
+      <link>/publication/wnt_bistability/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wnt_bistability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DciA helicase operators exhibit diversity across bacterial phyla.</title>
+      <link>/publication/dcia_bacteria/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/dcia_bacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title>
+      <link>/publication/inlp_listeria/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/inlp_listeria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing.</title>
+      <link>/publication/connectivity_scores/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/connectivity_scores/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>S-layers: the proteinaceous multifunctional armours of Gram-positive pathogens.</title>
@@ -22,9 +62,17 @@
     
     <item>
       <title>A Broadly Conserved Deoxycytidine Deaminase Protects Bacteria from Phage Infection.</title>
-      <link>/publication/dcdv_vcholerae/</link>
+      <link>/publication/avcd_vcholerae/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/dcdv_vcholerae/</guid>
+      <guid>/publication/avcd_vcholerae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition.</title>
+      <link>/publication/ggt_saureus/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ggt_saureus/</guid>
       <description></description>
     </item>
     
@@ -41,14 +89,6 @@
       <link>/publication/psp_evolution/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/psp_evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>
-      <link>/publication/connectivity_scores/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/connectivity_scores/</guid>
       <description></description>
     </item>
     

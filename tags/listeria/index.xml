@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>listeria | JRavi Lab</title>
+    <link>/tags/listeria/</link>
+      <atom:link href="/tags/listeria/index.xml" rel="self" type="application/rss+xml" />
+    <description>listeria</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>listeria</title>
+      <link>/tags/listeria/</link>
+    </image>
+    
+    <item>
+      <title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title>
+      <link>/publication/inlp_listeria/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/inlp_listeria/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

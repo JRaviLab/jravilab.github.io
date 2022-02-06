@@ -5,12 +5,20 @@
     <link>/tags/dynamical-systems/</link>
       <atom:link href="/tags/dynamical-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>dynamical-systems</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Thu, 01 Dec 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>dynamical-systems</title>
       <link>/tags/dynamical-systems/</link>
     </image>
+    
+    <item>
+      <title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory.</title>
+      <link>/publication/wnt_bistability/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wnt_bistability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamical Systems &amp; Modeling</title>

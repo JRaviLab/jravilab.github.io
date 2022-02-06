@@ -5,12 +5,20 @@
     <link>/categories/resources/</link>
       <atom:link href="/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 24 Feb 2020 18:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Resources</title>
       <link>/categories/resources/</link>
     </image>
+    
+    <item>
+      <title>Ten simple rules to host an inclusive conference</title>
+      <link>/publication/10sr_inclusive_conference/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/10sr_inclusive_conference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RLEL Workshop on RMarkdown &amp; Reproducible Research</title>
