@@ -5,12 +5,36 @@
     <link>/tags/software-tools/</link>
       <atom:link href="/tags/software-tools/index.xml" rel="self" type="application/rss+xml" />
     <description>software-tools</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Tue, 08 Sep 2020 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 22 Nov 2021 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>software-tools</title>
       <link>/tags/software-tools/</link>
     </image>
+    
+    <item>
+      <title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title>
+      <link>/talk/2021-cu/</link>
+      <pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-cu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/talk/2021-ismb/</link>
+      <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MolEvolvR: a web-app for molecular evolution and phylogeny</title>
+      <link>/talk/2021-beacon/</link>
+      <pubDate>Fri, 26 Mar 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-beacon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phylogenetics &amp; Comparative Genomics | MMG801</title>

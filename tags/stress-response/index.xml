@@ -5,12 +5,46 @@
     <link>/tags/stress-response/</link>
       <atom:link href="/tags/stress-response/index.xml" rel="self" type="application/rss+xml" />
     <description>stress-response</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 22 Nov 2021 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>stress-response</title>
       <link>/tags/stress-response/</link>
     </image>
+    
+    <item>
+      <title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title>
+      <link>/talk/2021-cu/</link>
+      <pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-cu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/talk/2021-ismb/</link>
+      <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MolEvolvR: Web-app and R-package for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/talk/2021-user/</link>
+      <pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using a computational molecular evolution and phylogeny to study pathogenic proteins</title>
+      <link>/talk/2021-glbio/</link>
+      <pubDate>Thu, 13 May 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-glbio/</guid>
+      <description>&lt;p&gt;Related: Samuel Z Chen GLBio poster [video])(
+&lt;a href=&#34;https://www.youtube.com/watch?v=6rj3eTWxXkg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=6rj3eTWxXkg&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players.</title>
@@ -74,25 +108,21 @@
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/project/stress-response/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;I started working on Bacterial Stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
+&lt;p&gt;I started working on bacterial stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
 &lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
 &lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Chen (Alumni)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;michigan-state-university&#34;&gt;Michigan State University&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Neal Hammer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;ncbi-nih&#34;&gt;NCBI, NIH&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;L Aravind&lt;/li&gt;
-&lt;li&gt;Vivek Anantharaman&lt;/li&gt;
+&lt;li&gt;Marila Gennaro (Rutgers)&lt;/li&gt;
+&lt;li&gt;L Aravind (NCBI, NIH)&lt;/li&gt;
+&lt;li&gt;Vivek Anantharaman (NCBI, NIH)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

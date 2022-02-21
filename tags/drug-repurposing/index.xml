@@ -5,12 +5,20 @@
     <link>/tags/drug-repurposing/</link>
       <atom:link href="/tags/drug-repurposing/index.xml" rel="self" type="application/rss+xml" />
     <description>drug-repurposing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 22 Nov 2021 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>drug-repurposing</title>
       <link>/tags/drug-repurposing/</link>
     </image>
+    
+    <item>
+      <title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title>
+      <link>/talk/2021-cu/</link>
+      <pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-cu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reconciling Multiple Connectivity Scores for Drug Repurposing.</title>
@@ -31,7 +39,10 @@
 &lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
-&lt;li&gt;Phoebe Tuyishime (MSU, Rwanda)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;alumni&#34;&gt;Alumni&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Phoebe Tuyishime (MSU, UBC)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
 &lt;ul&gt;

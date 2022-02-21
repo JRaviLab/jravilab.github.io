@@ -20,5 +20,42 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Computational evolutionary approaches</title>
+      <link>/project/pathogenic-features/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/pathogenic-features/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;h4 id=&#34;current&#34;&gt;Current&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Joe Burke&lt;/li&gt;
+&lt;li&gt;Elliot Majlessi&lt;/li&gt;
+&lt;li&gt;Vignesh Sridhar&lt;/li&gt;
+&lt;li&gt;Ethan Wolfe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;alumni&#34;&gt;Alumni&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Chen&lt;/li&gt;
+&lt;li&gt;Lo Sosinski&lt;/li&gt;
+&lt;li&gt;Karn Jongnarangsin&lt;/li&gt;
+&lt;li&gt;Lauryn Brooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Neal Hammer, MSU (Staphylococci)&lt;/li&gt;
+&lt;li&gt;Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li&gt;
+&lt;li&gt;Antonella Fioravanti, VUB Brussels (&lt;em&gt;B. anthracis&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Chris Waters, MSU (Vibrio)&lt;/li&gt;
+&lt;li&gt;Jonathan Hardy, MSU (Listeria)&lt;/li&gt;
+&lt;li&gt;Stephanie Shames, KSU (Legionella)&lt;/li&gt;
+&lt;li&gt;Priya Shah, UCD (Flaviviruses)&lt;/li&gt;
+&lt;li&gt;Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

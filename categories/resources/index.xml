@@ -5,7 +5,7 @@
     <link>/categories/resources/</link>
       <atom:link href="/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Thu, 17 Feb 2022 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Resources</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
+      <title>How I teach Life Scientists to Build Inclusive Communities</title>
+      <link>/talk/2022-lst/</link>
+      <pubDate>Thu, 17 Feb 2022 20:00:00 +0000</pubDate>
+      <guid>/talk/2022-lst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ten simple rules to host an inclusive conference</title>
       <link>/publication/10sr_inclusive_conference/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/publication/10sr_inclusive_conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies to build a strong diverse AsiaR community</title>
+      <link>/talk/2021-bioc_asia/</link>
+      <pubDate>Wed, 03 Nov 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-bioc_asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incubator: Stop reinventing the wheel: R package(s) for conference and abstract management</title>
+      <link>/talk/2021-user_rconference/</link>
+      <pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-user_rconference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incubator: Strategies to build a strong AsiaR community</title>
+      <link>/talk/2021-user_asiar/</link>
+      <pubDate>Thu, 08 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-user_asiar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making cool publication quality tables w/ R</title>
+      <link>/talk/2021-rlpune/</link>
+      <pubDate>Sun, 09 May 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-rlpune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RLadies&#43; featuring useR! meetup</title>
+      <link>/talk/2021-rladies_user/</link>
+      <pubDate>Wed, 28 Apr 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-rladies_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Tidyverse for Genomics</title>
+      <link>/talk/2021-rltunis_rlbgl/</link>
+      <pubDate>Sat, 24 Apr 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-rltunis_rlbgl/</guid>
       <description></description>
     </item>
     

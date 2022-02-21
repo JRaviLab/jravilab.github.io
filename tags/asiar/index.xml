@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AsiaR | JRavi Lab</title>
+    <link>/tags/asiar/</link>
+      <atom:link href="/tags/asiar/index.xml" rel="self" type="application/rss+xml" />
+    <description>AsiaR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Wed, 03 Nov 2021 20:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>AsiaR</title>
+      <link>/tags/asiar/</link>
+    </image>
+    
+    <item>
+      <title>Strategies to build a strong diverse AsiaR community</title>
+      <link>/talk/2021-bioc_asia/</link>
+      <pubDate>Wed, 03 Nov 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-bioc_asia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

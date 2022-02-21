@@ -21,23 +21,30 @@
 &lt;p&gt;We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;h4 id=&#34;molecular-evolution&#34;&gt;Molecular Evolution&lt;/h4&gt;
+&lt;h4 id=&#34;current&#34;&gt;Current&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Joe Burke&lt;/li&gt;
+&lt;li&gt;Elliot Majlessi&lt;/li&gt;
+&lt;li&gt;Vignesh Sridhar&lt;/li&gt;
+&lt;li&gt;Ethan Wolfe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;alumni&#34;&gt;Alumni&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Samuel Chen&lt;/li&gt;
-&lt;li&gt;Lauren Sosinski&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;comparative-genomics&#34;&gt;Comparative Genomics&lt;/h4&gt;
-&lt;ul&gt;
+&lt;li&gt;Lo Sosinski&lt;/li&gt;
 &lt;li&gt;Karn Jongnarangsin&lt;/li&gt;
 &lt;li&gt;Lauryn Brooks&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Neal Hammer (Staphylococci)&lt;/li&gt;
-&lt;li&gt;Srinand Sreevatsan, Robert Abramovitch, Andrew Olive (Mycobacteria)&lt;/li&gt;
-&lt;li&gt;Antonella Fioravanti (&lt;em&gt;B. anthracis&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Chris Waters (Vibrio)&lt;/li&gt;
-&lt;li&gt;Sean Crosson (Brucella, Caulobacter)&lt;/li&gt;
+&lt;li&gt;Neal Hammer, MSU (Staphylococci)&lt;/li&gt;
+&lt;li&gt;Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li&gt;
+&lt;li&gt;Antonella Fioravanti, VUB Brussels (&lt;em&gt;B. anthracis&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Chris Waters, MSU (Vibrio)&lt;/li&gt;
+&lt;li&gt;Jonathan Hardy, MSU (Listeria)&lt;/li&gt;
+&lt;li&gt;Stephanie Shames, KSU (Legionella)&lt;/li&gt;
+&lt;li&gt;Priya Shah, UCD (Flaviviruses)&lt;/li&gt;
+&lt;li&gt;Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -68,25 +75,21 @@
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/project/stress-response/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;I started working on Bacterial Stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
+&lt;p&gt;I started working on bacterial stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
 &lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
 &lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Chen (Alumni)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;michigan-state-university&#34;&gt;Michigan State University&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Neal Hammer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;ncbi-nih&#34;&gt;NCBI, NIH&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;L Aravind&lt;/li&gt;
-&lt;li&gt;Vivek Anantharaman&lt;/li&gt;
+&lt;li&gt;Marila Gennaro (Rutgers)&lt;/li&gt;
+&lt;li&gt;L Aravind (NCBI, NIH)&lt;/li&gt;
+&lt;li&gt;Vivek Anantharaman (NCBI, NIH)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -113,7 +116,10 @@
 &lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
-&lt;li&gt;Phoebe Tuyishime (MSU, Rwanda)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;alumni&#34;&gt;Alumni&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Phoebe Tuyishime (MSU, UBC)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
 &lt;ul&gt;
@@ -182,16 +188,24 @@ experimental results.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;related-publications&#34;&gt;Related publications&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Ravi J, Tyson JJ. Modeling the START transition in the budding yeast cell cycle. &lt;em&gt;Submitted&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Thorne C, Ravi J, Tyson JJ, Lee E. Modeling bistability in the canonical Wnt signaling pathway. &lt;em&gt;Submitted&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Ravi J&lt;sup&gt;#&lt;/sup&gt;, Samart K, Zwolak JW, Tyson JJ&lt;sup&gt;#&lt;/sup&gt;. Modeling the START transition in the budding yeast cell cycle. 
+&lt;a href=&#34;http://sbmlsimulator.org/simulator/by-start&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model&lt;/a&gt; &lt;em&gt;Submitted&lt;/em&gt;. &lt;sup&gt;#&lt;/sup&gt;Co-corresponding authors.&lt;/li&gt;
+&lt;li&gt;Cantoria MJ&lt;sup&gt;*&lt;/sup&gt;, Alizadeh E&lt;sup&gt;*&lt;/sup&gt;, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup&gt;#&lt;/sup&gt;, Lee E&lt;sup&gt;#&lt;/sup&gt;, Thorne CA&lt;sup&gt;#&lt;/sup&gt;. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022 
+&lt;a href=&#34;https://doi.org/10.1101/2022.01.28.478206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bioRxiv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kewalin Samart&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;h4 id=&#34;virginia-tech&#34;&gt;Virginia Tech&lt;/h4&gt;
-&lt;p&gt;John Tyson&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;John Tyson&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id=&#34;vanderbilt-university&#34;&gt;Vanderbilt University&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Ethan Lee&lt;/li&gt;
-&lt;li&gt;Curtis A. Thorne (now at University of Arizona)&lt;/li&gt;
+&lt;li&gt;Curtis Thorne (now at University of Arizona)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

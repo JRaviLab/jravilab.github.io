@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference | JRavi Lab</title>
+    <link>/tags/conference/</link>
+      <atom:link href="/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>conference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 09 Jul 2021 20:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>conference</title>
+      <link>/tags/conference/</link>
+    </image>
+    
+    <item>
+      <title>Incubator: Stop reinventing the wheel: R package(s) for conference and abstract management</title>
+      <link>/talk/2021-user_rconference/</link>
+      <pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-user_rconference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

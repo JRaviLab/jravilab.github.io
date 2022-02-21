@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beatriz Milz | JRavi Lab</title>
+    <link>/authors/beatriz-milz/</link>
+      <atom:link href="/authors/beatriz-milz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beatriz Milz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Wed, 28 Apr 2021 20:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>Beatriz Milz</title>
+      <link>/authors/beatriz-milz/</link>
+    </image>
+    
+    <item>
+      <title>RLadies&#43; featuring useR! meetup</title>
+      <link>/talk/2021-rladies_user/</link>
+      <pubDate>Wed, 28 Apr 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-rladies_user/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

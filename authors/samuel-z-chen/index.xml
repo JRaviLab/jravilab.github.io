@@ -5,12 +5,20 @@
     <link>/authors/samuel-z-chen/</link>
       <atom:link href="/authors/samuel-z-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>JRavi Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 26 Mar 2021 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>JRavi Lab</title>
       <link>/authors/samuel-z-chen/</link>
     </image>
+    
+    <item>
+      <title>MolEvolvR: a web-app for molecular evolution and phylogeny</title>
+      <link>/talk/2021-beacon/</link>
+      <pubDate>Fri, 26 Mar 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-beacon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players.</title>

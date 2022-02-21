@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/community/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2022-lst/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/inclusion/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/janani-ravi/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/r/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/resources/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/admin/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,13 +59,7 @@
     <loc>/authors/anicet-ebou/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/batool-almazrouq/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/diversity/</loc>
@@ -44,13 +77,7 @@
     <loc>/authors/heather-turner/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/inclusion/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/joselyn-chavez/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/juan-pablo-narvaez-gomez/</loc>
@@ -62,7 +89,7 @@
     <loc>/authors/marcela-alfaro-cordoba/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/matt-bannert/</loc>
+    <loc>/authors/matthias-bannert/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/natalia-soledad-morandeira/</loc>
@@ -74,13 +101,7 @@
     <loc>/publication/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/r/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/r-ladies/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/resources/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/rita-giordano/</loc>
@@ -96,9 +117,6 @@
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/silvia-canelon/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/10sr_inclusive_conference/</loc>
@@ -194,6 +212,27 @@
     <loc>/publication/inlp_listeria/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/comparative-genomics/</loc>
+    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-cu/</loc>
+    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/disease-signature/</loc>
+    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/drug-repurposing/</loc>
+    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/host-response/</loc>
+    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/software-tools/</loc>
+    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/stress-response/</loc>
+    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/kewalin-samart/</loc>
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -206,17 +245,62 @@
     <loc>/authors/arjun-krishnan/</loc>
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/disease-signature/</loc>
-    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/drug-repurposing/</loc>
-    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/host-response/</loc>
-    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/connectivity_scores/</loc>
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/asiar/</loc>
+    <lastmod>2021-11-03T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-bioc_asia/</loc>
+    <lastmod>2021-11-03T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-ismb/</loc>
+    <lastmod>2021-07-27T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/conference/</loc>
+    <lastmod>2021-07-09T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-user_rconference/</loc>
+    <lastmod>2021-07-09T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-user/</loc>
+    <lastmod>2021-07-09T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-user_asiar/</loc>
+    <lastmod>2021-07-08T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-glbio/</loc>
+    <lastmod>2021-05-13T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-rlpune/</loc>
+    <lastmod>2021-05-09T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/beatriz-milz/</loc>
+    <lastmod>2021-04-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/haifa-ben-messaoud/</loc>
+    <lastmod>2021-04-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jonelle-villar/</loc>
+    <lastmod>2021-04-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-rladies_user/</loc>
+    <lastmod>2021-04-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/user/</loc>
+    <lastmod>2021-04-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/zulemma-bazurto-blacio/</loc>
+    <lastmod>2021-04-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/genomics/</loc>
+    <lastmod>2021-04-24T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tidyverse/</loc>
+    <lastmod>2021-04-24T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-rltunis_rlbgl/</loc>
+    <lastmod>2021-04-24T20:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/antonella-fioravanti/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
@@ -320,6 +404,12 @@
     <loc>/tags/vibrio/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/samuel-z-chen/</loc>
+    <lastmod>2021-03-26T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2021-beacon/</loc>
+    <lastmod>2021-03-26T20:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/dam-villela/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -365,9 +455,6 @@
     <loc>/tags/brucella/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/comparative-genomics/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/pathogenic-features/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -398,9 +485,6 @@
     <loc>/tags/tree-of-life/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/samuel-z-chen/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/l-aravind/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -413,22 +497,10 @@
     <loc>/authors/pratik-datta/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/stress-response/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/vivek-anantharaman/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/janani-ravi/</loc>
-    <lastmod>2020-09-08T09:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/2020-mmg/</loc>
-    <lastmod>2020-09-08T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2020-09-08T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/software-tools/</loc>
     <lastmod>2020-09-08T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/teaching/</loc>
@@ -446,13 +518,7 @@
     <loc>/authors/camille-archer/</loc>
     <lastmod>2020-02-24T18:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/data-science/</loc>
-    <lastmod>2020-02-24T18:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/julian-camillo-bello-r/</loc>
-    <lastmod>2020-02-24T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
     <lastmod>2020-02-24T18:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/rachel-kerwin/</loc>
