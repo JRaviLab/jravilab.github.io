@@ -2,11 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/joseph-t-burke/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/lo-m-sosinski/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/samuel-z-chen/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/compbio-bioinfo/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/john-b-johnston/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/molecular-evolution/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/molevolvr_webapp/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pathogenic-features/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/phylogeny/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/r/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/research/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tree-of-life/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/webapp/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/community/</loc>
     <lastmod>2022-02-17T20:00:00+00:00</lastmod>
@@ -23,29 +83,11 @@
     <loc>/authors/janani-ravi/</loc>
     <lastmod>2022-02-17T20:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/r/</loc>
-    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/</loc>
     <lastmod>2022-02-17T20:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/resources/</loc>
     <lastmod>2022-02-17T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-02-17T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/accesibility/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
@@ -95,12 +137,6 @@
     <loc>/authors/natalia-soledad-morandeira/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/r-ladies/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -129,9 +165,6 @@
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/arminja-n-kettenbach/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/compbio-bioinfo/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/curtis-a-thorne/</loc>
@@ -164,14 +197,8 @@
     <loc>/authors/nawat-bunnag/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/research/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/yashi-ahmed/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/joseph-t-burke/</loc>
-    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/bacteria/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
@@ -186,15 +213,6 @@
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/helicase-loader/</loc>
-    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/molecular-evolution/</loc>
-    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/pathogenic-features/</loc>
-    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/phylogeny/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/internalins/</loc>
@@ -311,9 +329,6 @@
     <loc>/publication/slps_grampos/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/lo-m-sosinski/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/avcd_vcholerae/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -404,9 +419,6 @@
     <loc>/tags/vibrio/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/samuel-z-chen/</loc>
-    <lastmod>2021-03-26T20:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/2021-beacon/</loc>
     <lastmod>2021-03-26T20:00:00+00:00</lastmod>
   </url><url>
@@ -480,9 +492,6 @@
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/staphylococci/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tree-of-life/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/l-aravind/</loc>

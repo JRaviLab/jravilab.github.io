@@ -5,12 +5,21 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>3</title>
       <link>/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/publication/molevolvr_webapp/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/molevolvr_webapp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ten simple rules to host an inclusive conference</title>

@@ -5,12 +5,21 @@
     <link>/authors/joseph-t-burke/</link>
       <atom:link href="/authors/joseph-t-burke/index.xml" rel="self" type="application/rss+xml" />
     <description>JRaviLab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>JRaviLab</title>
       <link>/authors/joseph-t-burke/</link>
     </image>
+    
+    <item>
+      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/publication/molevolvr_webapp/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/molevolvr_webapp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DciA helicase operators exhibit diversity across bacterial phyla.</title>

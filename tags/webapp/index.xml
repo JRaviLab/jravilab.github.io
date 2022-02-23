@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webapp | JRaviLab</title>
+    <link>/tags/webapp/</link>
+      <atom:link href="/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
+    <description>webapp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/jananiravi-grp-webpage-logo.png</url>
+      <title>webapp</title>
+      <link>/tags/webapp/</link>
+    </image>
+    
+    <item>
+      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/publication/molevolvr_webapp/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/molevolvr_webapp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players.</title>
+      <link>/publication/psp_evolution/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/psp_evolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

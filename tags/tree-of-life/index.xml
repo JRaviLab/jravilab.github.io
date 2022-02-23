@@ -5,12 +5,21 @@
     <link>/tags/tree-of-life/</link>
       <atom:link href="/tags/tree-of-life/index.xml" rel="self" type="application/rss+xml" />
     <description>tree-of-life</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>tree-of-life</title>
       <link>/tags/tree-of-life/</link>
     </image>
+    
+    <item>
+      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/publication/molevolvr_webapp/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/molevolvr_webapp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Computational evolutionary approaches</title>
