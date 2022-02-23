@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>git | JRavi Lab</title>
+    <title>git | JRaviLab</title>
     <link>/tags/git/</link>
       <atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <description>git</description>

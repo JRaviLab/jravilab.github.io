@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Books-Blogs | JRavi Lab</title>
+    <title>Books-Blogs | JRaviLab</title>
     <link>/categories/books-blogs/</link>
       <atom:link href="/categories/books-blogs/index.xml" rel="self" type="application/rss+xml" />
     <description>Books-Blogs</description>

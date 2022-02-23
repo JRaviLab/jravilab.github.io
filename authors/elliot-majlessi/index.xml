@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JRavi Lab</title>
+    <title>JRaviLab</title>
     <link>/authors/elliot-majlessi/</link>
       <atom:link href="/authors/elliot-majlessi/index.xml" rel="self" type="application/rss+xml" />
-    <description>JRavi Lab</description>
+    <description>JRaviLab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>JRavi Lab</title>
+      <title>JRaviLab</title>
       <link>/authors/elliot-majlessi/</link>
     </image>
     
