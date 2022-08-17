@@ -5,7 +5,7 @@
     <link>/tags/bacteria/</link>
       <atom:link href="/tags/bacteria/index.xml" rel="self" type="application/rss+xml" />
     <description>bacteria</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>bacteria</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>DciA helicase operators exhibit diversity across bacterial phyla</title>
+      <title>DciA Helicase Operators Exhibit Diversity across Bacterial Phyla</title>
       <link>/publication/dcia_bacteria/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/publication/dcia_bacteria/</guid>
-      <description></description>
+      <description>&lt;p&gt;HCB and JTB are co-primary authors. JR and CLS are co-corresponding authors.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

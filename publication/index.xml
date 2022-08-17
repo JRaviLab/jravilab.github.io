@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Publications</title>
@@ -13,20 +13,48 @@
     </image>
     
     <item>
-      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/publication/molevolvr_webapp/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/molevolvr_webapp/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
+      <title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title>
+      <link>/publication/avcd_vcholerae/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/avcd_vcholerae/</guid>
+      <description>&lt;p&gt;BYH and GBS are co-primary authors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DciA Helicase Operators Exhibit Diversity across Bacterial Phyla</title>
+      <link>/publication/dcia_bacteria/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/dcia_bacteria/</guid>
+      <description>&lt;p&gt;HCB and JTB are co-primary authors. JR and CLS are co-corresponding authors.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ten simple rules to host an inclusive conference</title>
       <link>/publication/10sr_inclusive_conference/</link>
-      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/publication/10sr_inclusive_conference/</guid>
-      <description></description>
+      <description>&lt;p&gt;RJ and AST are co-primary authors. RJ and JR are co-corresponding authors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title>
+      <link>/publication/inlp_listeria/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/inlp_listeria/</guid>
+      <description>&lt;p&gt;KNC and JTB are co-primary authors. JR and JWH are co-corresponding authors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/publication/molevolvr_webapp/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/molevolvr_webapp/</guid>
+      <description>&lt;p&gt;JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,27 +66,12 @@
     </item>
     
     <item>
-      <title>DciA helicase operators exhibit diversity across bacterial phyla</title>
-      <link>/publication/dcia_bacteria/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/dcia_bacteria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title>
-      <link>/publication/inlp_listeria/</link>
-      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/inlp_listeria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reconciling Multiple Connectivity Scores for Drug Repurposing.</title>
       <link>/publication/connectivity_scores/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/publication/connectivity_scores/</guid>
-      <description></description>
+      <description>&lt;p&gt;KS and PT are co-primary authors. AK and JR are co-corresponding authors.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -66,14 +79,6 @@
       <link>/publication/slps_grampos/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/publication/slps_grampos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Broadly Conserved Deoxycytidine Deaminase Protects Bacteria from Phage Infection</title>
-      <link>/publication/avcd_vcholerae/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/avcd_vcholerae/</guid>
       <description></description>
     </item>
     

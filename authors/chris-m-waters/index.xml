@@ -5,7 +5,7 @@
     <link>/authors/chris-m-waters/</link>
       <atom:link href="/authors/chris-m-waters/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris M Waters</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Chris M Waters</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>A Broadly Conserved Deoxycytidine Deaminase Protects Bacteria from Phage Infection</title>
+      <title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title>
       <link>/publication/avcd_vcholerae/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/publication/avcd_vcholerae/</guid>
-      <description></description>
+      <description>&lt;p&gt;BYH and GBS are co-primary authors.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

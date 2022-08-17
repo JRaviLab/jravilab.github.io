@@ -5,7 +5,7 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>2</title>
@@ -13,11 +13,48 @@
     </image>
     
     <item>
+      <title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title>
+      <link>/publication/avcd_vcholerae/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/avcd_vcholerae/</guid>
+      <description>&lt;p&gt;BYH and GBS are co-primary authors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DciA Helicase Operators Exhibit Diversity across Bacterial Phyla</title>
+      <link>/publication/dcia_bacteria/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/dcia_bacteria/</guid>
+      <description>&lt;p&gt;HCB and JTB are co-primary authors. JR and CLS are co-corresponding authors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ten simple rules to host an inclusive conference</title>
+      <link>/publication/10sr_inclusive_conference/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/10sr_inclusive_conference/</guid>
+      <description>&lt;p&gt;RJ and AST are co-primary authors. RJ and JR are co-corresponding authors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title>
+      <link>/publication/inlp_listeria/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/inlp_listeria/</guid>
+      <description>&lt;p&gt;KNC and JTB are co-primary authors. JR and JWH are co-corresponding authors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reconciling Multiple Connectivity Scores for Drug Repurposing.</title>
       <link>/publication/connectivity_scores/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/publication/connectivity_scores/</guid>
-      <description></description>
+      <description>&lt;p&gt;KS and PT are co-primary authors. AK and JR are co-corresponding authors.&lt;/p&gt;
+</description>
     </item>
     
     <item>
