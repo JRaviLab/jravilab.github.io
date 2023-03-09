@@ -5,12 +5,20 @@
     <link>/tags/genomics/</link>
       <atom:link href="/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
     <description>genomics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Sat, 24 Apr 2021 20:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Sun, 24 Apr 2022 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>genomics</title>
       <link>/tags/genomics/</link>
     </image>
+    
+    <item>
+      <title>Using Tidyverse for Genomics</title>
+      <link>/talk/2022-iscb_academy-edit/</link>
+      <pubDate>Sun, 24 Apr 2022 20:00:00 +0000</pubDate>
+      <guid>/talk/2022-iscb_academy-edit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Tidyverse for Genomics</title>

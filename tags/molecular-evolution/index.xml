@@ -5,7 +5,7 @@
     <link>/tags/molecular-evolution/</link>
       <atom:link href="/tags/molecular-evolution/index.xml" rel="self" type="application/rss+xml" />
     <description>molecular-evolution</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>molecular-evolution</title>
@@ -61,6 +61,14 @@
       <link>/talk/2021-ismb/</link>
       <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
       <guid>/talk/2021-ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title>
+      <link>/talk/2022-ismb-edit/</link>
+      <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2022-ismb-edit/</guid>
       <description></description>
     </item>
     

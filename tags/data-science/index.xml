@@ -5,12 +5,20 @@
     <link>/tags/data-science/</link>
       <atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>data-science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2022</copyright><lastBuildDate>Thu, 17 Feb 2022 20:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Sun, 24 Apr 2022 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>data-science</title>
       <link>/tags/data-science/</link>
     </image>
+    
+    <item>
+      <title>Using Tidyverse for Genomics</title>
+      <link>/talk/2022-iscb_academy-edit/</link>
+      <pubDate>Sun, 24 Apr 2022 20:00:00 +0000</pubDate>
+      <guid>/talk/2022-iscb_academy-edit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How I teach Life Scientists to Build Inclusive Communities</title>
