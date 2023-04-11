@@ -5,10 +5,73 @@
     <loc>/news/</loc>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/andrew-l-paek/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/arminja-n-kettenbach/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/compbio-bioinfo/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/curtis-a-thorne/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dynamical-systems/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/elaheh-alizadeh/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ethan-lee/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/wnt_bistability/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/john-j-tyson/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/konstantin-doubrovinski/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mary-j-cantoria/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/math-modeling/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nawat-bunnag/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/research/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yashi-ahmed/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/abhiruchi-kant/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
@@ -16,16 +79,10 @@
     <loc>/authors/alex-j-wessel/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/benjamin-j-ridenhour/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/brian-y-hsueh/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/chris-m-waters/</loc>
@@ -35,9 +92,6 @@
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/clinton-a-elg/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/compbio-bioinfo/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/eva-m-top/</loc>
@@ -50,9 +104,6 @@
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/john-a-dover/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/kristin-d-parent/</loc>
@@ -74,18 +125,6 @@
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/phylogeny/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/research/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/vibrio/</loc>
@@ -264,45 +303,6 @@
   </url><url>
     <loc>/talk/2022-lst/</loc>
     <lastmod>2022-02-17T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/andrew-l-paek/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/arminja-n-kettenbach/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/curtis-a-thorne/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dynamical-systems/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/elaheh-alizadeh/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/ethan-lee/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/wnt_bistability/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/john-j-tyson/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/konstantin-doubrovinski/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/mary-j-cantoria/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/math-modeling/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/nawat-bunnag/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/yashi-ahmed/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/2021-cu/</loc>
     <lastmod>2021-11-22T20:00:00+00:00</lastmod>

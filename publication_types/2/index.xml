@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory</title>
+      <link>/publication/wnt_bistability/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/wnt_bistability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title>
@@ -46,14 +54,6 @@
       <guid>/publication/inlp_listeria/</guid>
       <description>&lt;p&gt;KNC and JTB are co-primary authors. JR and JWH are co-corresponding authors.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory</title>
-      <link>/publication/wnt_bistability/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/wnt_bistability/</guid>
-      <description></description>
     </item>
     
     <item>
