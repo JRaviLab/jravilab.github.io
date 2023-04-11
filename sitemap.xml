@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/news/</loc>
+  </url><url>
     <loc>/authors/admin/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -203,19 +205,31 @@
     <loc>/publication/inlp_listeria/</loc>
     <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/amr/</loc>
+    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/comparative-genomics/</loc>
+    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2022-ismb/</loc>
+    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/janani-ravi/</loc>
+    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/r/</loc>
+    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/software-tools/</loc>
+    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/data-science/</loc>
     <lastmod>2022-05-28T20:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/genomics/</loc>
-    <lastmod>2022-05-28T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/janani-ravi/</loc>
-    <lastmod>2022-05-28T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2022-05-28T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
     <lastmod>2022-05-28T20:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/tidyverse/</loc>
@@ -290,9 +304,6 @@
     <loc>/authors/yashi-ahmed/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/comparative-genomics/</loc>
-    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/2021-cu/</loc>
     <lastmod>2021-11-22T20:00:00+00:00</lastmod>
   </url><url>
@@ -303,9 +314,6 @@
     <lastmod>2021-11-22T20:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/host-response/</loc>
-    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/software-tools/</loc>
     <lastmod>2021-11-22T20:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/stress-response/</loc>
@@ -328,12 +336,6 @@
   </url><url>
     <loc>/talk/2021-bioc_asia/</loc>
     <lastmod>2021-11-03T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/amr/</loc>
-    <lastmod>2021-07-27T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/2022-ismb/</loc>
-    <lastmod>2021-07-27T20:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/2021-ismb/</loc>
     <lastmod>2021-07-27T20:00:00+00:00</lastmod>

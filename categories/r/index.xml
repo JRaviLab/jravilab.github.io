@@ -5,12 +5,20 @@
     <link>/categories/r/</link>
       <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Sat, 28 May 2022 20:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Thu, 14 Jul 2022 13:45:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>R</title>
       <link>/categories/r/</link>
     </image>
+    
+    <item>
+      <title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title>
+      <link>/talk/2022-ismb/</link>
+      <pubDate>Thu, 14 Jul 2022 13:45:00 +0000</pubDate>
+      <guid>/talk/2022-ismb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Tidyverse for Genomics</title>
@@ -42,14 +50,6 @@
       <link>/talk/2021-bioc_asia/</link>
       <pubDate>Wed, 03 Nov 2021 20:00:00 +0000</pubDate>
       <guid>/talk/2021-bioc_asia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title>
-      <link>/talk/2022-ismb/</link>
-      <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2022-ismb/</guid>
       <description></description>
     </item>
     

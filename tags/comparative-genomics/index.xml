@@ -5,7 +5,7 @@
     <link>/tags/comparative-genomics/</link>
       <atom:link href="/tags/comparative-genomics/index.xml" rel="self" type="application/rss+xml" />
     <description>comparative-genomics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Mon, 22 Nov 2021 20:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Thu, 14 Jul 2022 13:45:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>comparative-genomics</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title>
-      <link>/talk/2021-cu/</link>
-      <pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-cu/</guid>
+      <title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title>
+      <link>/talk/2022-ismb/</link>
+      <pubDate>Thu, 14 Jul 2022 13:45:00 +0000</pubDate>
+      <guid>/talk/2022-ismb/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title>
-      <link>/talk/2022-ismb/</link>
-      <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2022-ismb/</guid>
+      <title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title>
+      <link>/talk/2021-cu/</link>
+      <pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate>
+      <guid>/talk/2021-cu/</guid>
       <description></description>
     </item>
     
