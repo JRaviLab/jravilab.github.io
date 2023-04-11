@@ -50,9 +50,9 @@
     
     <item>
       <title>Using Tidyverse for Genomics</title>
-      <link>/talk/2022-iscb_academy-edit/</link>
-      <pubDate>Sun, 24 Apr 2022 20:00:00 +0000</pubDate>
-      <guid>/talk/2022-iscb_academy-edit/</guid>
+      <link>/talk/2022-iscb_academy/</link>
+      <pubDate>Sat, 28 May 2022 20:00:00 +0000</pubDate>
+      <guid>/talk/2022-iscb_academy/</guid>
       <description></description>
     </item>
     
@@ -107,18 +107,18 @@
     </item>
     
     <item>
-      <title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/talk/2021-ismb/</link>
+      <title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title>
+      <link>/talk/2022-ismb/</link>
       <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-ismb/</guid>
+      <guid>/talk/2022-ismb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/talk/2022-ismb-edit/</link>
+      <link>/talk/2021-ismb/</link>
       <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2022-ismb-edit/</guid>
+      <guid>/talk/2021-ismb/</guid>
       <description></description>
     </item>
     
@@ -1064,7 +1064,7 @@ Data Visualization Workshop: GitHub • Google Drive&lt;/p&gt;
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       <guid>/reading/</guid>
       <description>&lt;p&gt;Check out my 
-&lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
+&lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations!&lt;/p&gt;
 </description>
     </item>
     
