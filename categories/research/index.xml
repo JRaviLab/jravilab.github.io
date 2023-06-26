@@ -5,12 +5,24 @@
     <link>/categories/research/</link>
       <atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Mon, 15 May 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>Research</title>
       <link>/categories/research/</link>
     </image>
+    
+    <item>
+      <title>MolEvolvR BTS: When and how to build a web-app and software package?</title>
+      <link>/talk/2023-glbio/</link>
+      <pubDate>Mon, 15 May 2023 13:00:00 +0000</pubDate>
+      <guid>/talk/2023-glbio/</guid>
+      <description>&lt;p&gt;Workshop material: 
+&lt;a href=&#34;https://github.com/jraviLab/2023-glbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jraviLab/2023-glbio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hosted w/ 
+&lt;a href=&#34;https://jravilab.github.io/authors/jacob-d-krol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jake Krol&lt;/a&gt;, Faisal Alquaddoomi&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory</title>

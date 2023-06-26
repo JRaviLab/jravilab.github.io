@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/compbio-bioinfo/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/janani-ravi/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2023-glbio/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/r/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/research/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/software-tools/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/admin/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,15 +51,6 @@
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/arminja-n-kettenbach/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/compbio-bioinfo/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/curtis-a-thorne/</loc>
@@ -41,9 +71,6 @@
     <loc>/authors/john-j-tyson/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/konstantin-doubrovinski/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,12 +87,6 @@
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/research/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/yashi-ahmed/</loc>
@@ -197,9 +218,6 @@
     <loc>/authors/natalia-soledad-morandeira/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/r/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/r-ladies/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -249,18 +267,6 @@
     <lastmod>2022-07-14T13:45:00+00:00</lastmod>
   </url><url>
     <loc>/talk/2022-ismb/</loc>
-    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/janani-ravi/</loc>
-    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2022-07-14T13:45:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/software-tools/</loc>
     <lastmod>2022-07-14T13:45:00+00:00</lastmod>
   </url><url>
     <loc>/tags/data-science/</loc>
@@ -545,9 +551,6 @@
     <loc>/talk/2020-rmarkdown/</loc>
     <lastmod>2020-02-24T18:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/workshop/</loc>
-    <lastmod>2020-02-24T18:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/2020-rlel-dataviz2.0/</loc>
     <lastmod>2020-02-10T18:00:00+00:00</lastmod>
   </url><url>
@@ -824,6 +827,8 @@
   </url><url>
     <loc>/authors/ethan-p-wolfe/</loc>
   </url><url>
+    <loc>/authors/evalyn-resnick/</loc>
+  </url><url>
     <loc>/authors/jacob-d-krol/</loc>
   </url><url>
     <loc>/authors/jill-m-bilodeaux/</loc>
@@ -834,13 +839,21 @@
   </url><url>
     <loc>/authors/keenan-r-manpearl/</loc>
   </url><url>
+    <loc>/authors/kritika-verma/</loc>
+  </url><url>
     <loc>/authors/lauryn-brooks/</loc>
   </url><url>
     <loc>/authors/mary-zhang/</loc>
   </url><url>
     <loc>/authors/philip-a-calhoun/</loc>
   </url><url>
+    <loc>/authors/raymond-lesiyon/</loc>
+  </url><url>
+    <loc>/authors/sana-paktinyar/</loc>
+  </url><url>
     <loc>/authors/vignesh-sridhar/</loc>
+  </url><url>
+    <loc>/authors/vy-a-tran/</loc>
   </url><url>
     <loc>/courses/</loc>
   </url><url>
