@@ -5,12 +5,20 @@
     <link>/tags/compbio-bioinfo/</link>
       <atom:link href="/tags/compbio-bioinfo/index.xml" rel="self" type="application/rss+xml" />
     <description>compbio-bioinfo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Mon, 15 May 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2023</copyright><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>compbio-bioinfo</title>
       <link>/tags/compbio-bioinfo/</link>
     </image>
+    
+    <item>
+      <title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition</title>
+      <link>/publication/ggt_saureus/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ggt_saureus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MolEvolvR BTS: When and how to build a web-app and software package?</title>
@@ -116,14 +124,6 @@
       <link>/publication/slps_grampos/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/publication/slps_grampos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition</title>
-      <link>/publication/ggt_saureus/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/ggt_saureus/</guid>
       <description></description>
     </item>
     
