@@ -5,12 +5,20 @@
     <link>/authors/kewalin-samart/</link>
       <atom:link href="/authors/kewalin-samart/index.xml" rel="self" type="application/rss+xml" />
     <description>JRaviLab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>JRaviLab</title>
       <link>/authors/kewalin-samart/</link>
     </image>
+    
+    <item>
+      <title>Modeling the START transition in the budding yeast cell cycle</title>
+      <link>/publication/start_plos/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/start_plos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>

@@ -5,12 +5,20 @@
     <link>/tags/compbio-bioinfo/</link>
       <atom:link href="/tags/compbio-bioinfo/index.xml" rel="self" type="application/rss+xml" />
     <description>compbio-bioinfo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/jananiravi-grp-webpage-logo.png</url>
       <title>compbio-bioinfo</title>
       <link>/tags/compbio-bioinfo/</link>
     </image>
+    
+    <item>
+      <title>The phage shock protein (PSP) envelope stress response: discovery of novel partners and evolutionary history</title>
+      <link>/publication/psp_evolution/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/psp_evolution/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition</title>
@@ -198,14 +206,6 @@
 &lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Phage-shock-protein (Psp) Envelope Stress Response: Evolutionary History &amp; Discovery of Novel Players</title>
-      <link>/publication/psp_evolution/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_evolution/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -3,24 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kewalin-samart/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jason-zwolak/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/start_plos/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/research/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tbd/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/evan-p-brenner/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/samuel-z-chen/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/compbio-bioinfo/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/l-aravind/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/maria-l-gennaro/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/molecular-evolution/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pathogenic-features/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/phylogeny/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pratik-datta/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/stress-response/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/psp_evolution/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tree-of-life/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/vivek-anantharaman/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/webapp/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/lo-sosinski/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/christopher-c-cooper/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/compbio-bioinfo/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/daniel-havlichek-jr/</loc>
@@ -38,16 +107,10 @@
     <loc>/authors/joshua-m-lensmire/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/martha-h-mulks/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/michael-r-wischer/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/molecular-evolution/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/neal-d-hammer/</loc>
@@ -56,31 +119,13 @@
     <loc>/tags/nutrient-acquisition/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pathogenic-features/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/phillip-c-delekta/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/phylogeny/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/research/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/sophia-y-lunt/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/staphylococcus/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ggt_saureus/</loc>
@@ -90,9 +135,6 @@
     <lastmod>2023-05-15T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/2023-glbio/</loc>
-    <lastmod>2023-05-15T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/r/</loc>
     <lastmod>2023-05-15T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/r/</loc>
@@ -329,9 +371,6 @@
     <loc>/authors/jacob-d-krol/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/samuel-z-chen/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication_types/3/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -339,12 +378,6 @@
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/molevolvr_webapp/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tree-of-life/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/webapp/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/community/</loc>
@@ -364,12 +397,6 @@
   </url><url>
     <loc>/tags/host-response/</loc>
     <lastmod>2021-11-22T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/stress-response/</loc>
-    <lastmod>2021-11-22T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/kewalin-samart/</loc>
-    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/phoebe-tuyishime/</loc>
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
@@ -440,9 +467,6 @@
     <loc>/talk/2021-beacon/</loc>
     <lastmod>2021-03-26T20:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/evan-p-brenner/</loc>
-    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/dam-villela/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -511,21 +535,6 @@
   </url><url>
     <loc>/tags/staphylococci/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/l-aravind/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/maria-l-gennaro/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/psp_evolution/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/pratik-datta/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/vivek-anantharaman/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/2020-mmg/</loc>
     <lastmod>2020-09-08T09:00:00+00:00</lastmod>
