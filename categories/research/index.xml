@@ -1,622 +1,241 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Research | JRaviLab</title>
-    <link>/categories/research/</link>
-      <atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>Research</title>
-      <link>/categories/research/</link>
-    </image>
-    
-    <item>
-      <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>/publication/start_plos/</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/start_plos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The phage shock protein (PSP) envelope stress response: discovery of novel partners and evolutionary history</title>
-      <link>/publication/psp_evolution/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition</title>
-      <link>/publication/ggt_saureus/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/ggt_saureus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR BTS: When and how to build a web-app and software package?</title>
-      <link>/talk/2023-glbio/</link>
-      <pubDate>Mon, 15 May 2023 13:00:00 +0000</pubDate>
-      <guid>/talk/2023-glbio/</guid>
-      <description>&lt;p&gt;Workshop material: 
-&lt;a href=&#34;https://github.com/jraviLab/2023-glbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jraviLab/2023-glbio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hosted w/ 
-&lt;a href=&#34;https://jravilab.github.io/authors/jacob-d-krol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jake Krol&lt;/a&gt;, Faisal Alquaddoomi&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory</title>
-      <link>/publication/wnt_bistability/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/wnt_bistability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title>
-      <link>/publication/avcd_vcholerae/</link>
-      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/avcd_vcholerae/</guid>
-      <description>&lt;p&gt;BYH and GBS are co-primary authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DciA Helicase Operators Exhibit Diversity across Bacterial Phyla</title>
-      <link>/publication/dcia_evolution/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/dcia_evolution/</guid>
-      <description>&lt;p&gt;HCB and JTB are co-primary authors. JR and CLS are co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title>
-      <link>/publication/inlp_listeria/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/inlp_listeria/</guid>
-      <description>&lt;p&gt;KNC and JTB are co-primary authors. JR and JWH are co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title>
-      <link>/talk/2022-ismb/</link>
-      <pubDate>Thu, 14 Jul 2022 13:45:00 +0000</pubDate>
-      <guid>/talk/2022-ismb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/publication/molevolvr_webapp/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/molevolvr_webapp/</guid>
-      <description>&lt;p&gt;JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title>
-      <link>/talk/2021-cu/</link>
-      <pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-cu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>
-      <link>/publication/connectivity_scores/</link>
-      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/connectivity_scores/</guid>
-      <description>&lt;p&gt;KS and PT are co-primary authors. AK and JR are co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/talk/2021-ismb/</link>
-      <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-ismb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: Web-app and R-package for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/talk/2021-user/</link>
-      <pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using a computational molecular evolution and phylogeny to study pathogenic proteins</title>
-      <link>/talk/2021-glbio/</link>
-      <pubDate>Thu, 13 May 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-glbio/</guid>
-      <description>&lt;p&gt;Related: Samuel Z Chen GLBio poster [video])(
-&lt;a href=&#34;https://www.youtube.com/watch?v=6rj3eTWxXkg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=6rj3eTWxXkg&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>S-layers: the proteinaceous multifunctional armours of Gram-positive pathogens</title>
-      <link>/publication/slps_grampos/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/slps_grampos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: a web-app for molecular evolution and phylogeny</title>
-      <link>/talk/2021-beacon/</link>
-      <pubDate>Fri, 26 Mar 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-beacon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population</title>
-      <link>/publication/brazil_genomes_mtb/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/brazil_genomes_mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational evolutionary approaches</title>
-      <link>/project/pathogenic-features/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/pathogenic-features/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;h4 id=&#34;current&#34;&gt;Current&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Joe Burke&lt;/li&gt;
-&lt;li&gt;Elliot Majlessi&lt;/li&gt;
-&lt;li&gt;Vignesh Sridhar&lt;/li&gt;
-&lt;li&gt;Ethan Wolfe&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;alumni&#34;&gt;Alumni&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Samuel Chen&lt;/li&gt;
-&lt;li&gt;Lo Sosinski&lt;/li&gt;
-&lt;li&gt;Karn Jongnarangsin&lt;/li&gt;
-&lt;li&gt;Lauryn Brooks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Neal Hammer, MSU (Staphylococci)&lt;/li&gt;
-&lt;li&gt;Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li&gt;
-&lt;li&gt;Antonella Fioravanti, VUB Brussels (&lt;em&gt;B. anthracis&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Chris Waters, MSU (Vibrio)&lt;/li&gt;
-&lt;li&gt;Jonathan Hardy, MSU (Listeria)&lt;/li&gt;
-&lt;li&gt;Stephanie Shames, KSU (Legionella)&lt;/li&gt;
-&lt;li&gt;Priya Shah, UCD (Flaviviruses)&lt;/li&gt;
-&lt;li&gt;Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>sRNA discovery</title>
-      <link>/project/srna/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/srna/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Philip Calhoun&lt;/li&gt;
-&lt;li&gt;Elliot Majlessi&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computational evolutionary approaches for understanding pathogen proteins and genomes</title>
-      <link>/talk/2020-beacon/</link>
-      <pubDate>Thu, 13 Aug 2020 16:15:00 +0000</pubDate>
-      <guid>/talk/2020-beacon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational evolutionary approaches to characterize bacterial proteins</title>
-      <link>/talk/2020-ismb/</link>
-      <pubDate>Tue, 14 Jul 2020 03:00:00 +0000</pubDate>
-      <guid>/talk/2020-ismb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
-      <link>/publication/tcy_saureus/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tcy_saureus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational approaches for understanding host–pathogen biology</title>
-      <link>/talk/2019-cocoh/</link>
-      <pubDate>Tue, 27 Aug 2019 11:00:00 +0000</pubDate>
-      <guid>/talk/2019-cocoh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conservation and modularity in the pan-bacterial psp stress response system</title>
-      <link>/talk/2019-grampos/</link>
-      <pubDate>Fri, 26 Jul 2019 03:00:00 +0000</pubDate>
-      <guid>/talk/2019-grampos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An integrative computational evolutionary approach to accelerate the discovery of molecular targets in prevalent under-studied pathogens</title>
-      <link>/talk/2019-cbps/</link>
-      <pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/2019-cbps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simple rules to make an effective scientific presentation</title>
-      <link>/talk/2019-cvm/</link>
-      <pubDate>Thu, 24 Jan 2019 12:00:00 +0000</pubDate>
-      <guid>/talk/2019-cvm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Join us!</title>
-      <link>/joinus/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/joinus/</guid>
-      <description>&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;#postdoctoral-researcher&#34;&gt;Postdoc&lt;/a&gt; | 
-&lt;a href=&#34;#scientific-programmer&#34;&gt;Scientific programmer&lt;/a&gt; | 
-&lt;a href=&#34;#graduate-students&#34;&gt;Grad students&lt;/a&gt; | 
-&lt;a href=&#34;#undergraduate-students&#34;&gt;Undergrads&lt;/a&gt; | 
-&lt;a href=&#34;#visiting-scientist&#34;&gt;Visiting scientist&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;postdoctoral-researcher&#34;&gt;Postdoctoral Researcher&lt;/h2&gt;
-&lt;p&gt;We are looking for a talented and motivated individual to join the JRaviLab (PI: Dr. Janani Ravi) at the 
-&lt;a href=&#34;https://medschool.cuanschutz.edu/ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Health AI&lt;/a&gt;, University of Colorado, Anschutz Medical Campus as a postdoctoral researcher. In our group, we develop/apply computational approaches to analyze and visualize multiscale biological data to study microbial phenotypes and diseases, including genomes, protein sequence-structural features, transcriptomes, and pathway memberships.
-Postdocs will contribute to this vision by 1) developing new computational approaches to analyze and integrate large collections of biological data, 2) applying these approaches to specific problems in microbiology and infectious diseases, and 3) communicating the methods and discoveries openly to the broader biomedical/clinical community.&lt;/p&gt;
-&lt;p&gt;In addition to participating in ongoing projects, we strongly encourage postdocs to come up with several research ideas, jointly develop them into creative projects, and lead the way in those new directions. We encourage postdocs to apply for federal/foundational fellowships.&lt;/p&gt;
-&lt;p&gt;We are committed to building a diverse team and sustaining an inclusive and supportive environment; we strongly encourage underrepresented minorities in STEM to apply, including but not limited to BIPOC and LGBTQIA+ folks. The position is open to international applicants, in addition to US citizens/permanent residents.&lt;/p&gt;
-&lt;h3 id=&#34;qualifications&#34;&gt;Qualifications&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;A PhD or equivalent, with a strong background in bioinformatics, computational biology, genetics/microbiology, statistics, computer science, machine learning, or other closely related fields.&lt;/li&gt;
-&lt;li&gt;Programming experience in R or Python w/ version control (Git). Experience with handling large datasets in a Unix/Linux environment, high-performance cluster computing is a plus. Familiarity with bioinformatics databases and tools would also be a bonus.&lt;/li&gt;
-&lt;li&gt;Good communication skills, willingness to collaborate openly, give/take constructive feedback, and sustain a friendly and fun lab culture.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;what-will-you-get&#34;&gt;What will you get&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Freedom to work on your best ideas broadly aligned with the lab’s vision.&lt;/li&gt;
-&lt;li&gt;Several opportunities to collaborate with fantastic computational, experimental, and clinical researchers at the Center for Health AI and beyond.&lt;/li&gt;
-&lt;li&gt;Resources to develop your own research program and your technical skills as you plan to move to the next stage of your career.&lt;/li&gt;
-&lt;li&gt;Opportunities to mentor students, participate in peer-review and grant-writing, international conferences, and, based on your interests, participate in education and outreach activities.&lt;/li&gt;
-&lt;li&gt;A vibrant, supportive environment: A bunch of really smart and fun colleagues at CHAI and DBMI; Workspace in a contemporary open-office layout in the magnificent new Health Science building with a fabulous view of the Rocky Mountains, easy access to cafeterias; Beautiful campus; Supportive department environment and postdoctoral association (including slack) for professional development; Competitive salary commensurate with experience.&lt;/li&gt;
-&lt;li&gt;Mentoring &amp;amp; support: In addition to being your scientific mentor, my primary responsibility is to help your personal and professional growth by facilitating all of the above. You will always find in me an audience to discuss opportunities/challenges and a strong advocate for your interests. You will also have the option to form a formal mentoring committee.&lt;/li&gt;
-&lt;li&gt;Inclusive, friendly, and supportive environment for underrepresented minorities in STEM and quantitative sciences, and safe space for members across all intersectionalities.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;apply--find-out-more&#34;&gt;Apply | Find out more&lt;/h3&gt;
-&lt;p&gt;If you have questions or want to chat about this position, please write to me (
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;janani.ravi@cuanschutz.edu&lt;/a&gt;). If you are interested in something like this, it’s never too early to reach out!
-To apply, apply to this posting with 1) a detailed CV that includes a link to your Google Scholar page and a list of publications, 2) a cover letter that includes a description of your research accomplishments, how your interests connect with our group’s work, what might be some lines of future work that you are interested in, and what your future professional goals are, and 3) names &amp;amp; contact information for three references.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: 
-&lt;a href=&#34;https://www.cu.edu/employee-services/benefits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cu.edu/employee-services/benefits&lt;/a&gt; | 
-&lt;a href=&#34;https://www.cu.edu/employee-services/benefits-wellness/new-employee/PBO/post-doc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;postdoc benefits&lt;/a&gt; &lt;br&gt;
-&lt;strong&gt;Total Compensation Calculator&lt;/strong&gt;: 
-&lt;a href=&#34;https://www.cu.edu/employee-services/total-compensation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cu.edu/employee-services/total-compensation&lt;/a&gt; &lt;br&gt;
-&lt;strong&gt;Diversity and Equity&lt;/strong&gt;: Please contact 
-&lt;a href=&#34;mailto:hr.adacoordinator@ucdenver.edu&#34;&gt;hr.adacoordinator@ucdenver.edu&lt;/a&gt; for information on disability accommodations.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;scientific-programmer&#34;&gt;Scientific Programmer&lt;/h2&gt;
-&lt;p&gt;We are looking for coding enthusiasts to join the JRaviLab as scientific programmers. In our group, we develop/apply computational approaches to analyze and visualize multiscale biological data to study microbial phenotypes and diseases, including genomes, protein sequence-structural features, transcriptomes, and pathway memberships.&lt;/p&gt;
-&lt;p&gt;The programmer is expected to contribute most of the code that goes into our analytical pipelines (that utilize high-performance clusters and cloud infrastructure) and production-ready webservers. They are expected to maintain high standards for code documentation, clarity, efficiency, and maintainability. In addition to maintaining these standards in their own code, they should set high expectations for other lab members and share their expertise to improve the code that all members of the lab are writing.
-We are committed to building a diverse team and sustaining an inclusive and supportive environment; we strongly encourage underrepresented minorities in STEM to apply, including but not limited to BIPOC, LGBTQIA+ folks. The position is open to international applicants, in addition to US citizens/permanent residents.&lt;/p&gt;
-&lt;h3 id=&#34;qualifications-1&#34;&gt;Qualifications&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Excellent programming skills in R and/or Python, Unix/Linux, shell scripting, and version controlling (with Git). Familiarity with bioinformatics databases/tools and setting up bioinformatics workflows would be a plus.&lt;/li&gt;
-&lt;li&gt;Experience in web development: R/Shiny, SQL, HTML5, CSS, and JavaScript.&lt;/li&gt;
-&lt;li&gt;It is a plus if you have experience with a) High-performance cluster computing, b) Distributed task queue, c) RESTful web services, d) Docker containers.&lt;/li&gt;
-&lt;li&gt;Have high coding standards for writing efficient, clear, well-documented, version-controlled code (Git).&lt;/li&gt;
-&lt;li&gt;Good communication skills, willingness to collaborate openly, give/take constructive feedback, and sustain a friendly and fun lab culture.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;what-will-you-get-1&#34;&gt;What will you get&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Work on data science / machine learning applied to both pathogen and host research in infectious diseases, supported by ample computational resources.&lt;/li&gt;
-&lt;li&gt;Mentor me, trainees, and students to inculcate high standards of writing and maintaining code.&lt;/li&gt;
-&lt;li&gt;Publish papers on creative tools and pipelines, publish/maintain open-source software projects, and present in scientific meetings/conferences.&lt;/li&gt;
-&lt;li&gt;A vibrant, supportive environment: A bunch of really smart and fun colleagues; Office in a fancy central building with easy access to cafeterias; Beautiful campus; Low cost-of-living; Competitive salary commensurate with experience.&lt;/li&gt;
-&lt;li&gt;Guidance &amp;amp; support: In addition to being your expert partner, my primary responsibility is to help your personal and professional growth. You will always find in me an audience to discuss opportunities/challenges and a strong advocate for your interests.&lt;/li&gt;
-&lt;li&gt;Safe space for underrepresented minorities in STEM and quantitative sciences.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Additionally, you will also have the following if you are interested in pursuing a research career.&lt;/p&gt;
-&lt;ol start=&#34;7&#34;&gt;
-&lt;li&gt;Freedom to work on your best ideas broadly aligned with the lab’s vision.&lt;/li&gt;
-&lt;li&gt;Several opportunities to collaborate with other smart computational and experimental researchers at MSU &amp;amp; elsewhere.&lt;/li&gt;
-&lt;li&gt;Resources to develop your own research program and your technical skills as you plan to move to the next stage of your career.&lt;/li&gt;
-&lt;li&gt;Opportunities to mentor students, participate in peer-review and grant-writing, and, based on your interests, participate in teaching, education, and outreach activities.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;apply--find-out-more-1&#34;&gt;Apply | Find out more&lt;/h3&gt;
-&lt;p&gt;If you have questions or want to chat about this position, please write to me.
-To apply, send me an 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email&lt;/a&gt; with your detailed CV, highlighting your released software, reusable packages, and/or code repositories (GitHub), and names and contact information for three references. If you are interested in something like this, it’s never too early to reach out!&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h2&gt;
-&lt;p&gt;We are looking for highly motivated graduate students interested in developing computational approaches to study microbial function, phenotypes, and diseases. You will be a perfect fit if you have a background in bioinformatics, computational biology, statistics/biostatistics, computer science, microbiology/immunology, genetics/genomics, or related fields. Having programming experience in R, Python is a huge plus. In addition to these technical qualifications, we are looking for someone who can work well in a team, work hard, and give/take constructive feedback.&lt;/p&gt;
-&lt;p&gt;This research experience will give you the opportunity to i) use data analysis and visualization to address key biological questions as pertaining to molecular evolution, diagnosis, and treatment (using R), ii) present at group meetings, journals, technical workshops and conferences, iii) develop high coding standards for writing efficient, clear, well-documented, version-controlled code, iv) equip yourself professional for your next career step.&lt;/p&gt;
-&lt;h3 id=&#34;start-a-conversation&#34;&gt;Start a conversation&lt;/h3&gt;
-&lt;p&gt;Please send me your latest CV and a cover letter that includes i) a summary of your academic/work experience, ii) description of relevant coursework, research experience (incl. publications, conference talks/posters), iii) a brief note on familiarity in the field of phylogenetics, molecular evolution, and comparative pathogenomics, iv) coding experience, if any. If you are already at MSU, please 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email me&lt;/a&gt; to set a time to meet and discuss your interest.&lt;/p&gt;
-&lt;h3 id=&#34;want-to-rotate&#34;&gt;Want to rotate?&lt;/h3&gt;
-&lt;p&gt;We welcome CU Denver | Anschutz students to rotate with us, esp. those from the 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biomedical Sciences Program&lt;/a&gt;, 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/cell-biology-stem-cells-and-development/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computational Biosciences&lt;/a&gt;, 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/microbiology/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microbiology&lt;/a&gt;, 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/immunology/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Immunology&lt;/a&gt;, and 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Human Medical Genetics and Genomics&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;undergraduate-students&#34;&gt;Undergraduate Students&lt;/h2&gt;
-&lt;p&gt;We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to study infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em&gt;e.g.,&lt;/em&gt; SROP, ENSURE, REU-ACRES, BRUSH, Professorial Assistantship, or other department/college-level awards).&lt;/p&gt;
-&lt;p&gt;We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python would be a huge plus. As part of this project, they will have the opportunity to work closely with a senior members of the group (and me) and learn to: a) work with large datasets, b) write structured, well-documented code to analyze, integrate, and visualize these datasets, c) interpret the results in the context of pathogenesis, and d) communicate the results in the form of a paper and presentation.&lt;/p&gt;
-&lt;p&gt;We have high expectations for their level of commitment to research, and we are keen on incorporating their contributions into co-authored papers in conferences/journals. As an undergraduate student, if you are interested in discussing research opportunities, please send me an 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email&lt;/a&gt; to set up a time to talk.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;visiting-scientist&#34;&gt;Visiting Scientist&lt;/h2&gt;
-&lt;p&gt;We welcome visiting scientists (postbac, postgrad, postdoc, etc) to come and collaborate with us for a short period (6mo–1Y). If you have a burning question or an interesting idea that is directly related to or complements our research project(s), we would be glad to share our space, experience, and resources with you to develop your project and execute it. Having your own funding would be the easiest way to make this happen. There are some funding sources that you can apply to (e.g., 
-&lt;a href=&#34;http://www.biologists.com/travelling-fellowships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoB&lt;/a&gt;). Please send me an 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email&lt;/a&gt; to discuss this opportunity.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;
-&lt;p&gt;If you are interested in any of our specific areas of research or have other great ideas that we could work on together, 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email me&lt;/a&gt; right away!&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://jravilab.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contact details&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bacterial Stress Response</title>
-      <link>/project/stress-response/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/project/stress-response/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;I started working on bacterial stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
-&lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
-&lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Samuel Chen (Alumni)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro (Rutgers)&lt;/li&gt;
-&lt;li&gt;L Aravind (NCBI, NIH)&lt;/li&gt;
-&lt;li&gt;Vivek Anantharaman (NCBI, NIH)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using computational appraches to understand host-pathogen biology</title>
-      <link>/talk/2018-ismb/</link>
-      <pubDate>Mon, 09 Jul 2018 15:50:00 +0000</pubDate>
-      <guid>/talk/2018-ismb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/psp_actino/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_actino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
-      <link>/talk/2017-asm-tb/</link>
-      <pubDate>Mon, 03 Apr 2017 17:00:00 +0000</pubDate>
-      <guid>/talk/2017-asm-tb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/sigfac_mtb/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/sigfac_mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Host-responses to infection</title>
-      <link>/project/host-response/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/project/host-response/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;alumni&#34;&gt;Alumni&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Phoebe Tuyishime (MSU, UBC)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Arjun Krishnan (MSU)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Studying lipid metabolism deregulation in TB</title>
-      <link>/project/lipid-metabolism/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/project/lipid-metabolism/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We also studied host responses to &lt;em&gt;M. tuberculosis&lt;/em&gt; infection using computational approaches:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li&gt;
-&lt;li&gt;understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro&lt;/li&gt;
-&lt;li&gt;Sanjay Tyagi&lt;/li&gt;
-&lt;li&gt;Eduardo Sontag (now in North Eastern)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;tulane-university&#34;&gt;Tulane University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Deepak Kaushal&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;knowledge-synthesis&#34;&gt;Knowledge Synthesis&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Hugh Salamon&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
-      <link>/talk/2015-rutgers-symp/</link>
-      <pubDate>Thu, 05 Nov 2015 11:45:00 +0000</pubDate>
-      <guid>/talk/2015-rutgers-symp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/psp_mtb/</link>
-      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title>
-      <link>/talk/2014-imsc/</link>
-      <pubDate>Fri, 31 Oct 2014 13:00:00 +0000</pubDate>
-      <guid>/talk/2014-imsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/publication/jimm/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/jimm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical Systems &amp; Modeling</title>
-      <link>/project/dynamical-systems/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/project/dynamical-systems/</guid>
-      <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
-&lt;p&gt;During 
-&lt;a href=&#34;http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my graduate research with Dr John Tyson&lt;/a&gt;, I built mathematical models to understand dynamical aspects:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Modeling the START transition in the budding yeast cell cycle:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li&gt;
-&lt;li&gt;Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li&gt;
-&lt;li&gt;Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li&gt;
-&lt;li&gt;Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li&gt;
-&lt;li&gt;This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Modeling bistability in the canonical Wnt pathway:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
-additional key regulatory interactions.&lt;/li&gt;
-&lt;li&gt;Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
-experimental results.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;related-publications&#34;&gt;Related publications&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ravi J&lt;sup&gt;#&lt;/sup&gt;, Samart K, Zwolak JW, Tyson JJ&lt;sup&gt;#&lt;/sup&gt;. Modeling the START transition in the budding yeast cell cycle. 
-&lt;a href=&#34;http://sbmlsimulator.org/simulator/by-start&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model&lt;/a&gt; &lt;em&gt;Submitted&lt;/em&gt;. &lt;sup&gt;#&lt;/sup&gt;Co-corresponding authors.&lt;/li&gt;
-&lt;li&gt;Cantoria MJ&lt;sup&gt;*&lt;/sup&gt;, Alizadeh E&lt;sup&gt;*&lt;/sup&gt;, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup&gt;#&lt;/sup&gt;, Lee E&lt;sup&gt;#&lt;/sup&gt;, Thorne CA&lt;sup&gt;#&lt;/sup&gt;. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022 
-&lt;a href=&#34;https://doi.org/10.1101/2022.01.28.478206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bioRxiv&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Kewalin Samart&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;virginia-tech&#34;&gt;Virginia Tech&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;John Tyson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;vanderbilt-university&#34;&gt;Vanderbilt University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Ethan Lee&lt;/li&gt;
-&lt;li&gt;Curtis Thorne (now at University of Arizona)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>/talk/2011-cshl/</link>
-      <pubDate>Tue, 29 Mar 2011 18:00:00 +0000</pubDate>
-      <guid>/talk/2011-cshl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>/talk/2009-grc/</link>
-      <pubDate>Sun, 05 Jul 2009 13:00:00 +0000</pubDate>
-      <guid>/talk/2009-grc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling the START transition and size control in budding yeast</title>
-      <link>/talk/2009-cshl/</link>
-      <pubDate>Tue, 24 Mar 2009 13:00:00 +0000</pubDate>
-      <guid>/talk/2009-cshl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling the START transition and size control in budding yeast</title>
-      <link>/talk/2009-vt-symp/</link>
-      <pubDate>Sun, 01 Mar 2009 13:00:00 +0000</pubDate>
-      <guid>/talk/2009-vt-symp/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research | JRaviLab</title><link>/categories/research/</link><atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml"/><description>Research</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>Research</title><link>/categories/research/</link></image><item><title>Modeling the START transition in the budding yeast cell cycle</title><link>/publication/start_plos/</link><pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate><guid>/publication/start_plos/</guid><description/></item><item><title>The phage shock protein (PSP) envelope stress response: discovery of novel partners and evolutionary history</title><link>/publication/psp_evolution/</link><pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate><guid>/publication/psp_evolution/</guid><description/></item><item><title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition</title><link>/publication/ggt_saureus/</link><pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate><guid>/publication/ggt_saureus/</guid><description/></item><item><title>MolEvolvR BTS: When and how to build a web-app and software package?</title><link>/talk/2023-glbio/</link><pubDate>Mon, 15 May 2023 13:00:00 +0000</pubDate><guid>/talk/2023-glbio/</guid><description>&lt;p>Workshop material:
+&lt;a href="https://github.com/jraviLab/2023-glbio" target="_blank" rel="noopener">https://github.com/jraviLab/2023-glbio&lt;/a>&lt;/p>
+&lt;p>Hosted w/
+&lt;a href="https://jravilab.github.io/authors/jacob-d-krol" target="_blank" rel="noopener">Jake Krol&lt;/a>, Faisal Alquaddoomi&lt;/p></description></item><item><title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory</title><link>/publication/wnt_bistability/</link><pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/wnt_bistability/</guid><description/></item><item><title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title><link>/publication/avcd_vcholerae/</link><pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate><guid>/publication/avcd_vcholerae/</guid><description>&lt;p>BYH and GBS are co-primary authors.&lt;/p></description></item><item><title>DciA Helicase Operators Exhibit Diversity across Bacterial Phyla</title><link>/publication/dcia_evolution/</link><pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate><guid>/publication/dcia_evolution/</guid><description>&lt;p>HCB and JTB are co-primary authors. JR and CLS are co-corresponding authors.&lt;/p></description></item><item><title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title><link>/publication/inlp_listeria/</link><pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate><guid>/publication/inlp_listeria/</guid><description>&lt;p>KNC and JTB are co-primary authors. JR and JWH are co-corresponding authors.&lt;/p></description></item><item><title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title><link>/talk/2022-ismb/</link><pubDate>Thu, 14 Jul 2022 13:45:00 +0000</pubDate><guid>/talk/2022-ismb/</guid><description/></item><item><title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title><link>/publication/molevolvr_webapp/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>/publication/molevolvr_webapp/</guid><description>&lt;p>JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p></description></item><item><title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title><link>/talk/2021-cu/</link><pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate><guid>/talk/2021-cu/</guid><description/></item><item><title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title><link>/publication/connectivity_scores/</link><pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate><guid>/publication/connectivity_scores/</guid><description>&lt;p>KS and PT are co-primary authors. AK and JR are co-corresponding authors.&lt;/p></description></item><item><title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title><link>/talk/2021-ismb/</link><pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-ismb/</guid><description/></item><item><title>MolEvolvR: Web-app and R-package for characterizing proteins using molecular evolution and phylogeny</title><link>/talk/2021-user/</link><pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-user/</guid><description/></item><item><title>Using a computational molecular evolution and phylogeny to study pathogenic proteins</title><link>/talk/2021-glbio/</link><pubDate>Thu, 13 May 2021 20:00:00 +0000</pubDate><guid>/talk/2021-glbio/</guid><description>&lt;p>Related: Samuel Z Chen GLBio poster [video])(
+&lt;a href="https://www.youtube.com/watch?v=6rj3eTWxXkg" target="_blank" rel="noopener">https://www.youtube.com/watch?v=6rj3eTWxXkg&lt;/a>)&lt;/p></description></item><item><title>S-layers: the proteinaceous multifunctional armours of Gram-positive pathogens</title><link>/publication/slps_grampos/</link><pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate><guid>/publication/slps_grampos/</guid><description/></item><item><title>MolEvolvR: a web-app for molecular evolution and phylogeny</title><link>/talk/2021-beacon/</link><pubDate>Fri, 26 Mar 2021 20:00:00 +0000</pubDate><guid>/talk/2021-beacon/</guid><description/></item><item><title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population</title><link>/publication/brazil_genomes_mtb/</link><pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/brazil_genomes_mtb/</guid><description/></item><item><title>Computational evolutionary approaches</title><link>/project/pathogenic-features/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/pathogenic-features/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;h4 id="current">Current&lt;/h4>
+&lt;ul>
+&lt;li>Joe Burke&lt;/li>
+&lt;li>Elliot Majlessi&lt;/li>
+&lt;li>Vignesh Sridhar&lt;/li>
+&lt;li>Ethan Wolfe&lt;/li>
+&lt;/ul>
+&lt;h4 id="alumni">Alumni&lt;/h4>
+&lt;ul>
+&lt;li>Samuel Chen&lt;/li>
+&lt;li>Lo Sosinski&lt;/li>
+&lt;li>Karn Jongnarangsin&lt;/li>
+&lt;li>Lauryn Brooks&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Neal Hammer, MSU (Staphylococci)&lt;/li>
+&lt;li>Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li>
+&lt;li>Antonella Fioravanti, VUB Brussels (&lt;em>B. anthracis&lt;/em>)&lt;/li>
+&lt;li>Chris Waters, MSU (Vibrio)&lt;/li>
+&lt;li>Jonathan Hardy, MSU (Listeria)&lt;/li>
+&lt;li>Stephanie Shames, KSU (Legionella)&lt;/li>
+&lt;li>Priya Shah, UCD (Flaviviruses)&lt;/li>
+&lt;li>Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li>
+&lt;/ul></description></item><item><title>sRNA discovery</title><link>/project/srna/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/srna/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;ul>
+&lt;li>Philip Calhoun&lt;/li>
+&lt;li>Elliot Majlessi&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Srinand Sreevatsan (Mycobacteria)&lt;/li>
+&lt;/ul></description></item><item><title>Computational evolutionary approaches for understanding pathogen proteins and genomes</title><link>/talk/2020-beacon/</link><pubDate>Thu, 13 Aug 2020 16:15:00 +0000</pubDate><guid>/talk/2020-beacon/</guid><description/></item><item><title>Computational evolutionary approaches to characterize bacterial proteins</title><link>/talk/2020-ismb/</link><pubDate>Tue, 14 Jul 2020 03:00:00 +0000</pubDate><guid>/talk/2020-ismb/</guid><description/></item><item><title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title><link>/publication/tcy_saureus/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>/publication/tcy_saureus/</guid><description/></item><item><title>Computational approaches for understanding host–pathogen biology</title><link>/talk/2019-cocoh/</link><pubDate>Tue, 27 Aug 2019 11:00:00 +0000</pubDate><guid>/talk/2019-cocoh/</guid><description/></item><item><title>Conservation and modularity in the pan-bacterial psp stress response system</title><link>/talk/2019-grampos/</link><pubDate>Fri, 26 Jul 2019 03:00:00 +0000</pubDate><guid>/talk/2019-grampos/</guid><description/></item><item><title>An integrative computational evolutionary approach to accelerate the discovery of molecular targets in prevalent under-studied pathogens</title><link>/talk/2019-cbps/</link><pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate><guid>/talk/2019-cbps/</guid><description/></item><item><title>Simple rules to make an effective scientific presentation</title><link>/talk/2019-cvm/</link><pubDate>Thu, 24 Jan 2019 12:00:00 +0000</pubDate><guid>/talk/2019-cvm/</guid><description/></item><item><title>Join us!</title><link>/joinus/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>/joinus/</guid><description>&lt;h1 id="open-positions">Open positions&lt;/h1>
+&lt;p>
+&lt;a href="#postdoctoral-researcher">Postdoc&lt;/a> |
+&lt;a href="#scientific-programmer">Scientific programmer&lt;/a> |
+&lt;a href="#graduate-students">Grad students&lt;/a> |
+&lt;a href="#undergraduate-students">Undergrads&lt;/a> |
+&lt;a href="#visiting-scientist">Visiting scientist&lt;/a>&lt;/p>
+&lt;h2 id="postdoctoral-researcher">Postdoctoral Researcher&lt;/h2>
+&lt;p>We are looking for a talented and motivated individual to join the JRaviLab (PI: Dr. Janani Ravi) at the
+&lt;a href="https://medschool.cuanschutz.edu/ai" target="_blank" rel="noopener">Center for Health AI&lt;/a>, University of Colorado, Anschutz Medical Campus as a postdoctoral researcher. In our group, we develop/apply computational approaches to analyze and visualize multiscale biological data to study microbial phenotypes and diseases, including genomes, protein sequence-structural features, transcriptomes, and pathway memberships.
+Postdocs will contribute to this vision by 1) developing new computational approaches to analyze and integrate large collections of biological data, 2) applying these approaches to specific problems in microbiology and infectious diseases, and 3) communicating the methods and discoveries openly to the broader biomedical/clinical community.&lt;/p>
+&lt;p>In addition to participating in ongoing projects, we strongly encourage postdocs to come up with several research ideas, jointly develop them into creative projects, and lead the way in those new directions. We encourage postdocs to apply for federal/foundational fellowships.&lt;/p>
+&lt;p>We are committed to building a diverse team and sustaining an inclusive and supportive environment; we strongly encourage underrepresented minorities in STEM to apply, including but not limited to BIPOC and LGBTQIA+ folks. The position is open to international applicants, in addition to US citizens/permanent residents.&lt;/p>
+&lt;h3 id="qualifications">Qualifications&lt;/h3>
+&lt;ol>
+&lt;li>A PhD or equivalent, with a strong background in bioinformatics, computational biology, genetics/microbiology, statistics, computer science, machine learning, or other closely related fields.&lt;/li>
+&lt;li>Programming experience in R or Python w/ version control (Git). Experience with handling large datasets in a Unix/Linux environment, high-performance cluster computing is a plus. Familiarity with bioinformatics databases and tools would also be a bonus.&lt;/li>
+&lt;li>Good communication skills, willingness to collaborate openly, give/take constructive feedback, and sustain a friendly and fun lab culture.&lt;/li>
+&lt;/ol>
+&lt;h3 id="what-will-you-get">What will you get&lt;/h3>
+&lt;ol>
+&lt;li>Freedom to work on your best ideas broadly aligned with the lab’s vision.&lt;/li>
+&lt;li>Several opportunities to collaborate with fantastic computational, experimental, and clinical researchers at the Center for Health AI and beyond.&lt;/li>
+&lt;li>Resources to develop your own research program and your technical skills as you plan to move to the next stage of your career.&lt;/li>
+&lt;li>Opportunities to mentor students, participate in peer-review and grant-writing, international conferences, and, based on your interests, participate in education and outreach activities.&lt;/li>
+&lt;li>A vibrant, supportive environment: A bunch of really smart and fun colleagues at CHAI and DBMI; Workspace in a contemporary open-office layout in the magnificent new Health Science building with a fabulous view of the Rocky Mountains, easy access to cafeterias; Beautiful campus; Supportive department environment and postdoctoral association (including slack) for professional development; Competitive salary commensurate with experience.&lt;/li>
+&lt;li>Mentoring &amp;amp; support: In addition to being your scientific mentor, my primary responsibility is to help your personal and professional growth by facilitating all of the above. You will always find in me an audience to discuss opportunities/challenges and a strong advocate for your interests. You will also have the option to form a formal mentoring committee.&lt;/li>
+&lt;li>Inclusive, friendly, and supportive environment for underrepresented minorities in STEM and quantitative sciences, and safe space for members across all intersectionalities.&lt;/li>
+&lt;/ol>
+&lt;h3 id="apply--find-out-more">Apply | Find out more&lt;/h3>
+&lt;p>If you have questions or want to chat about this position, please write to me (
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">janani.ravi@cuanschutz.edu&lt;/a>). If you are interested in something like this, it’s never too early to reach out!
+To apply, apply to this posting with 1) a detailed CV that includes a link to your Google Scholar page and a list of publications, 2) a cover letter that includes a description of your research accomplishments, how your interests connect with our group’s work, what might be some lines of future work that you are interested in, and what your future professional goals are, and 3) names &amp;amp; contact information for three references.&lt;/p>
+&lt;p>&lt;strong>Benefits&lt;/strong>:
+&lt;a href="https://www.cu.edu/employee-services/benefits" target="_blank" rel="noopener">https://www.cu.edu/employee-services/benefits&lt;/a> |
+&lt;a href="https://www.cu.edu/employee-services/benefits-wellness/new-employee/PBO/post-doc" target="_blank" rel="noopener">postdoc benefits&lt;/a> &lt;br>
+&lt;strong>Total Compensation Calculator&lt;/strong>:
+&lt;a href="https://www.cu.edu/employee-services/total-compensation" target="_blank" rel="noopener">https://www.cu.edu/employee-services/total-compensation&lt;/a> &lt;br>
+&lt;strong>Diversity and Equity&lt;/strong>: Please contact
+&lt;a href="mailto:hr.adacoordinator@ucdenver.edu">hr.adacoordinator@ucdenver.edu&lt;/a> for information on disability accommodations.&lt;/p>
+&lt;hr>
+&lt;h2 id="scientific-programmer">Scientific Programmer&lt;/h2>
+&lt;p>We are looking for coding enthusiasts to join the JRaviLab as scientific programmers. In our group, we develop/apply computational approaches to analyze and visualize multiscale biological data to study microbial phenotypes and diseases, including genomes, protein sequence-structural features, transcriptomes, and pathway memberships.&lt;/p>
+&lt;p>The programmer is expected to contribute most of the code that goes into our analytical pipelines (that utilize high-performance clusters and cloud infrastructure) and production-ready webservers. They are expected to maintain high standards for code documentation, clarity, efficiency, and maintainability. In addition to maintaining these standards in their own code, they should set high expectations for other lab members and share their expertise to improve the code that all members of the lab are writing.
+We are committed to building a diverse team and sustaining an inclusive and supportive environment; we strongly encourage underrepresented minorities in STEM to apply, including but not limited to BIPOC, LGBTQIA+ folks. The position is open to international applicants, in addition to US citizens/permanent residents.&lt;/p>
+&lt;h3 id="qualifications-1">Qualifications&lt;/h3>
+&lt;ol>
+&lt;li>Excellent programming skills in R and/or Python, Unix/Linux, shell scripting, and version controlling (with Git). Familiarity with bioinformatics databases/tools and setting up bioinformatics workflows would be a plus.&lt;/li>
+&lt;li>Experience in web development: R/Shiny, SQL, HTML5, CSS, and JavaScript.&lt;/li>
+&lt;li>It is a plus if you have experience with a) High-performance cluster computing, b) Distributed task queue, c) RESTful web services, d) Docker containers.&lt;/li>
+&lt;li>Have high coding standards for writing efficient, clear, well-documented, version-controlled code (Git).&lt;/li>
+&lt;li>Good communication skills, willingness to collaborate openly, give/take constructive feedback, and sustain a friendly and fun lab culture.&lt;/li>
+&lt;/ol>
+&lt;h3 id="what-will-you-get-1">What will you get&lt;/h3>
+&lt;ol>
+&lt;li>Work on data science / machine learning applied to both pathogen and host research in infectious diseases, supported by ample computational resources.&lt;/li>
+&lt;li>Mentor me, trainees, and students to inculcate high standards of writing and maintaining code.&lt;/li>
+&lt;li>Publish papers on creative tools and pipelines, publish/maintain open-source software projects, and present in scientific meetings/conferences.&lt;/li>
+&lt;li>A vibrant, supportive environment: A bunch of really smart and fun colleagues; Office in a fancy central building with easy access to cafeterias; Beautiful campus; Low cost-of-living; Competitive salary commensurate with experience.&lt;/li>
+&lt;li>Guidance &amp;amp; support: In addition to being your expert partner, my primary responsibility is to help your personal and professional growth. You will always find in me an audience to discuss opportunities/challenges and a strong advocate for your interests.&lt;/li>
+&lt;li>Safe space for underrepresented minorities in STEM and quantitative sciences.&lt;/li>
+&lt;/ol>
+&lt;p>Additionally, you will also have the following if you are interested in pursuing a research career.&lt;/p>
+&lt;ol start="7">
+&lt;li>Freedom to work on your best ideas broadly aligned with the lab’s vision.&lt;/li>
+&lt;li>Several opportunities to collaborate with other smart computational and experimental researchers at MSU &amp;amp; elsewhere.&lt;/li>
+&lt;li>Resources to develop your own research program and your technical skills as you plan to move to the next stage of your career.&lt;/li>
+&lt;li>Opportunities to mentor students, participate in peer-review and grant-writing, and, based on your interests, participate in teaching, education, and outreach activities.&lt;/li>
+&lt;/ol>
+&lt;h3 id="apply--find-out-more-1">Apply | Find out more&lt;/h3>
+&lt;p>If you have questions or want to chat about this position, please write to me.
+To apply, send me an
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email&lt;/a> with your detailed CV, highlighting your released software, reusable packages, and/or code repositories (GitHub), and names and contact information for three references. If you are interested in something like this, it’s never too early to reach out!&lt;/p>
+&lt;hr>
+&lt;h2 id="graduate-students">Graduate Students&lt;/h2>
+&lt;p>We are looking for highly motivated graduate students interested in developing computational approaches to study microbial function, phenotypes, and diseases. You will be a perfect fit if you have a background in bioinformatics, computational biology, statistics/biostatistics, computer science, microbiology/immunology, genetics/genomics, or related fields. Having programming experience in R, Python is a huge plus. In addition to these technical qualifications, we are looking for someone who can work well in a team, work hard, and give/take constructive feedback.&lt;/p>
+&lt;p>This research experience will give you the opportunity to i) use data analysis and visualization to address key biological questions as pertaining to molecular evolution, diagnosis, and treatment (using R), ii) present at group meetings, journals, technical workshops and conferences, iii) develop high coding standards for writing efficient, clear, well-documented, version-controlled code, iv) equip yourself professional for your next career step.&lt;/p>
+&lt;h3 id="start-a-conversation">Start a conversation&lt;/h3>
+&lt;p>Please send me your latest CV and a cover letter that includes i) a summary of your academic/work experience, ii) description of relevant coursework, research experience (incl. publications, conference talks/posters), iii) a brief note on familiarity in the field of phylogenetics, molecular evolution, and comparative pathogenomics, iv) coding experience, if any. If you are already at MSU, please
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email me&lt;/a> to set a time to meet and discuss your interest.&lt;/p>
+&lt;h3 id="want-to-rotate">Want to rotate?&lt;/h3>
+&lt;p>We welcome CU Denver | Anschutz students to rotate with us, esp. those from the
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home" target="_blank" rel="noopener">Biomedical Sciences Program&lt;/a>,
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/cell-biology-stem-cells-and-development/home" target="_blank" rel="noopener">Computational Biosciences&lt;/a>,
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/microbiology/home" target="_blank" rel="noopener">Microbiology&lt;/a>,
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/immunology/home" target="_blank" rel="noopener">Immunology&lt;/a>, and
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home" target="_blank" rel="noopener">Human Medical Genetics and Genomics&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h2 id="undergraduate-students">Undergraduate Students&lt;/h2>
+&lt;p>We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to study infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em>e.g.,&lt;/em> SROP, ENSURE, REU-ACRES, BRUSH, Professorial Assistantship, or other department/college-level awards).&lt;/p>
+&lt;p>We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python would be a huge plus. As part of this project, they will have the opportunity to work closely with a senior members of the group (and me) and learn to: a) work with large datasets, b) write structured, well-documented code to analyze, integrate, and visualize these datasets, c) interpret the results in the context of pathogenesis, and d) communicate the results in the form of a paper and presentation.&lt;/p>
+&lt;p>We have high expectations for their level of commitment to research, and we are keen on incorporating their contributions into co-authored papers in conferences/journals. As an undergraduate student, if you are interested in discussing research opportunities, please send me an
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email&lt;/a> to set up a time to talk.&lt;/p>
+&lt;hr>
+&lt;h2 id="visiting-scientist">Visiting Scientist&lt;/h2>
+&lt;p>We welcome visiting scientists (postbac, postgrad, postdoc, etc) to come and collaborate with us for a short period (6mo–1Y). If you have a burning question or an interesting idea that is directly related to or complements our research project(s), we would be glad to share our space, experience, and resources with you to develop your project and execute it. Having your own funding would be the easiest way to make this happen. There are some funding sources that you can apply to (e.g.,
+&lt;a href="http://www.biologists.com/travelling-fellowships/" target="_blank" rel="noopener">CoB&lt;/a>). Please send me an
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email&lt;/a> to discuss this opportunity.&lt;/p>
+&lt;hr>
+&lt;h2 id="collaboration">Collaboration&lt;/h2>
+&lt;p>If you are interested in any of our specific areas of research or have other great ideas that we could work on together,
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email me&lt;/a> right away!&lt;/p>
+&lt;p>
+&lt;a href="https://jravilab.github.io/#contact" target="_blank" rel="noopener">Contact details&lt;/a>&lt;/p></description></item><item><title>Bacterial Stress Response</title><link>/project/stress-response/</link><pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate><guid>/project/stress-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>I started working on bacterial stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p>
+&lt;ul>
+&lt;li>delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li>
+&lt;li>unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li>
+&lt;li>reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Samuel Chen (Alumni)&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;ul>
+&lt;li>Marila Gennaro (Rutgers)&lt;/li>
+&lt;li>L Aravind (NCBI, NIH)&lt;/li>
+&lt;li>Vivek Anantharaman (NCBI, NIH)&lt;/li>
+&lt;/ul></description></item><item><title>Using computational appraches to understand host-pathogen biology</title><link>/talk/2018-ismb/</link><pubDate>Mon, 09 Jul 2018 15:50:00 +0000</pubDate><guid>/talk/2018-ismb/</guid><description/></item><item><title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title><link>/publication/psp_actino/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/publication/psp_actino/</guid><description/></item><item><title>Evolution and Conservation of the Psp Envelope Stress-Response System</title><link>/talk/2017-asm-tb/</link><pubDate>Mon, 03 Apr 2017 17:00:00 +0000</pubDate><guid>/talk/2017-asm-tb/</guid><description/></item><item><title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title><link>/publication/sigfac_mtb/</link><pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate><guid>/publication/sigfac_mtb/</guid><description/></item><item><title>Host-responses to infection</title><link>/project/host-response/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/host-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;ul>
+&lt;li>Kewalin Samart (MSU)&lt;/li>
+&lt;/ul>
+&lt;h3 id="alumni">Alumni&lt;/h3>
+&lt;ul>
+&lt;li>Phoebe Tuyishime (MSU, UBC)&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Arjun Krishnan (MSU)&lt;/li>
+&lt;/ul></description></item><item><title>Studying lipid metabolism deregulation in TB</title><link>/project/lipid-metabolism/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/lipid-metabolism/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We also studied host responses to &lt;em>M. tuberculosis&lt;/em> infection using computational approaches:&lt;/p>
+&lt;ul>
+&lt;li>characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li>
+&lt;li>understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;h4 id="rutgers-university">Rutgers University&lt;/h4>
+&lt;ul>
+&lt;li>Marila Gennaro&lt;/li>
+&lt;li>Sanjay Tyagi&lt;/li>
+&lt;li>Eduardo Sontag (now in North Eastern)&lt;/li>
+&lt;/ul>
+&lt;h4 id="tulane-university">Tulane University&lt;/h4>
+&lt;ul>
+&lt;li>Deepak Kaushal&lt;/li>
+&lt;/ul>
+&lt;h4 id="knowledge-synthesis">Knowledge Synthesis&lt;/h4>
+&lt;ul>
+&lt;li>Hugh Salamon&lt;/li>
+&lt;/ul></description></item><item><title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title><link>/talk/2015-rutgers-symp/</link><pubDate>Thu, 05 Nov 2015 11:45:00 +0000</pubDate><guid>/talk/2015-rutgers-symp/</guid><description/></item><item><title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title><link>/publication/psp_mtb/</link><pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/psp_mtb/</guid><description/></item><item><title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title><link>/talk/2014-imsc/</link><pubDate>Fri, 31 Oct 2014 13:00:00 +0000</pubDate><guid>/talk/2014-imsc/</guid><description/></item><item><title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title><link>/publication/jimm/</link><pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate><guid>/publication/jimm/</guid><description/></item><item><title>Dynamical Systems &amp; Modeling</title><link>/project/dynamical-systems/</link><pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate><guid>/project/dynamical-systems/</guid><description>&lt;h2 id="research">Research&lt;/h2>
+&lt;p>During
+&lt;a href="http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/" target="_blank" rel="noopener">my graduate research with Dr John Tyson&lt;/a>, I built mathematical models to understand dynamical aspects:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Modeling the START transition in the budding yeast cell cycle:&lt;/p>
+&lt;ul>
+&lt;li>Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li>
+&lt;li>Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li>
+&lt;li>Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li>
+&lt;li>Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li>
+&lt;li>This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Modeling bistability in the canonical Wnt pathway:&lt;/p>
+&lt;ul>
+&lt;li>Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
+additional key regulatory interactions.&lt;/li>
+&lt;li>Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
+experimental results.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="related-publications">Related publications&lt;/h2>
+&lt;ul>
+&lt;li>Ravi J&lt;sup>#&lt;/sup>, Samart K, Zwolak JW, Tyson JJ&lt;sup>#&lt;/sup>. Modeling the START transition in the budding yeast cell cycle.
+&lt;a href="http://sbmlsimulator.org/simulator/by-start" target="_blank" rel="noopener">Model&lt;/a> &lt;em>Submitted&lt;/em>. &lt;sup>#&lt;/sup>Co-corresponding authors.&lt;/li>
+&lt;li>Cantoria MJ&lt;sup>*&lt;/sup>, Alizadeh E&lt;sup>*&lt;/sup>, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup>#&lt;/sup>, Lee E&lt;sup>#&lt;/sup>, Thorne CA&lt;sup>#&lt;/sup>. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022
+&lt;a href="https://doi.org/10.1101/2022.01.28.478206" target="_blank" rel="noopener">bioRxiv&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Kewalin Samart&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;h4 id="virginia-tech">Virginia Tech&lt;/h4>
+&lt;ul>
+&lt;li>John Tyson&lt;/li>
+&lt;/ul>
+&lt;h4 id="vanderbilt-university">Vanderbilt University&lt;/h4>
+&lt;ul>
+&lt;li>Ethan Lee&lt;/li>
+&lt;li>Curtis Thorne (now at University of Arizona)&lt;/li>
+&lt;/ul></description></item><item><title>Modeling the START transition in the budding yeast cell cycle</title><link>/talk/2011-cshl/</link><pubDate>Tue, 29 Mar 2011 18:00:00 +0000</pubDate><guid>/talk/2011-cshl/</guid><description/></item><item><title>Modeling the START transition in the budding yeast cell cycle</title><link>/talk/2009-grc/</link><pubDate>Sun, 05 Jul 2009 13:00:00 +0000</pubDate><guid>/talk/2009-grc/</guid><description/></item><item><title>Modeling the START transition and size control in budding yeast</title><link>/talk/2009-cshl/</link><pubDate>Tue, 24 Mar 2009 13:00:00 +0000</pubDate><guid>/talk/2009-cshl/</guid><description/></item><item><title>Modeling the START transition and size control in budding yeast</title><link>/talk/2009-vt-symp/</link><pubDate>Sun, 01 Mar 2009 13:00:00 +0000</pubDate><guid>/talk/2009-vt-symp/</guid><description/></item></channel></rss>

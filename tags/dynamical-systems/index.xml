@@ -1,77 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dynamical-systems | JRaviLab</title>
-    <link>/tags/dynamical-systems/</link>
-      <atom:link href="/tags/dynamical-systems/index.xml" rel="self" type="application/rss+xml" />
-    <description>dynamical-systems</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>dynamical-systems</title>
-      <link>/tags/dynamical-systems/</link>
-    </image>
-    
-    <item>
-      <title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory</title>
-      <link>/publication/wnt_bistability/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/wnt_bistability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical Systems &amp; Modeling</title>
-      <link>/project/dynamical-systems/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/project/dynamical-systems/</guid>
-      <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
-&lt;p&gt;During 
-&lt;a href=&#34;http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my graduate research with Dr John Tyson&lt;/a&gt;, I built mathematical models to understand dynamical aspects:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Modeling the START transition in the budding yeast cell cycle:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li&gt;
-&lt;li&gt;Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li&gt;
-&lt;li&gt;Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li&gt;
-&lt;li&gt;Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li&gt;
-&lt;li&gt;This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Modeling bistability in the canonical Wnt pathway:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
-additional key regulatory interactions.&lt;/li&gt;
-&lt;li&gt;Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
-experimental results.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;related-publications&#34;&gt;Related publications&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ravi J&lt;sup&gt;#&lt;/sup&gt;, Samart K, Zwolak JW, Tyson JJ&lt;sup&gt;#&lt;/sup&gt;. Modeling the START transition in the budding yeast cell cycle. 
-&lt;a href=&#34;http://sbmlsimulator.org/simulator/by-start&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model&lt;/a&gt; &lt;em&gt;Submitted&lt;/em&gt;. &lt;sup&gt;#&lt;/sup&gt;Co-corresponding authors.&lt;/li&gt;
-&lt;li&gt;Cantoria MJ&lt;sup&gt;*&lt;/sup&gt;, Alizadeh E&lt;sup&gt;*&lt;/sup&gt;, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup&gt;#&lt;/sup&gt;, Lee E&lt;sup&gt;#&lt;/sup&gt;, Thorne CA&lt;sup&gt;#&lt;/sup&gt;. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022 
-&lt;a href=&#34;https://doi.org/10.1101/2022.01.28.478206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bioRxiv&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Kewalin Samart&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;virginia-tech&#34;&gt;Virginia Tech&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;John Tyson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;vanderbilt-university&#34;&gt;Vanderbilt University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Ethan Lee&lt;/li&gt;
-&lt;li&gt;Curtis Thorne (now at University of Arizona)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dynamical-systems | JRaviLab</title><link>/tags/dynamical-systems/</link><atom:link href="/tags/dynamical-systems/index.xml" rel="self" type="application/rss+xml"/><description>dynamical-systems</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>dynamical-systems</title><link>/tags/dynamical-systems/</link></image><item><title>Feedback in the β-catenin destruction complex imparts bistability and cellular memory</title><link>/publication/wnt_bistability/</link><pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/wnt_bistability/</guid><description/></item><item><title>Dynamical Systems &amp; Modeling</title><link>/project/dynamical-systems/</link><pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate><guid>/project/dynamical-systems/</guid><description>&lt;h2 id="research">Research&lt;/h2>
+&lt;p>During
+&lt;a href="http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/" target="_blank" rel="noopener">my graduate research with Dr John Tyson&lt;/a>, I built mathematical models to understand dynamical aspects:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Modeling the START transition in the budding yeast cell cycle:&lt;/p>
+&lt;ul>
+&lt;li>Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li>
+&lt;li>Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li>
+&lt;li>Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li>
+&lt;li>Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li>
+&lt;li>This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Modeling bistability in the canonical Wnt pathway:&lt;/p>
+&lt;ul>
+&lt;li>Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
+additional key regulatory interactions.&lt;/li>
+&lt;li>Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
+experimental results.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="related-publications">Related publications&lt;/h2>
+&lt;ul>
+&lt;li>Ravi J&lt;sup>#&lt;/sup>, Samart K, Zwolak JW, Tyson JJ&lt;sup>#&lt;/sup>. Modeling the START transition in the budding yeast cell cycle.
+&lt;a href="http://sbmlsimulator.org/simulator/by-start" target="_blank" rel="noopener">Model&lt;/a> &lt;em>Submitted&lt;/em>. &lt;sup>#&lt;/sup>Co-corresponding authors.&lt;/li>
+&lt;li>Cantoria MJ&lt;sup>*&lt;/sup>, Alizadeh E&lt;sup>*&lt;/sup>, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup>#&lt;/sup>, Lee E&lt;sup>#&lt;/sup>, Thorne CA&lt;sup>#&lt;/sup>. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022
+&lt;a href="https://doi.org/10.1101/2022.01.28.478206" target="_blank" rel="noopener">bioRxiv&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Kewalin Samart&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;h4 id="virginia-tech">Virginia Tech&lt;/h4>
+&lt;ul>
+&lt;li>John Tyson&lt;/li>
+&lt;/ul>
+&lt;h4 id="vanderbilt-university">Vanderbilt University&lt;/h4>
+&lt;ul>
+&lt;li>Ethan Lee&lt;/li>
+&lt;li>Curtis Thorne (now at University of Arizona)&lt;/li>
+&lt;/ul></description></item></channel></rss>

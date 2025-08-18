@@ -1,62 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>vibrio | JRaviLab</title>
-    <link>/tags/vibrio/</link>
-      <atom:link href="/tags/vibrio/index.xml" rel="self" type="application/rss+xml" />
-    <description>vibrio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>vibrio</title>
-      <link>/tags/vibrio/</link>
-    </image>
-    
-    <item>
-      <title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title>
-      <link>/publication/avcd_vcholerae/</link>
-      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/avcd_vcholerae/</guid>
-      <description>&lt;p&gt;BYH and GBS are co-primary authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computational evolutionary approaches</title>
-      <link>/project/pathogenic-features/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/pathogenic-features/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;h4 id=&#34;current&#34;&gt;Current&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Joe Burke&lt;/li&gt;
-&lt;li&gt;Elliot Majlessi&lt;/li&gt;
-&lt;li&gt;Vignesh Sridhar&lt;/li&gt;
-&lt;li&gt;Ethan Wolfe&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;alumni&#34;&gt;Alumni&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Samuel Chen&lt;/li&gt;
-&lt;li&gt;Lo Sosinski&lt;/li&gt;
-&lt;li&gt;Karn Jongnarangsin&lt;/li&gt;
-&lt;li&gt;Lauryn Brooks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Neal Hammer, MSU (Staphylococci)&lt;/li&gt;
-&lt;li&gt;Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li&gt;
-&lt;li&gt;Antonella Fioravanti, VUB Brussels (&lt;em&gt;B. anthracis&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Chris Waters, MSU (Vibrio)&lt;/li&gt;
-&lt;li&gt;Jonathan Hardy, MSU (Listeria)&lt;/li&gt;
-&lt;li&gt;Stephanie Shames, KSU (Legionella)&lt;/li&gt;
-&lt;li&gt;Priya Shah, UCD (Flaviviruses)&lt;/li&gt;
-&lt;li&gt;Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vibrio | JRaviLab</title><link>/tags/vibrio/</link><atom:link href="/tags/vibrio/index.xml" rel="self" type="application/rss+xml"/><description>vibrio</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>vibrio</title><link>/tags/vibrio/</link></image><item><title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title><link>/publication/avcd_vcholerae/</link><pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate><guid>/publication/avcd_vcholerae/</guid><description>&lt;p>BYH and GBS are co-primary authors.&lt;/p></description></item><item><title>Computational evolutionary approaches</title><link>/project/pathogenic-features/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/pathogenic-features/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;h4 id="current">Current&lt;/h4>
+&lt;ul>
+&lt;li>Joe Burke&lt;/li>
+&lt;li>Elliot Majlessi&lt;/li>
+&lt;li>Vignesh Sridhar&lt;/li>
+&lt;li>Ethan Wolfe&lt;/li>
+&lt;/ul>
+&lt;h4 id="alumni">Alumni&lt;/h4>
+&lt;ul>
+&lt;li>Samuel Chen&lt;/li>
+&lt;li>Lo Sosinski&lt;/li>
+&lt;li>Karn Jongnarangsin&lt;/li>
+&lt;li>Lauryn Brooks&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Neal Hammer, MSU (Staphylococci)&lt;/li>
+&lt;li>Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li>
+&lt;li>Antonella Fioravanti, VUB Brussels (&lt;em>B. anthracis&lt;/em>)&lt;/li>
+&lt;li>Chris Waters, MSU (Vibrio)&lt;/li>
+&lt;li>Jonathan Hardy, MSU (Listeria)&lt;/li>
+&lt;li>Stephanie Shames, KSU (Legionella)&lt;/li>
+&lt;li>Priya Shah, UCD (Flaviviruses)&lt;/li>
+&lt;li>Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li>
+&lt;/ul></description></item></channel></rss>

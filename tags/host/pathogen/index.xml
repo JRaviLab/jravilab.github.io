@@ -1,173 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>host/pathogen | JRaviLab</title>
-    <link>/tags/host/pathogen/</link>
-      <atom:link href="/tags/host/pathogen/index.xml" rel="self" type="application/rss+xml" />
-    <description>host/pathogen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>host/pathogen</title>
-      <link>/tags/host/pathogen/</link>
-    </image>
-    
-    <item>
-      <title>The phage shock protein (PSP) envelope stress response: discovery of novel partners and evolutionary history</title>
-      <link>/publication/psp_evolution/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition</title>
-      <link>/publication/ggt_saureus/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/ggt_saureus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title>
-      <link>/publication/avcd_vcholerae/</link>
-      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/avcd_vcholerae/</guid>
-      <description>&lt;p&gt;BYH and GBS are co-primary authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DciA Helicase Operators Exhibit Diversity across Bacterial Phyla</title>
-      <link>/publication/dcia_evolution/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/dcia_evolution/</guid>
-      <description>&lt;p&gt;HCB and JTB are co-primary authors. JR and CLS are co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title>
-      <link>/publication/inlp_listeria/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/inlp_listeria/</guid>
-      <description>&lt;p&gt;KNC and JTB are co-primary authors. JR and JWH are co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/publication/molevolvr_webapp/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/molevolvr_webapp/</guid>
-      <description>&lt;p&gt;JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population</title>
-      <link>/publication/brazil_genomes_mtb/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/brazil_genomes_mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sRNA discovery</title>
-      <link>/project/srna/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/srna/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Philip Calhoun&lt;/li&gt;
-&lt;li&gt;Elliot Majlessi&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title>
-      <link>/publication/tcy_saureus/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tcy_saureus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/psp_actino/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_actino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/sigfac_mtb/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/sigfac_mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Studying lipid metabolism deregulation in TB</title>
-      <link>/project/lipid-metabolism/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/project/lipid-metabolism/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We also studied host responses to &lt;em&gt;M. tuberculosis&lt;/em&gt; infection using computational approaches:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li&gt;
-&lt;li&gt;understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro&lt;/li&gt;
-&lt;li&gt;Sanjay Tyagi&lt;/li&gt;
-&lt;li&gt;Eduardo Sontag (now in North Eastern)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;tulane-university&#34;&gt;Tulane University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Deepak Kaushal&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;knowledge-synthesis&#34;&gt;Knowledge Synthesis&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Hugh Salamon&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
-      <link>/talk/2015-rutgers-symp/</link>
-      <pubDate>Thu, 05 Nov 2015 11:45:00 +0000</pubDate>
-      <guid>/talk/2015-rutgers-symp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/psp_mtb/</link>
-      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/publication/jimm/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/jimm/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>host/pathogen | JRaviLab</title><link>/tags/host/pathogen/</link><atom:link href="/tags/host/pathogen/index.xml" rel="self" type="application/rss+xml"/><description>host/pathogen</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>host/pathogen</title><link>/tags/host/pathogen/</link></image><item><title>The phage shock protein (PSP) envelope stress response: discovery of novel partners and evolutionary history</title><link>/publication/psp_evolution/</link><pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate><guid>/publication/psp_evolution/</guid><description/></item><item><title>The glutathione import system satisfies the Staphylococcus aureus nutrient sulfur requirement and promotes interspecies competition</title><link>/publication/ggt_saureus/</link><pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate><guid>/publication/ggt_saureus/</guid><description/></item><item><title>Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria</title><link>/publication/avcd_vcholerae/</link><pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate><guid>/publication/avcd_vcholerae/</guid><description>&lt;p>BYH and GBS are co-primary authors.&lt;/p></description></item><item><title>DciA Helicase Operators Exhibit Diversity across Bacterial Phyla</title><link>/publication/dcia_evolution/</link><pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate><guid>/publication/dcia_evolution/</guid><description>&lt;p>HCB and JTB are co-primary authors. JR and CLS are co-corresponding authors.&lt;/p></description></item><item><title>Novel Internalin P homologs in Listeria ivanovii londoniensis and Listeria seeligeri</title><link>/publication/inlp_listeria/</link><pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate><guid>/publication/inlp_listeria/</guid><description>&lt;p>KNC and JTB are co-primary authors. JR and JWH are co-corresponding authors.&lt;/p></description></item><item><title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title><link>/publication/molevolvr_webapp/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>/publication/molevolvr_webapp/</guid><description>&lt;p>JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p></description></item><item><title>Discovery of a predominant and distinct lineage of Mycobacterium tuberculosis in Brazilian indigenous population</title><link>/publication/brazil_genomes_mtb/</link><pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate><guid>/publication/brazil_genomes_mtb/</guid><description/></item><item><title>sRNA discovery</title><link>/project/srna/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/srna/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;ul>
+&lt;li>Philip Calhoun&lt;/li>
+&lt;li>Elliot Majlessi&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Srinand Sreevatsan (Mycobacteria)&lt;/li>
+&lt;/ul></description></item><item><title>The Staphylococcus aureus cystine transporters, TcyABC and TcyP, facilitate nutrient sulfur acquisition during infection</title><link>/publication/tcy_saureus/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>/publication/tcy_saureus/</guid><description/></item><item><title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title><link>/publication/psp_actino/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/publication/psp_actino/</guid><description/></item><item><title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title><link>/publication/sigfac_mtb/</link><pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate><guid>/publication/sigfac_mtb/</guid><description/></item><item><title>Studying lipid metabolism deregulation in TB</title><link>/project/lipid-metabolism/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/lipid-metabolism/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We also studied host responses to &lt;em>M. tuberculosis&lt;/em> infection using computational approaches:&lt;/p>
+&lt;ul>
+&lt;li>characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li>
+&lt;li>understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;h4 id="rutgers-university">Rutgers University&lt;/h4>
+&lt;ul>
+&lt;li>Marila Gennaro&lt;/li>
+&lt;li>Sanjay Tyagi&lt;/li>
+&lt;li>Eduardo Sontag (now in North Eastern)&lt;/li>
+&lt;/ul>
+&lt;h4 id="tulane-university">Tulane University&lt;/h4>
+&lt;ul>
+&lt;li>Deepak Kaushal&lt;/li>
+&lt;/ul>
+&lt;h4 id="knowledge-synthesis">Knowledge Synthesis&lt;/h4>
+&lt;ul>
+&lt;li>Hugh Salamon&lt;/li>
+&lt;/ul></description></item><item><title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title><link>/talk/2015-rutgers-symp/</link><pubDate>Thu, 05 Nov 2015 11:45:00 +0000</pubDate><guid>/talk/2015-rutgers-symp/</guid><description/></item><item><title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title><link>/publication/psp_mtb/</link><pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/psp_mtb/</guid><description/></item><item><title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title><link>/publication/jimm/</link><pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate><guid>/publication/jimm/</guid><description/></item></channel></rss>

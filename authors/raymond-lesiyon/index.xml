@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>JRaviLab</title>
-    <link>/authors/raymond-lesiyon/</link>
-      <atom:link href="/authors/raymond-lesiyon/index.xml" rel="self" type="application/rss+xml" />
-    <description>JRaviLab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>JRaviLab</title>
-      <link>/authors/raymond-lesiyon/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JRaviLab</title><link>/authors/raymond-lesiyon/</link><atom:link href="/authors/raymond-lesiyon/index.xml" rel="self" type="application/rss+xml"/><description>JRaviLab</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>JRaviLab</title><link>/authors/raymond-lesiyon/</link></image></channel></rss>

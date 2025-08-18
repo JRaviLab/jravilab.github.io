@@ -1,56 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>disease-signature | JRaviLab</title>
-    <link>/tags/disease-signature/</link>
-      <atom:link href="/tags/disease-signature/index.xml" rel="self" type="application/rss+xml" />
-    <description>disease-signature</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Mon, 22 Nov 2021 20:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>disease-signature</title>
-      <link>/tags/disease-signature/</link>
-    </image>
-    
-    <item>
-      <title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title>
-      <link>/talk/2021-cu/</link>
-      <pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-cu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>
-      <link>/publication/connectivity_scores/</link>
-      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/connectivity_scores/</guid>
-      <description>&lt;p&gt;KS and PT are co-primary authors. AK and JR are co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Host-responses to infection</title>
-      <link>/project/host-response/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/project/host-response/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;alumni&#34;&gt;Alumni&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Phoebe Tuyishime (MSU, UBC)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Arjun Krishnan (MSU)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>disease-signature | JRaviLab</title><link>/tags/disease-signature/</link><atom:link href="/tags/disease-signature/index.xml" rel="self" type="application/rss+xml"/><description>disease-signature</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Mon, 22 Nov 2021 20:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>disease-signature</title><link>/tags/disease-signature/</link></image><item><title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title><link>/talk/2021-cu/</link><pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate><guid>/talk/2021-cu/</guid><description/></item><item><title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title><link>/publication/connectivity_scores/</link><pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate><guid>/publication/connectivity_scores/</guid><description>&lt;p>KS and PT are co-primary authors. AK and JR are co-corresponding authors.&lt;/p></description></item><item><title>Host-responses to infection</title><link>/project/host-response/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/host-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;ul>
+&lt;li>Kewalin Samart (MSU)&lt;/li>
+&lt;/ul>
+&lt;h3 id="alumni">Alumni&lt;/h3>
+&lt;ul>
+&lt;li>Phoebe Tuyishime (MSU, UBC)&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Arjun Krishnan (MSU)&lt;/li>
+&lt;/ul></description></item></channel></rss>

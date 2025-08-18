@@ -1,214 +1,136 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects | JRaviLab</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
-    </image>
-    
-    <item>
-      <title>Computational evolutionary approaches</title>
-      <link>/project/pathogenic-features/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/pathogenic-features/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;h4 id=&#34;current&#34;&gt;Current&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Joe Burke&lt;/li&gt;
-&lt;li&gt;Elliot Majlessi&lt;/li&gt;
-&lt;li&gt;Vignesh Sridhar&lt;/li&gt;
-&lt;li&gt;Ethan Wolfe&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;alumni&#34;&gt;Alumni&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Samuel Chen&lt;/li&gt;
-&lt;li&gt;Lo Sosinski&lt;/li&gt;
-&lt;li&gt;Karn Jongnarangsin&lt;/li&gt;
-&lt;li&gt;Lauryn Brooks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Neal Hammer, MSU (Staphylococci)&lt;/li&gt;
-&lt;li&gt;Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li&gt;
-&lt;li&gt;Antonella Fioravanti, VUB Brussels (&lt;em&gt;B. anthracis&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Chris Waters, MSU (Vibrio)&lt;/li&gt;
-&lt;li&gt;Jonathan Hardy, MSU (Listeria)&lt;/li&gt;
-&lt;li&gt;Stephanie Shames, KSU (Legionella)&lt;/li&gt;
-&lt;li&gt;Priya Shah, UCD (Flaviviruses)&lt;/li&gt;
-&lt;li&gt;Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>sRNA discovery</title>
-      <link>/project/srna/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/srna/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Philip Calhoun&lt;/li&gt;
-&lt;li&gt;Elliot Majlessi&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bacterial Stress Response</title>
-      <link>/project/stress-response/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/project/stress-response/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;I started working on bacterial stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li&gt;
-&lt;li&gt;unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li&gt;
-&lt;li&gt;reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Samuel Chen (Alumni)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro (Rutgers)&lt;/li&gt;
-&lt;li&gt;L Aravind (NCBI, NIH)&lt;/li&gt;
-&lt;li&gt;Vivek Anantharaman (NCBI, NIH)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R &amp; R-Ladies East Lansing</title>
-      <link>/project/r/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <guid>/project/r/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;/tags/R&#34;&gt;R&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Host-responses to infection</title>
-      <link>/project/host-response/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/project/host-response/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;alumni&#34;&gt;Alumni&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Phoebe Tuyishime (MSU, UBC)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Arjun Krishnan (MSU)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Studying lipid metabolism deregulation in TB</title>
-      <link>/project/lipid-metabolism/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/project/lipid-metabolism/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We also studied host responses to &lt;em&gt;M. tuberculosis&lt;/em&gt; infection using computational approaches:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li&gt;
-&lt;li&gt;understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro&lt;/li&gt;
-&lt;li&gt;Sanjay Tyagi&lt;/li&gt;
-&lt;li&gt;Eduardo Sontag (now in North Eastern)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;tulane-university&#34;&gt;Tulane University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Deepak Kaushal&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;knowledge-synthesis&#34;&gt;Knowledge Synthesis&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Hugh Salamon&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dynamical Systems &amp; Modeling</title>
-      <link>/project/dynamical-systems/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/project/dynamical-systems/</guid>
-      <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
-&lt;p&gt;During 
-&lt;a href=&#34;http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my graduate research with Dr John Tyson&lt;/a&gt;, I built mathematical models to understand dynamical aspects:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Modeling the START transition in the budding yeast cell cycle:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li&gt;
-&lt;li&gt;Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li&gt;
-&lt;li&gt;Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li&gt;
-&lt;li&gt;Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li&gt;
-&lt;li&gt;This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Modeling bistability in the canonical Wnt pathway:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
-additional key regulatory interactions.&lt;/li&gt;
-&lt;li&gt;Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
-experimental results.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;related-publications&#34;&gt;Related publications&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ravi J&lt;sup&gt;#&lt;/sup&gt;, Samart K, Zwolak JW, Tyson JJ&lt;sup&gt;#&lt;/sup&gt;. Modeling the START transition in the budding yeast cell cycle. 
-&lt;a href=&#34;http://sbmlsimulator.org/simulator/by-start&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model&lt;/a&gt; &lt;em&gt;Submitted&lt;/em&gt;. &lt;sup&gt;#&lt;/sup&gt;Co-corresponding authors.&lt;/li&gt;
-&lt;li&gt;Cantoria MJ&lt;sup&gt;*&lt;/sup&gt;, Alizadeh E&lt;sup&gt;*&lt;/sup&gt;, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup&gt;#&lt;/sup&gt;, Lee E&lt;sup&gt;#&lt;/sup&gt;, Thorne CA&lt;sup&gt;#&lt;/sup&gt;. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022 
-&lt;a href=&#34;https://doi.org/10.1101/2022.01.28.478206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bioRxiv&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Kewalin Samart&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;virginia-tech&#34;&gt;Virginia Tech&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;John Tyson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;vanderbilt-university&#34;&gt;Vanderbilt University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Ethan Lee&lt;/li&gt;
-&lt;li&gt;Curtis Thorne (now at University of Arizona)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | JRaviLab</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>Projects</title><link>/project/</link></image><item><title>Computational evolutionary approaches</title><link>/project/pathogenic-features/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/pathogenic-features/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;h4 id="current">Current&lt;/h4>
+&lt;ul>
+&lt;li>Joe Burke&lt;/li>
+&lt;li>Elliot Majlessi&lt;/li>
+&lt;li>Vignesh Sridhar&lt;/li>
+&lt;li>Ethan Wolfe&lt;/li>
+&lt;/ul>
+&lt;h4 id="alumni">Alumni&lt;/h4>
+&lt;ul>
+&lt;li>Samuel Chen&lt;/li>
+&lt;li>Lo Sosinski&lt;/li>
+&lt;li>Karn Jongnarangsin&lt;/li>
+&lt;li>Lauryn Brooks&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Neal Hammer, MSU (Staphylococci)&lt;/li>
+&lt;li>Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li>
+&lt;li>Antonella Fioravanti, VUB Brussels (&lt;em>B. anthracis&lt;/em>)&lt;/li>
+&lt;li>Chris Waters, MSU (Vibrio)&lt;/li>
+&lt;li>Jonathan Hardy, MSU (Listeria)&lt;/li>
+&lt;li>Stephanie Shames, KSU (Legionella)&lt;/li>
+&lt;li>Priya Shah, UCD (Flaviviruses)&lt;/li>
+&lt;li>Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li>
+&lt;/ul></description></item><item><title>sRNA discovery</title><link>/project/srna/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/srna/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;ul>
+&lt;li>Philip Calhoun&lt;/li>
+&lt;li>Elliot Majlessi&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Srinand Sreevatsan (Mycobacteria)&lt;/li>
+&lt;/ul></description></item><item><title>Bacterial Stress Response</title><link>/project/stress-response/</link><pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate><guid>/project/stress-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>I started working on bacterial stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p>
+&lt;ul>
+&lt;li>delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li>
+&lt;li>unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li>
+&lt;li>reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Samuel Chen (Alumni)&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;ul>
+&lt;li>Marila Gennaro (Rutgers)&lt;/li>
+&lt;li>L Aravind (NCBI, NIH)&lt;/li>
+&lt;li>Vivek Anantharaman (NCBI, NIH)&lt;/li>
+&lt;/ul></description></item><item><title>R &amp; R-Ladies East Lansing</title><link>/project/r/</link><pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate><guid>/project/r/</guid><description>&lt;p>
+&lt;a href="/tags/R">R&lt;/a> &amp;amp;
+&lt;a href="/tags/rladies">R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a>&lt;/p></description></item><item><title>Host-responses to infection</title><link>/project/host-response/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/host-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;ul>
+&lt;li>Kewalin Samart (MSU)&lt;/li>
+&lt;/ul>
+&lt;h3 id="alumni">Alumni&lt;/h3>
+&lt;ul>
+&lt;li>Phoebe Tuyishime (MSU, UBC)&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Arjun Krishnan (MSU)&lt;/li>
+&lt;/ul></description></item><item><title>Studying lipid metabolism deregulation in TB</title><link>/project/lipid-metabolism/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/lipid-metabolism/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We also studied host responses to &lt;em>M. tuberculosis&lt;/em> infection using computational approaches:&lt;/p>
+&lt;ul>
+&lt;li>characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li>
+&lt;li>understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;h4 id="rutgers-university">Rutgers University&lt;/h4>
+&lt;ul>
+&lt;li>Marila Gennaro&lt;/li>
+&lt;li>Sanjay Tyagi&lt;/li>
+&lt;li>Eduardo Sontag (now in North Eastern)&lt;/li>
+&lt;/ul>
+&lt;h4 id="tulane-university">Tulane University&lt;/h4>
+&lt;ul>
+&lt;li>Deepak Kaushal&lt;/li>
+&lt;/ul>
+&lt;h4 id="knowledge-synthesis">Knowledge Synthesis&lt;/h4>
+&lt;ul>
+&lt;li>Hugh Salamon&lt;/li>
+&lt;/ul></description></item><item><title>Dynamical Systems &amp; Modeling</title><link>/project/dynamical-systems/</link><pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate><guid>/project/dynamical-systems/</guid><description>&lt;h2 id="research">Research&lt;/h2>
+&lt;p>During
+&lt;a href="http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/" target="_blank" rel="noopener">my graduate research with Dr John Tyson&lt;/a>, I built mathematical models to understand dynamical aspects:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Modeling the START transition in the budding yeast cell cycle:&lt;/p>
+&lt;ul>
+&lt;li>Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li>
+&lt;li>Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li>
+&lt;li>Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li>
+&lt;li>Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li>
+&lt;li>This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Modeling bistability in the canonical Wnt pathway:&lt;/p>
+&lt;ul>
+&lt;li>Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
+additional key regulatory interactions.&lt;/li>
+&lt;li>Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
+experimental results.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="related-publications">Related publications&lt;/h2>
+&lt;ul>
+&lt;li>Ravi J&lt;sup>#&lt;/sup>, Samart K, Zwolak JW, Tyson JJ&lt;sup>#&lt;/sup>. Modeling the START transition in the budding yeast cell cycle.
+&lt;a href="http://sbmlsimulator.org/simulator/by-start" target="_blank" rel="noopener">Model&lt;/a> &lt;em>Submitted&lt;/em>. &lt;sup>#&lt;/sup>Co-corresponding authors.&lt;/li>
+&lt;li>Cantoria MJ&lt;sup>*&lt;/sup>, Alizadeh E&lt;sup>*&lt;/sup>, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup>#&lt;/sup>, Lee E&lt;sup>#&lt;/sup>, Thorne CA&lt;sup>#&lt;/sup>. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022
+&lt;a href="https://doi.org/10.1101/2022.01.28.478206" target="_blank" rel="noopener">bioRxiv&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Kewalin Samart&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;h4 id="virginia-tech">Virginia Tech&lt;/h4>
+&lt;ul>
+&lt;li>John Tyson&lt;/li>
+&lt;/ul>
+&lt;h4 id="vanderbilt-university">Vanderbilt University&lt;/h4>
+&lt;ul>
+&lt;li>Ethan Lee&lt;/li>
+&lt;li>Curtis Thorne (now at University of Arizona)&lt;/li>
+&lt;/ul></description></item></channel></rss>

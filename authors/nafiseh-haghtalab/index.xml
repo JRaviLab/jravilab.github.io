@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nafiseh Haghtalab | JRaviLab</title>
-    <link>/authors/nafiseh-haghtalab/</link>
-      <atom:link href="/authors/nafiseh-haghtalab/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nafiseh Haghtalab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Mon, 05 Nov 2018 18:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>Nafiseh Haghtalab</title>
-      <link>/authors/nafiseh-haghtalab/</link>
-    </image>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>/talk/2018-rlel-tidydata/</link>
-      <pubDate>Mon, 05 Nov 2018 18:00:00 +0000</pubDate>
-      <guid>/talk/2018-rlel-tidydata/</guid>
-      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
-&lt;p&gt;Workshop material: 
-&lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
-&lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nafiseh Haghtalab | JRaviLab</title><link>/authors/nafiseh-haghtalab/</link><atom:link href="/authors/nafiseh-haghtalab/index.xml" rel="self" type="application/rss+xml"/><description>Nafiseh Haghtalab</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Mon, 05 Nov 2018 18:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>Nafiseh Haghtalab</title><link>/authors/nafiseh-haghtalab/</link></image><item><title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title><link>/talk/2018-rlel-tidydata/</link><pubDate>Mon, 05 Nov 2018 18:00:00 +0000</pubDate><guid>/talk/2018-rlel-tidydata/</guid><description>&lt;img src="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true" width="60%" />
+&lt;p>Workshop material:
+&lt;a href="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata" target="_blank" rel="noopener">GitHub&lt;/a> •
+&lt;a href="https://bit.ly/rlel-20181105" target="_blank" rel="noopener">Google Drive&lt;/a>&lt;/p></description></item></channel></rss>

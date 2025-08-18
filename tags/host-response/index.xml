@@ -1,84 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>host-response | JRaviLab</title>
-    <link>/tags/host-response/</link>
-      <atom:link href="/tags/host-response/index.xml" rel="self" type="application/rss+xml" />
-    <description>host-response</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Mon, 22 Nov 2021 20:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>host-response</title>
-      <link>/tags/host-response/</link>
-    </image>
-    
-    <item>
-      <title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title>
-      <link>/talk/2021-cu/</link>
-      <pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-cu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title>
-      <link>/publication/connectivity_scores/</link>
-      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/connectivity_scores/</guid>
-      <description>&lt;p&gt;KS and PT are co-primary authors. AK and JR are co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>sRNA discovery</title>
-      <link>/project/srna/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/srna/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Philip Calhoun&lt;/li&gt;
-&lt;li&gt;Elliot Majlessi&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Srinand Sreevatsan (Mycobacteria)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Host-responses to infection</title>
-      <link>/project/host-response/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/project/host-response/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Kewalin Samart (MSU)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;alumni&#34;&gt;Alumni&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Phoebe Tuyishime (MSU, UBC)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Arjun Krishnan (MSU)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/publication/jimm/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/jimm/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>host-response | JRaviLab</title><link>/tags/host-response/</link><atom:link href="/tags/host-response/index.xml" rel="self" type="application/rss+xml"/><description>host-response</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Mon, 22 Nov 2021 20:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>host-response</title><link>/tags/host-response/</link></image><item><title>Computational approaches to study molecular pathogenesis and intervention of infectious diseases</title><link>/talk/2021-cu/</link><pubDate>Mon, 22 Nov 2021 20:00:00 +0000</pubDate><guid>/talk/2021-cu/</guid><description/></item><item><title>Reconciling Multiple Connectivity Scores for Drug Repurposing</title><link>/publication/connectivity_scores/</link><pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate><guid>/publication/connectivity_scores/</guid><description>&lt;p>KS and PT are co-primary authors. AK and JR are co-corresponding authors.&lt;/p></description></item><item><title>sRNA discovery</title><link>/project/srna/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/srna/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;ul>
+&lt;li>Philip Calhoun&lt;/li>
+&lt;li>Elliot Majlessi&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Srinand Sreevatsan (Mycobacteria)&lt;/li>
+&lt;/ul></description></item><item><title>Host-responses to infection</title><link>/project/host-response/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/host-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;h3 id="students">Students&lt;/h3>
+&lt;ul>
+&lt;li>Kewalin Samart (MSU)&lt;/li>
+&lt;/ul>
+&lt;h3 id="alumni">Alumni&lt;/h3>
+&lt;ul>
+&lt;li>Phoebe Tuyishime (MSU, UBC)&lt;/li>
+&lt;/ul>
+&lt;h3 id="collaborators">Collaborators&lt;/h3>
+&lt;ul>
+&lt;li>Arjun Krishnan (MSU)&lt;/li>
+&lt;/ul></description></item><item><title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title><link>/publication/jimm/</link><pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate><guid>/publication/jimm/</guid><description/></item></channel></rss>

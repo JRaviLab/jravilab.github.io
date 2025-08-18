@@ -1,53 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>lipid-metabolism | JRaviLab</title>
-    <link>/tags/lipid-metabolism/</link>
-      <atom:link href="/tags/lipid-metabolism/index.xml" rel="self" type="application/rss+xml" />
-    <description>lipid-metabolism</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Thu, 31 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>lipid-metabolism</title>
-      <link>/tags/lipid-metabolism/</link>
-    </image>
-    
-    <item>
-      <title>Studying lipid metabolism deregulation in TB</title>
-      <link>/project/lipid-metabolism/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/project/lipid-metabolism/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;We also studied host responses to &lt;em&gt;M. tuberculosis&lt;/em&gt; infection using computational approaches:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li&gt;
-&lt;li&gt;understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
-&lt;h4 id=&#34;rutgers-university&#34;&gt;Rutgers University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Marila Gennaro&lt;/li&gt;
-&lt;li&gt;Sanjay Tyagi&lt;/li&gt;
-&lt;li&gt;Eduardo Sontag (now in North Eastern)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;tulane-university&#34;&gt;Tulane University&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Deepak Kaushal&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;knowledge-synthesis&#34;&gt;Knowledge Synthesis&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Hugh Salamon&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
-      <link>/talk/2015-rutgers-symp/</link>
-      <pubDate>Thu, 05 Nov 2015 11:45:00 +0000</pubDate>
-      <guid>/talk/2015-rutgers-symp/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lipid-metabolism | JRaviLab</title><link>/tags/lipid-metabolism/</link><atom:link href="/tags/lipid-metabolism/index.xml" rel="self" type="application/rss+xml"/><description>lipid-metabolism</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Thu, 31 Dec 2015 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>lipid-metabolism</title><link>/tags/lipid-metabolism/</link></image><item><title>Studying lipid metabolism deregulation in TB</title><link>/project/lipid-metabolism/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/lipid-metabolism/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We also studied host responses to &lt;em>M. tuberculosis&lt;/em> infection using computational approaches:&lt;/p>
+&lt;ul>
+&lt;li>characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li>
+&lt;li>understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li>
+&lt;/ul>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;h4 id="rutgers-university">Rutgers University&lt;/h4>
+&lt;ul>
+&lt;li>Marila Gennaro&lt;/li>
+&lt;li>Sanjay Tyagi&lt;/li>
+&lt;li>Eduardo Sontag (now in North Eastern)&lt;/li>
+&lt;/ul>
+&lt;h4 id="tulane-university">Tulane University&lt;/h4>
+&lt;ul>
+&lt;li>Deepak Kaushal&lt;/li>
+&lt;/ul>
+&lt;h4 id="knowledge-synthesis">Knowledge Synthesis&lt;/h4>
+&lt;ul>
+&lt;li>Hugh Salamon&lt;/li>
+&lt;/ul></description></item><item><title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title><link>/talk/2015-rutgers-symp/</link><pubDate>Thu, 05 Nov 2015 11:45:00 +0000</pubDate><guid>/talk/2015-rutgers-symp/</guid><description/></item></channel></rss>

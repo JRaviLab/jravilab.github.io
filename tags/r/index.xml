@@ -1,562 +1,299 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>R | JRaviLab</title>
-    <link>/tags/r/</link>
-      <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
-    <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>R</title>
-      <link>/tags/r/</link>
-    </image>
-    
-    <item>
-      <title>The phage shock protein (PSP) envelope stress response: discovery of novel partners and evolutionary history</title>
-      <link>/publication/psp_evolution/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR BTS: When and how to build a web-app and software package?</title>
-      <link>/talk/2023-glbio/</link>
-      <pubDate>Mon, 15 May 2023 13:00:00 +0000</pubDate>
-      <guid>/talk/2023-glbio/</guid>
-      <description>&lt;p&gt;Workshop material: 
-&lt;a href=&#34;https://github.com/jraviLab/2023-glbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jraviLab/2023-glbio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hosted w/ 
-&lt;a href=&#34;https://jravilab.github.io/authors/jacob-d-krol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jake Krol&lt;/a&gt;, Faisal Alquaddoomi&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ten simple rules to host an inclusive conference</title>
-      <link>/publication/10sr_inclusive_conference/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/10sr_inclusive_conference/</guid>
-      <description>&lt;p&gt;RJ and AST are co-primary authors. RJ and JR are co-corresponding authors.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using Tidyverse for Genomics</title>
-      <link>/talk/2022-iscb_academy/</link>
-      <pubDate>Sat, 28 May 2022 20:00:00 +0000</pubDate>
-      <guid>/talk/2022-iscb_academy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/publication/molevolvr_webapp/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/molevolvr_webapp/</guid>
-      <description>&lt;p&gt;JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How I teach Life Scientists to Build Inclusive Communities</title>
-      <link>/talk/2022-lst/</link>
-      <pubDate>Thu, 17 Feb 2022 20:00:00 +0000</pubDate>
-      <guid>/talk/2022-lst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strategies to build a strong diverse AsiaR community</title>
-      <link>/talk/2021-bioc_asia/</link>
-      <pubDate>Wed, 03 Nov 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-bioc_asia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incubator: Stop reinventing the wheel: R package(s) for conference and abstract management</title>
-      <link>/talk/2021-user_rconference/</link>
-      <pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-user_rconference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: Web-app and R-package for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/talk/2021-user/</link>
-      <pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incubator: Strategies to build a strong AsiaR community</title>
-      <link>/talk/2021-user_asiar/</link>
-      <pubDate>Thu, 08 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-user_asiar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Making cool publication quality tables w/ R</title>
-      <link>/talk/2021-rlpune/</link>
-      <pubDate>Sun, 09 May 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-rlpune/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RLadies&#43; featuring useR! meetup</title>
-      <link>/talk/2021-rladies_user/</link>
-      <pubDate>Wed, 28 Apr 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-rladies_user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Tidyverse for Genomics</title>
-      <link>/talk/2021-rltunis_rlbgl/</link>
-      <pubDate>Sat, 24 Apr 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-rltunis_rlbgl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S-layers: the proteinaceous multifunctional armours of Gram-positive pathogens</title>
-      <link>/publication/slps_grampos/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/slps_grampos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RLEL Workshop on RMarkdown &amp; Reproducible Research</title>
-      <link>/talk/2020-rmarkdown/</link>
-      <pubDate>Mon, 24 Feb 2020 18:00:00 +0000</pubDate>
-      <guid>/talk/2020-rmarkdown/</guid>
-      <description>&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RLEL Workshop on DataViz 2.0</title>
-      <link>/talk/2020-rlel-dataviz2.0/</link>
-      <pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate>
-      <guid>/talk/2020-rlel-dataviz2.0/</guid>
-      <description>&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tidyverse for Genomics</title>
-      <link>/talk/2020-plb/</link>
-      <pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/2020-plb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Tidyverse for Genomics workshop</title>
-      <link>/talk/2019-iitm/</link>
-      <pubDate>Tue, 05 Mar 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/2019-iitm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tidyverse workshop</title>
-      <link>/talk/2019-plb/</link>
-      <pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/2019-plb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Join us!</title>
-      <link>/joinus/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/joinus/</guid>
-      <description>&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;#postdoctoral-researcher&#34;&gt;Postdoc&lt;/a&gt; | 
-&lt;a href=&#34;#scientific-programmer&#34;&gt;Scientific programmer&lt;/a&gt; | 
-&lt;a href=&#34;#graduate-students&#34;&gt;Grad students&lt;/a&gt; | 
-&lt;a href=&#34;#undergraduate-students&#34;&gt;Undergrads&lt;/a&gt; | 
-&lt;a href=&#34;#visiting-scientist&#34;&gt;Visiting scientist&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;postdoctoral-researcher&#34;&gt;Postdoctoral Researcher&lt;/h2&gt;
-&lt;p&gt;We are looking for a talented and motivated individual to join the JRaviLab (PI: Dr. Janani Ravi) at the 
-&lt;a href=&#34;https://medschool.cuanschutz.edu/ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Health AI&lt;/a&gt;, University of Colorado, Anschutz Medical Campus as a postdoctoral researcher. In our group, we develop/apply computational approaches to analyze and visualize multiscale biological data to study microbial phenotypes and diseases, including genomes, protein sequence-structural features, transcriptomes, and pathway memberships.
-Postdocs will contribute to this vision by 1) developing new computational approaches to analyze and integrate large collections of biological data, 2) applying these approaches to specific problems in microbiology and infectious diseases, and 3) communicating the methods and discoveries openly to the broader biomedical/clinical community.&lt;/p&gt;
-&lt;p&gt;In addition to participating in ongoing projects, we strongly encourage postdocs to come up with several research ideas, jointly develop them into creative projects, and lead the way in those new directions. We encourage postdocs to apply for federal/foundational fellowships.&lt;/p&gt;
-&lt;p&gt;We are committed to building a diverse team and sustaining an inclusive and supportive environment; we strongly encourage underrepresented minorities in STEM to apply, including but not limited to BIPOC and LGBTQIA+ folks. The position is open to international applicants, in addition to US citizens/permanent residents.&lt;/p&gt;
-&lt;h3 id=&#34;qualifications&#34;&gt;Qualifications&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;A PhD or equivalent, with a strong background in bioinformatics, computational biology, genetics/microbiology, statistics, computer science, machine learning, or other closely related fields.&lt;/li&gt;
-&lt;li&gt;Programming experience in R or Python w/ version control (Git). Experience with handling large datasets in a Unix/Linux environment, high-performance cluster computing is a plus. Familiarity with bioinformatics databases and tools would also be a bonus.&lt;/li&gt;
-&lt;li&gt;Good communication skills, willingness to collaborate openly, give/take constructive feedback, and sustain a friendly and fun lab culture.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;what-will-you-get&#34;&gt;What will you get&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Freedom to work on your best ideas broadly aligned with the lab’s vision.&lt;/li&gt;
-&lt;li&gt;Several opportunities to collaborate with fantastic computational, experimental, and clinical researchers at the Center for Health AI and beyond.&lt;/li&gt;
-&lt;li&gt;Resources to develop your own research program and your technical skills as you plan to move to the next stage of your career.&lt;/li&gt;
-&lt;li&gt;Opportunities to mentor students, participate in peer-review and grant-writing, international conferences, and, based on your interests, participate in education and outreach activities.&lt;/li&gt;
-&lt;li&gt;A vibrant, supportive environment: A bunch of really smart and fun colleagues at CHAI and DBMI; Workspace in a contemporary open-office layout in the magnificent new Health Science building with a fabulous view of the Rocky Mountains, easy access to cafeterias; Beautiful campus; Supportive department environment and postdoctoral association (including slack) for professional development; Competitive salary commensurate with experience.&lt;/li&gt;
-&lt;li&gt;Mentoring &amp;amp; support: In addition to being your scientific mentor, my primary responsibility is to help your personal and professional growth by facilitating all of the above. You will always find in me an audience to discuss opportunities/challenges and a strong advocate for your interests. You will also have the option to form a formal mentoring committee.&lt;/li&gt;
-&lt;li&gt;Inclusive, friendly, and supportive environment for underrepresented minorities in STEM and quantitative sciences, and safe space for members across all intersectionalities.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;apply--find-out-more&#34;&gt;Apply | Find out more&lt;/h3&gt;
-&lt;p&gt;If you have questions or want to chat about this position, please write to me (
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;janani.ravi@cuanschutz.edu&lt;/a&gt;). If you are interested in something like this, it’s never too early to reach out!
-To apply, apply to this posting with 1) a detailed CV that includes a link to your Google Scholar page and a list of publications, 2) a cover letter that includes a description of your research accomplishments, how your interests connect with our group’s work, what might be some lines of future work that you are interested in, and what your future professional goals are, and 3) names &amp;amp; contact information for three references.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: 
-&lt;a href=&#34;https://www.cu.edu/employee-services/benefits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cu.edu/employee-services/benefits&lt;/a&gt; | 
-&lt;a href=&#34;https://www.cu.edu/employee-services/benefits-wellness/new-employee/PBO/post-doc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;postdoc benefits&lt;/a&gt; &lt;br&gt;
-&lt;strong&gt;Total Compensation Calculator&lt;/strong&gt;: 
-&lt;a href=&#34;https://www.cu.edu/employee-services/total-compensation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cu.edu/employee-services/total-compensation&lt;/a&gt; &lt;br&gt;
-&lt;strong&gt;Diversity and Equity&lt;/strong&gt;: Please contact 
-&lt;a href=&#34;mailto:hr.adacoordinator@ucdenver.edu&#34;&gt;hr.adacoordinator@ucdenver.edu&lt;/a&gt; for information on disability accommodations.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;scientific-programmer&#34;&gt;Scientific Programmer&lt;/h2&gt;
-&lt;p&gt;We are looking for coding enthusiasts to join the JRaviLab as scientific programmers. In our group, we develop/apply computational approaches to analyze and visualize multiscale biological data to study microbial phenotypes and diseases, including genomes, protein sequence-structural features, transcriptomes, and pathway memberships.&lt;/p&gt;
-&lt;p&gt;The programmer is expected to contribute most of the code that goes into our analytical pipelines (that utilize high-performance clusters and cloud infrastructure) and production-ready webservers. They are expected to maintain high standards for code documentation, clarity, efficiency, and maintainability. In addition to maintaining these standards in their own code, they should set high expectations for other lab members and share their expertise to improve the code that all members of the lab are writing.
-We are committed to building a diverse team and sustaining an inclusive and supportive environment; we strongly encourage underrepresented minorities in STEM to apply, including but not limited to BIPOC, LGBTQIA+ folks. The position is open to international applicants, in addition to US citizens/permanent residents.&lt;/p&gt;
-&lt;h3 id=&#34;qualifications-1&#34;&gt;Qualifications&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Excellent programming skills in R and/or Python, Unix/Linux, shell scripting, and version controlling (with Git). Familiarity with bioinformatics databases/tools and setting up bioinformatics workflows would be a plus.&lt;/li&gt;
-&lt;li&gt;Experience in web development: R/Shiny, SQL, HTML5, CSS, and JavaScript.&lt;/li&gt;
-&lt;li&gt;It is a plus if you have experience with a) High-performance cluster computing, b) Distributed task queue, c) RESTful web services, d) Docker containers.&lt;/li&gt;
-&lt;li&gt;Have high coding standards for writing efficient, clear, well-documented, version-controlled code (Git).&lt;/li&gt;
-&lt;li&gt;Good communication skills, willingness to collaborate openly, give/take constructive feedback, and sustain a friendly and fun lab culture.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;what-will-you-get-1&#34;&gt;What will you get&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Work on data science / machine learning applied to both pathogen and host research in infectious diseases, supported by ample computational resources.&lt;/li&gt;
-&lt;li&gt;Mentor me, trainees, and students to inculcate high standards of writing and maintaining code.&lt;/li&gt;
-&lt;li&gt;Publish papers on creative tools and pipelines, publish/maintain open-source software projects, and present in scientific meetings/conferences.&lt;/li&gt;
-&lt;li&gt;A vibrant, supportive environment: A bunch of really smart and fun colleagues; Office in a fancy central building with easy access to cafeterias; Beautiful campus; Low cost-of-living; Competitive salary commensurate with experience.&lt;/li&gt;
-&lt;li&gt;Guidance &amp;amp; support: In addition to being your expert partner, my primary responsibility is to help your personal and professional growth. You will always find in me an audience to discuss opportunities/challenges and a strong advocate for your interests.&lt;/li&gt;
-&lt;li&gt;Safe space for underrepresented minorities in STEM and quantitative sciences.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Additionally, you will also have the following if you are interested in pursuing a research career.&lt;/p&gt;
-&lt;ol start=&#34;7&#34;&gt;
-&lt;li&gt;Freedom to work on your best ideas broadly aligned with the lab’s vision.&lt;/li&gt;
-&lt;li&gt;Several opportunities to collaborate with other smart computational and experimental researchers at MSU &amp;amp; elsewhere.&lt;/li&gt;
-&lt;li&gt;Resources to develop your own research program and your technical skills as you plan to move to the next stage of your career.&lt;/li&gt;
-&lt;li&gt;Opportunities to mentor students, participate in peer-review and grant-writing, and, based on your interests, participate in teaching, education, and outreach activities.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;apply--find-out-more-1&#34;&gt;Apply | Find out more&lt;/h3&gt;
-&lt;p&gt;If you have questions or want to chat about this position, please write to me.
-To apply, send me an 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email&lt;/a&gt; with your detailed CV, highlighting your released software, reusable packages, and/or code repositories (GitHub), and names and contact information for three references. If you are interested in something like this, it’s never too early to reach out!&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h2&gt;
-&lt;p&gt;We are looking for highly motivated graduate students interested in developing computational approaches to study microbial function, phenotypes, and diseases. You will be a perfect fit if you have a background in bioinformatics, computational biology, statistics/biostatistics, computer science, microbiology/immunology, genetics/genomics, or related fields. Having programming experience in R, Python is a huge plus. In addition to these technical qualifications, we are looking for someone who can work well in a team, work hard, and give/take constructive feedback.&lt;/p&gt;
-&lt;p&gt;This research experience will give you the opportunity to i) use data analysis and visualization to address key biological questions as pertaining to molecular evolution, diagnosis, and treatment (using R), ii) present at group meetings, journals, technical workshops and conferences, iii) develop high coding standards for writing efficient, clear, well-documented, version-controlled code, iv) equip yourself professional for your next career step.&lt;/p&gt;
-&lt;h3 id=&#34;start-a-conversation&#34;&gt;Start a conversation&lt;/h3&gt;
-&lt;p&gt;Please send me your latest CV and a cover letter that includes i) a summary of your academic/work experience, ii) description of relevant coursework, research experience (incl. publications, conference talks/posters), iii) a brief note on familiarity in the field of phylogenetics, molecular evolution, and comparative pathogenomics, iv) coding experience, if any. If you are already at MSU, please 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email me&lt;/a&gt; to set a time to meet and discuss your interest.&lt;/p&gt;
-&lt;h3 id=&#34;want-to-rotate&#34;&gt;Want to rotate?&lt;/h3&gt;
-&lt;p&gt;We welcome CU Denver | Anschutz students to rotate with us, esp. those from the 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biomedical Sciences Program&lt;/a&gt;, 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/cell-biology-stem-cells-and-development/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computational Biosciences&lt;/a&gt;, 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/microbiology/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microbiology&lt;/a&gt;, 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/immunology/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Immunology&lt;/a&gt;, and 
-&lt;a href=&#34;https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Human Medical Genetics and Genomics&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;undergraduate-students&#34;&gt;Undergraduate Students&lt;/h2&gt;
-&lt;p&gt;We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to study infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em&gt;e.g.,&lt;/em&gt; SROP, ENSURE, REU-ACRES, BRUSH, Professorial Assistantship, or other department/college-level awards).&lt;/p&gt;
-&lt;p&gt;We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python would be a huge plus. As part of this project, they will have the opportunity to work closely with a senior members of the group (and me) and learn to: a) work with large datasets, b) write structured, well-documented code to analyze, integrate, and visualize these datasets, c) interpret the results in the context of pathogenesis, and d) communicate the results in the form of a paper and presentation.&lt;/p&gt;
-&lt;p&gt;We have high expectations for their level of commitment to research, and we are keen on incorporating their contributions into co-authored papers in conferences/journals. As an undergraduate student, if you are interested in discussing research opportunities, please send me an 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email&lt;/a&gt; to set up a time to talk.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;visiting-scientist&#34;&gt;Visiting Scientist&lt;/h2&gt;
-&lt;p&gt;We welcome visiting scientists (postbac, postgrad, postdoc, etc) to come and collaborate with us for a short period (6mo–1Y). If you have a burning question or an interesting idea that is directly related to or complements our research project(s), we would be glad to share our space, experience, and resources with you to develop your project and execute it. Having your own funding would be the easiest way to make this happen. There are some funding sources that you can apply to (e.g., 
-&lt;a href=&#34;http://www.biologists.com/travelling-fellowships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoB&lt;/a&gt;). Please send me an 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email&lt;/a&gt; to discuss this opportunity.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;
-&lt;p&gt;If you are interested in any of our specific areas of research or have other great ideas that we could work on together, 
-&lt;a href=&#34;mailto:janani.ravi@cuanschutz.edu&#34;&gt;email me&lt;/a&gt; right away!&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://jravilab.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contact details&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Useful Resources</title>
-      <link>/post/useful-resources/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/post/useful-resources/</guid>
-      <description>
-
-
-&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Great posts | academic&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Bioinformatics&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/&#34;&gt;Microbial Bioinformatics Starter Kit &lt;em&gt;by&lt;/em&gt; Lauren Cowley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Microbial genome annotation &lt;em&gt;by&lt;/em&gt; Michael Eisen
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/phylogenomics/status/999406494859718662&#34;&gt;Twitter thread&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/i/moments/999641962025074696&#34;&gt;moment&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/&#34;&gt;Tools for bacterial comparative genomes &lt;em&gt;by&lt;/em&gt; Holt lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;R&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;data-visualization&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Data Visualization&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/10/03/plotting-trees-data/&#34;&gt;Plotting trees + data &lt;em&gt;by&lt;/em&gt; Holt Lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;blogdown-hugo-academic-r-markdown&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown: Creating websites with R Markdown &lt;em&gt;by&lt;/em&gt; Yihui Xie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio&#34;&gt;Hugo&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://discourse.gohugo.io/&#34;&gt;Hugo discussion forum&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Hugo Academic &lt;em&gt;by&lt;/em&gt; George Cushen&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/index.html&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/&#34;&gt;Building your blog using blogdown &lt;em&gt;by&lt;/em&gt; Marie Dussault&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;blogging-tips&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Blogging tips&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523&#34;&gt;Lifehacker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-blog-as-an-academic/&#34;&gt;6 tips for low-cost academic blogging &lt;em&gt;by&lt;/em&gt; Matt Might&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>/talk/2018-rlel-tidydata/</link>
-      <pubDate>Mon, 05 Nov 2018 18:00:00 +0000</pubDate>
-      <guid>/talk/2018-rlel-tidydata/</guid>
-      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
-&lt;p&gt;Workshop material: 
-&lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
-&lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>/talk/2018-rlel-dataviz/</link>
-      <pubDate>Mon, 08 Oct 2018 18:00:00 +0000</pubDate>
-      <guid>/talk/2018-rlel-dataviz/</guid>
-      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
-&lt;p&gt;Workshop material: 
-&lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R &amp; R-Ladies East Lansing</title>
-      <link>/project/r/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <guid>/project/r/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;/tags/R&#34;&gt;R&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>/resources/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <guid>/resources/</guid>
-      <description>&lt;p&gt;My posts with some 
-&lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;great-posts--academic&#34;&gt;Great posts | academic&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;bioinformatics&#34;&gt;Bioinformatics&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microbial Bioinformatics Starter Kit &lt;em&gt;by&lt;/em&gt; Lauren Cowley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Microbial genome annotation &lt;em&gt;by&lt;/em&gt; Michael Eisen
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/phylogenomics/status/999406494859718662&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter thread&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;https://twitter.com/i/moments/999641962025074696&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;moment&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tools for bacterial comparative genomes &lt;em&gt;by&lt;/em&gt; Holt lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; 
-&lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Related post: 
-&lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;blogdown-hugo-academic--r-markdown&#34;&gt;Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blogdown: Creating websites with R Markdown &lt;em&gt;by&lt;/em&gt; Yihui Xie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/gohugoio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://discourse.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo discussion forum&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic &lt;em&gt;by&lt;/em&gt; George Cushen&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://rmarkdown.rstudio.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building your blog using blogdown &lt;em&gt;by&lt;/em&gt; Marie Dussault&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://holtlab.net/2015/10/03/plotting-trees-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotting trees + data &lt;em&gt;by&lt;/em&gt; Holt Lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;blogging-tips&#34;&gt;Blogging tips&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lifehacker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://matt.might.net/articles/how-to-blog-as-an-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;6 tips for low-cost academic blogging &lt;em&gt;by&lt;/em&gt; Matt Might&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Useful Git/GitHub links</title>
-      <link>/post/git-github-links/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      <guid>/post/git-github-links/</guid>
-      <description>
-
-
-&lt;div id=&#34;see-also&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;See also:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;My tweet dated: 2017-03-11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Git&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Version control with &lt;a href=&#34;http://swcarpentry.github.io/git-novice/&#34;&gt;Git on Software Carpentry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/10/07/git-workflow-beginner/&#34;&gt;Git workflow for beginners&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/&#34;&gt;Mozilla Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://guides.beanstalkapp.com/version-control/getting-started-with-git.html&#34;&gt;Getting started with Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rogerdudler.github.io/git-guide/&#34;&gt;Git, the simple guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cbattista/learn-github/wiki/Learn-Github-Exercises&#34;&gt;Git exercises&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://githowto.com/&#34;&gt;GitHowTo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/09/22/introduction-to-git/&#34;&gt;Introduction to Git and command line&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kirstiejane.github.io/friendly-github-intro/&#34;&gt;Friendly introduction to Git, Jane&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/alicebartlett/git-for-humans&#34;&gt;Git for humans, slides by Bartlett&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://learngitbranching.js.org&#34;&gt;Learn Git branching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52&#34;&gt;Git cheat sheet and best practices&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ohshitgit.com&#34;&gt;Getting yourself out of a Git mess&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://try.github.io&#34;&gt;Try Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;git-and-github&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Git and GitHub&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kbroman/github_tutorial&#34;&gt;GitHub tutorial, Broman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/new&#34;&gt;New GitHub repo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://seankross.com/the-unix-workbench/git-and-github.html&#34;&gt;Git &amp;amp; Github | Seankross&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mac.github.com/help.html&#34;&gt;GitHub on Mac&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;r-and-git&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R and Git&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://happygitwithr.com/big-picture.html&#34;&gt;R with Git and GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;github-pages-gists-jekyll&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;GitHub Pages, Gists | Jekyll&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Github pages &lt;a href=&#34;https://guides.github.com/features/pages/&#34;&gt;#1&lt;/a&gt; &lt;a href=&#34;https://pages.github.com/&#34;&gt;#2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/categories/gists/&#34;&gt;Creating gists on Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/docs/installation/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/install/&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/downloads/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rubygems.org/pages/download&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/psp_actino/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_actino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/sigfac_mtb/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/sigfac_mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/psp_mtb/</link>
-      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/psp_mtb/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R | JRaviLab</title><link>/tags/r/</link><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml"/><description>R</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>R</title><link>/tags/r/</link></image><item><title>The phage shock protein (PSP) envelope stress response: discovery of novel partners and evolutionary history</title><link>/publication/psp_evolution/</link><pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate><guid>/publication/psp_evolution/</guid><description/></item><item><title>MolEvolvR BTS: When and how to build a web-app and software package?</title><link>/talk/2023-glbio/</link><pubDate>Mon, 15 May 2023 13:00:00 +0000</pubDate><guid>/talk/2023-glbio/</guid><description>&lt;p>Workshop material:
+&lt;a href="https://github.com/jraviLab/2023-glbio" target="_blank" rel="noopener">https://github.com/jraviLab/2023-glbio&lt;/a>&lt;/p>
+&lt;p>Hosted w/
+&lt;a href="https://jravilab.github.io/authors/jacob-d-krol" target="_blank" rel="noopener">Jake Krol&lt;/a>, Faisal Alquaddoomi&lt;/p></description></item><item><title>Ten simple rules to host an inclusive conference</title><link>/publication/10sr_inclusive_conference/</link><pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate><guid>/publication/10sr_inclusive_conference/</guid><description>&lt;p>RJ and AST are co-primary authors. RJ and JR are co-corresponding authors.&lt;/p></description></item><item><title>Using Tidyverse for Genomics</title><link>/talk/2022-iscb_academy/</link><pubDate>Sat, 28 May 2022 20:00:00 +0000</pubDate><guid>/talk/2022-iscb_academy/</guid><description/></item><item><title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title><link>/publication/molevolvr_webapp/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>/publication/molevolvr_webapp/</guid><description>&lt;p>JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p></description></item><item><title>How I teach Life Scientists to Build Inclusive Communities</title><link>/talk/2022-lst/</link><pubDate>Thu, 17 Feb 2022 20:00:00 +0000</pubDate><guid>/talk/2022-lst/</guid><description/></item><item><title>Strategies to build a strong diverse AsiaR community</title><link>/talk/2021-bioc_asia/</link><pubDate>Wed, 03 Nov 2021 20:00:00 +0000</pubDate><guid>/talk/2021-bioc_asia/</guid><description/></item><item><title>Incubator: Stop reinventing the wheel: R package(s) for conference and abstract management</title><link>/talk/2021-user_rconference/</link><pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-user_rconference/</guid><description/></item><item><title>MolEvolvR: Web-app and R-package for characterizing proteins using molecular evolution and phylogeny</title><link>/talk/2021-user/</link><pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-user/</guid><description/></item><item><title>Incubator: Strategies to build a strong AsiaR community</title><link>/talk/2021-user_asiar/</link><pubDate>Thu, 08 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-user_asiar/</guid><description/></item><item><title>Making cool publication quality tables w/ R</title><link>/talk/2021-rlpune/</link><pubDate>Sun, 09 May 2021 20:00:00 +0000</pubDate><guid>/talk/2021-rlpune/</guid><description/></item><item><title>RLadies+ featuring useR! meetup</title><link>/talk/2021-rladies_user/</link><pubDate>Wed, 28 Apr 2021 20:00:00 +0000</pubDate><guid>/talk/2021-rladies_user/</guid><description/></item><item><title>Using Tidyverse for Genomics</title><link>/talk/2021-rltunis_rlbgl/</link><pubDate>Sat, 24 Apr 2021 20:00:00 +0000</pubDate><guid>/talk/2021-rltunis_rlbgl/</guid><description/></item><item><title>S-layers: the proteinaceous multifunctional armours of Gram-positive pathogens</title><link>/publication/slps_grampos/</link><pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate><guid>/publication/slps_grampos/</guid><description/></item><item><title>RLEL Workshop on RMarkdown &amp; Reproducible Research</title><link>/talk/2020-rmarkdown/</link><pubDate>Mon, 24 Feb 2020 18:00:00 +0000</pubDate><guid>/talk/2020-rmarkdown/</guid><description>&lt;img src="https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png" width="60%" /></description></item><item><title>RLEL Workshop on DataViz 2.0</title><link>/talk/2020-rlel-dataviz2.0/</link><pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate><guid>/talk/2020-rlel-dataviz2.0/</guid><description>&lt;img src="https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png" width="60%" /></description></item><item><title>Tidyverse for Genomics</title><link>/talk/2020-plb/</link><pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate><guid>/talk/2020-plb/</guid><description/></item><item><title>Using Tidyverse for Genomics workshop</title><link>/talk/2019-iitm/</link><pubDate>Tue, 05 Mar 2019 14:00:00 +0000</pubDate><guid>/talk/2019-iitm/</guid><description/></item><item><title>Tidyverse workshop</title><link>/talk/2019-plb/</link><pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate><guid>/talk/2019-plb/</guid><description/></item><item><title>Join us!</title><link>/joinus/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>/joinus/</guid><description>&lt;h1 id="open-positions">Open positions&lt;/h1>
+&lt;p>
+&lt;a href="#postdoctoral-researcher">Postdoc&lt;/a> |
+&lt;a href="#scientific-programmer">Scientific programmer&lt;/a> |
+&lt;a href="#graduate-students">Grad students&lt;/a> |
+&lt;a href="#undergraduate-students">Undergrads&lt;/a> |
+&lt;a href="#visiting-scientist">Visiting scientist&lt;/a>&lt;/p>
+&lt;h2 id="postdoctoral-researcher">Postdoctoral Researcher&lt;/h2>
+&lt;p>We are looking for a talented and motivated individual to join the JRaviLab (PI: Dr. Janani Ravi) at the
+&lt;a href="https://medschool.cuanschutz.edu/ai" target="_blank" rel="noopener">Center for Health AI&lt;/a>, University of Colorado, Anschutz Medical Campus as a postdoctoral researcher. In our group, we develop/apply computational approaches to analyze and visualize multiscale biological data to study microbial phenotypes and diseases, including genomes, protein sequence-structural features, transcriptomes, and pathway memberships.
+Postdocs will contribute to this vision by 1) developing new computational approaches to analyze and integrate large collections of biological data, 2) applying these approaches to specific problems in microbiology and infectious diseases, and 3) communicating the methods and discoveries openly to the broader biomedical/clinical community.&lt;/p>
+&lt;p>In addition to participating in ongoing projects, we strongly encourage postdocs to come up with several research ideas, jointly develop them into creative projects, and lead the way in those new directions. We encourage postdocs to apply for federal/foundational fellowships.&lt;/p>
+&lt;p>We are committed to building a diverse team and sustaining an inclusive and supportive environment; we strongly encourage underrepresented minorities in STEM to apply, including but not limited to BIPOC and LGBTQIA+ folks. The position is open to international applicants, in addition to US citizens/permanent residents.&lt;/p>
+&lt;h3 id="qualifications">Qualifications&lt;/h3>
+&lt;ol>
+&lt;li>A PhD or equivalent, with a strong background in bioinformatics, computational biology, genetics/microbiology, statistics, computer science, machine learning, or other closely related fields.&lt;/li>
+&lt;li>Programming experience in R or Python w/ version control (Git). Experience with handling large datasets in a Unix/Linux environment, high-performance cluster computing is a plus. Familiarity with bioinformatics databases and tools would also be a bonus.&lt;/li>
+&lt;li>Good communication skills, willingness to collaborate openly, give/take constructive feedback, and sustain a friendly and fun lab culture.&lt;/li>
+&lt;/ol>
+&lt;h3 id="what-will-you-get">What will you get&lt;/h3>
+&lt;ol>
+&lt;li>Freedom to work on your best ideas broadly aligned with the lab’s vision.&lt;/li>
+&lt;li>Several opportunities to collaborate with fantastic computational, experimental, and clinical researchers at the Center for Health AI and beyond.&lt;/li>
+&lt;li>Resources to develop your own research program and your technical skills as you plan to move to the next stage of your career.&lt;/li>
+&lt;li>Opportunities to mentor students, participate in peer-review and grant-writing, international conferences, and, based on your interests, participate in education and outreach activities.&lt;/li>
+&lt;li>A vibrant, supportive environment: A bunch of really smart and fun colleagues at CHAI and DBMI; Workspace in a contemporary open-office layout in the magnificent new Health Science building with a fabulous view of the Rocky Mountains, easy access to cafeterias; Beautiful campus; Supportive department environment and postdoctoral association (including slack) for professional development; Competitive salary commensurate with experience.&lt;/li>
+&lt;li>Mentoring &amp;amp; support: In addition to being your scientific mentor, my primary responsibility is to help your personal and professional growth by facilitating all of the above. You will always find in me an audience to discuss opportunities/challenges and a strong advocate for your interests. You will also have the option to form a formal mentoring committee.&lt;/li>
+&lt;li>Inclusive, friendly, and supportive environment for underrepresented minorities in STEM and quantitative sciences, and safe space for members across all intersectionalities.&lt;/li>
+&lt;/ol>
+&lt;h3 id="apply--find-out-more">Apply | Find out more&lt;/h3>
+&lt;p>If you have questions or want to chat about this position, please write to me (
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">janani.ravi@cuanschutz.edu&lt;/a>). If you are interested in something like this, it’s never too early to reach out!
+To apply, apply to this posting with 1) a detailed CV that includes a link to your Google Scholar page and a list of publications, 2) a cover letter that includes a description of your research accomplishments, how your interests connect with our group’s work, what might be some lines of future work that you are interested in, and what your future professional goals are, and 3) names &amp;amp; contact information for three references.&lt;/p>
+&lt;p>&lt;strong>Benefits&lt;/strong>:
+&lt;a href="https://www.cu.edu/employee-services/benefits" target="_blank" rel="noopener">https://www.cu.edu/employee-services/benefits&lt;/a> |
+&lt;a href="https://www.cu.edu/employee-services/benefits-wellness/new-employee/PBO/post-doc" target="_blank" rel="noopener">postdoc benefits&lt;/a> &lt;br>
+&lt;strong>Total Compensation Calculator&lt;/strong>:
+&lt;a href="https://www.cu.edu/employee-services/total-compensation" target="_blank" rel="noopener">https://www.cu.edu/employee-services/total-compensation&lt;/a> &lt;br>
+&lt;strong>Diversity and Equity&lt;/strong>: Please contact
+&lt;a href="mailto:hr.adacoordinator@ucdenver.edu">hr.adacoordinator@ucdenver.edu&lt;/a> for information on disability accommodations.&lt;/p>
+&lt;hr>
+&lt;h2 id="scientific-programmer">Scientific Programmer&lt;/h2>
+&lt;p>We are looking for coding enthusiasts to join the JRaviLab as scientific programmers. In our group, we develop/apply computational approaches to analyze and visualize multiscale biological data to study microbial phenotypes and diseases, including genomes, protein sequence-structural features, transcriptomes, and pathway memberships.&lt;/p>
+&lt;p>The programmer is expected to contribute most of the code that goes into our analytical pipelines (that utilize high-performance clusters and cloud infrastructure) and production-ready webservers. They are expected to maintain high standards for code documentation, clarity, efficiency, and maintainability. In addition to maintaining these standards in their own code, they should set high expectations for other lab members and share their expertise to improve the code that all members of the lab are writing.
+We are committed to building a diverse team and sustaining an inclusive and supportive environment; we strongly encourage underrepresented minorities in STEM to apply, including but not limited to BIPOC, LGBTQIA+ folks. The position is open to international applicants, in addition to US citizens/permanent residents.&lt;/p>
+&lt;h3 id="qualifications-1">Qualifications&lt;/h3>
+&lt;ol>
+&lt;li>Excellent programming skills in R and/or Python, Unix/Linux, shell scripting, and version controlling (with Git). Familiarity with bioinformatics databases/tools and setting up bioinformatics workflows would be a plus.&lt;/li>
+&lt;li>Experience in web development: R/Shiny, SQL, HTML5, CSS, and JavaScript.&lt;/li>
+&lt;li>It is a plus if you have experience with a) High-performance cluster computing, b) Distributed task queue, c) RESTful web services, d) Docker containers.&lt;/li>
+&lt;li>Have high coding standards for writing efficient, clear, well-documented, version-controlled code (Git).&lt;/li>
+&lt;li>Good communication skills, willingness to collaborate openly, give/take constructive feedback, and sustain a friendly and fun lab culture.&lt;/li>
+&lt;/ol>
+&lt;h3 id="what-will-you-get-1">What will you get&lt;/h3>
+&lt;ol>
+&lt;li>Work on data science / machine learning applied to both pathogen and host research in infectious diseases, supported by ample computational resources.&lt;/li>
+&lt;li>Mentor me, trainees, and students to inculcate high standards of writing and maintaining code.&lt;/li>
+&lt;li>Publish papers on creative tools and pipelines, publish/maintain open-source software projects, and present in scientific meetings/conferences.&lt;/li>
+&lt;li>A vibrant, supportive environment: A bunch of really smart and fun colleagues; Office in a fancy central building with easy access to cafeterias; Beautiful campus; Low cost-of-living; Competitive salary commensurate with experience.&lt;/li>
+&lt;li>Guidance &amp;amp; support: In addition to being your expert partner, my primary responsibility is to help your personal and professional growth. You will always find in me an audience to discuss opportunities/challenges and a strong advocate for your interests.&lt;/li>
+&lt;li>Safe space for underrepresented minorities in STEM and quantitative sciences.&lt;/li>
+&lt;/ol>
+&lt;p>Additionally, you will also have the following if you are interested in pursuing a research career.&lt;/p>
+&lt;ol start="7">
+&lt;li>Freedom to work on your best ideas broadly aligned with the lab’s vision.&lt;/li>
+&lt;li>Several opportunities to collaborate with other smart computational and experimental researchers at MSU &amp;amp; elsewhere.&lt;/li>
+&lt;li>Resources to develop your own research program and your technical skills as you plan to move to the next stage of your career.&lt;/li>
+&lt;li>Opportunities to mentor students, participate in peer-review and grant-writing, and, based on your interests, participate in teaching, education, and outreach activities.&lt;/li>
+&lt;/ol>
+&lt;h3 id="apply--find-out-more-1">Apply | Find out more&lt;/h3>
+&lt;p>If you have questions or want to chat about this position, please write to me.
+To apply, send me an
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email&lt;/a> with your detailed CV, highlighting your released software, reusable packages, and/or code repositories (GitHub), and names and contact information for three references. If you are interested in something like this, it’s never too early to reach out!&lt;/p>
+&lt;hr>
+&lt;h2 id="graduate-students">Graduate Students&lt;/h2>
+&lt;p>We are looking for highly motivated graduate students interested in developing computational approaches to study microbial function, phenotypes, and diseases. You will be a perfect fit if you have a background in bioinformatics, computational biology, statistics/biostatistics, computer science, microbiology/immunology, genetics/genomics, or related fields. Having programming experience in R, Python is a huge plus. In addition to these technical qualifications, we are looking for someone who can work well in a team, work hard, and give/take constructive feedback.&lt;/p>
+&lt;p>This research experience will give you the opportunity to i) use data analysis and visualization to address key biological questions as pertaining to molecular evolution, diagnosis, and treatment (using R), ii) present at group meetings, journals, technical workshops and conferences, iii) develop high coding standards for writing efficient, clear, well-documented, version-controlled code, iv) equip yourself professional for your next career step.&lt;/p>
+&lt;h3 id="start-a-conversation">Start a conversation&lt;/h3>
+&lt;p>Please send me your latest CV and a cover letter that includes i) a summary of your academic/work experience, ii) description of relevant coursework, research experience (incl. publications, conference talks/posters), iii) a brief note on familiarity in the field of phylogenetics, molecular evolution, and comparative pathogenomics, iv) coding experience, if any. If you are already at MSU, please
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email me&lt;/a> to set a time to meet and discuss your interest.&lt;/p>
+&lt;h3 id="want-to-rotate">Want to rotate?&lt;/h3>
+&lt;p>We welcome CU Denver | Anschutz students to rotate with us, esp. those from the
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home" target="_blank" rel="noopener">Biomedical Sciences Program&lt;/a>,
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/cell-biology-stem-cells-and-development/home" target="_blank" rel="noopener">Computational Biosciences&lt;/a>,
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/microbiology/home" target="_blank" rel="noopener">Microbiology&lt;/a>,
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/immunology/home" target="_blank" rel="noopener">Immunology&lt;/a>, and
+&lt;a href="https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home" target="_blank" rel="noopener">Human Medical Genetics and Genomics&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h2 id="undergraduate-students">Undergraduate Students&lt;/h2>
+&lt;p>We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to study infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em>e.g.,&lt;/em> SROP, ENSURE, REU-ACRES, BRUSH, Professorial Assistantship, or other department/college-level awards).&lt;/p>
+&lt;p>We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python would be a huge plus. As part of this project, they will have the opportunity to work closely with a senior members of the group (and me) and learn to: a) work with large datasets, b) write structured, well-documented code to analyze, integrate, and visualize these datasets, c) interpret the results in the context of pathogenesis, and d) communicate the results in the form of a paper and presentation.&lt;/p>
+&lt;p>We have high expectations for their level of commitment to research, and we are keen on incorporating their contributions into co-authored papers in conferences/journals. As an undergraduate student, if you are interested in discussing research opportunities, please send me an
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email&lt;/a> to set up a time to talk.&lt;/p>
+&lt;hr>
+&lt;h2 id="visiting-scientist">Visiting Scientist&lt;/h2>
+&lt;p>We welcome visiting scientists (postbac, postgrad, postdoc, etc) to come and collaborate with us for a short period (6mo–1Y). If you have a burning question or an interesting idea that is directly related to or complements our research project(s), we would be glad to share our space, experience, and resources with you to develop your project and execute it. Having your own funding would be the easiest way to make this happen. There are some funding sources that you can apply to (e.g.,
+&lt;a href="http://www.biologists.com/travelling-fellowships/" target="_blank" rel="noopener">CoB&lt;/a>). Please send me an
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email&lt;/a> to discuss this opportunity.&lt;/p>
+&lt;hr>
+&lt;h2 id="collaboration">Collaboration&lt;/h2>
+&lt;p>If you are interested in any of our specific areas of research or have other great ideas that we could work on together,
+&lt;a href="mailto:janani.ravi@cuanschutz.edu">email me&lt;/a> right away!&lt;/p>
+&lt;p>
+&lt;a href="https://jravilab.github.io/#contact" target="_blank" rel="noopener">Contact details&lt;/a>&lt;/p></description></item><item><title>Useful Resources</title><link>/post/useful-resources/</link><pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate><guid>/post/useful-resources/</guid><description>
+&lt;p>&lt;em>My posts with some &lt;a href="/categories/resources">#useful-resources&lt;/a>.&lt;/em>&lt;/p>
+&lt;div id="great-posts-academic" class="section level2">
+&lt;h2>Great posts | academic&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/">The Awesomest 7-year Postdoc &lt;em>by&lt;/em> Radhika Nagpal | Scientific American&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/post/2016/matt-might-blog/">Matt Might’s Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/post/2018/modelers-hippocratic-oath">Modeler’s Hippocratic oath&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="bioinformatics" class="section level2">
+&lt;h2>Bioinformatics&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/">Microbial Bioinformatics Starter Kit &lt;em>by&lt;/em> Lauren Cowley&lt;/a>&lt;/li>
+&lt;li>Microbial genome annotation &lt;em>by&lt;/em> Michael Eisen
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/phylogenomics/status/999406494859718662">Twitter thread&lt;/a> &amp;amp; &lt;a href="https://twitter.com/i/moments/999641962025074696">moment&lt;/a>&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;li>&lt;a href="https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/">Tools for bacterial comparative genomes &lt;em>by&lt;/em> Holt lab&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="r" class="section level2">
+&lt;h2>R&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="/post/2018/git-github-links">Git, GitHub and R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/">R resources&lt;/a> &lt;em>by&lt;/em> &lt;a href="paulvanderlaken.com">Paul Vanderlaken&lt;/a>&lt;/li>
+&lt;li>Related post: &lt;a href="https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/">R Tips and Tricks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="data-visualization" class="section level2">
+&lt;h2>Data Visualization&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://holtlab.net/2015/10/03/plotting-trees-data/">Plotting trees + data &lt;em>by&lt;/em> Holt Lab&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="blogdown-hugo-academic-r-markdown" class="section level2">
+&lt;h2>Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://bookdown.org/yihui/blogdown/">Blogdown: Creating websites with R Markdown &lt;em>by&lt;/em> Yihui Xie&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/gohugoio">Hugo&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://discourse.gohugo.io/">Hugo discussion forum&lt;/a>&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;li>&lt;a href="https://github.com/gcushen/hugo-academic">Hugo Academic &lt;em>by&lt;/em> George Cushen&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://sourcethemes.com/academic/">Academic&lt;/a>&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;li>&lt;a href="https://rmarkdown.rstudio.com/index.html">R Markdown&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/">Building your blog using blogdown &lt;em>by&lt;/em> Marie Dussault&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="blogging-tips" class="section level2">
+&lt;h2>Blogging tips&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523">Lifehacker&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://matt.might.net/articles/how-to-blog-as-an-academic/">6 tips for low-cost academic blogging &lt;em>by&lt;/em> Matt Might&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.masalmon.eu/rladiesct/slides#1">Ready to start your data science blog? &lt;em>by&lt;/em> Maëlle Salmon&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title><link>/talk/2018-rlel-tidydata/</link><pubDate>Mon, 05 Nov 2018 18:00:00 +0000</pubDate><guid>/talk/2018-rlel-tidydata/</guid><description>&lt;img src="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true" width="60%" />
+&lt;p>Workshop material:
+&lt;a href="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata" target="_blank" rel="noopener">GitHub&lt;/a> •
+&lt;a href="https://bit.ly/rlel-20181105" target="_blank" rel="noopener">Google Drive&lt;/a>&lt;/p></description></item><item><title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title><link>/talk/2018-rlel-dataviz/</link><pubDate>Mon, 08 Oct 2018 18:00:00 +0000</pubDate><guid>/talk/2018-rlel-dataviz/</guid><description>&lt;img src="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true" width="60%" />
+&lt;p>Workshop material:
+&lt;a href="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz" target="_blank" rel="noopener">GitHub&lt;/a> •
+&lt;a href="https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing" target="_blank" rel="noopener">Google Drive&lt;/a>&lt;/p></description></item><item><title>R &amp; R-Ladies East Lansing</title><link>/project/r/</link><pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate><guid>/project/r/</guid><description>&lt;p>
+&lt;a href="/tags/R">R&lt;/a> &amp;amp;
+&lt;a href="/tags/rladies">R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a>&lt;/p></description></item><item><title>Resources</title><link>/resources/</link><pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate><guid>/resources/</guid><description>&lt;p>My posts with some
+&lt;a href="/categories/resources">useful resources&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="/post/2018/git-github-links">Git, GitHub and R&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="/post/2018/modelers-hippocratic-oath">Modeler&amp;rsquo;s Hippocratic oath&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="great-posts--academic">Great posts | academic&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/" target="_blank" rel="noopener">The Awesomest 7-year Postdoc &lt;em>by&lt;/em> Radhika Nagpal | Scientific American&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="bioinformatics">Bioinformatics&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/" target="_blank" rel="noopener">Microbial Bioinformatics Starter Kit &lt;em>by&lt;/em> Lauren Cowley&lt;/a>&lt;/li>
+&lt;li>Microbial genome annotation &lt;em>by&lt;/em> Michael Eisen
+&lt;ul>
+&lt;li>
+&lt;a href="https://twitter.com/phylogenomics/status/999406494859718662" target="_blank" rel="noopener">Twitter thread&lt;/a> &amp;amp;
+&lt;a href="https://twitter.com/i/moments/999641962025074696" target="_blank" rel="noopener">moment&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/" target="_blank" rel="noopener">Tools for bacterial comparative genomes &lt;em>by&lt;/em> Holt lab&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="r">R&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/" target="_blank" rel="noopener">R resources&lt;/a> &lt;em>by&lt;/em>
+&lt;a href="paulvanderlaken.com">Paul Vanderlaken&lt;/a>
+&lt;ul>
+&lt;li>Related post:
+&lt;a href="https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/" target="_blank" rel="noopener">R Tips and Tricks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="blogdown-hugo-academic--r-markdown">Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">Blogdown: Creating websites with R Markdown &lt;em>by&lt;/em> Yihui Xie&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://github.com/gohugoio" target="_blank" rel="noopener">Hugo&lt;/a>
+&lt;ul>
+&lt;li>
+&lt;a href="https://discourse.gohugo.io/" target="_blank" rel="noopener">Hugo discussion forum&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="https://github.com/gcushen/hugo-academic" target="_blank" rel="noopener">Hugo Academic &lt;em>by&lt;/em> George Cushen&lt;/a>
+&lt;ul>
+&lt;li>
+&lt;a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="https://rmarkdown.rstudio.com/index.html" target="_blank" rel="noopener">R Markdown&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/" target="_blank" rel="noopener">Building your blog using blogdown &lt;em>by&lt;/em> Marie Dussault&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="data-visualization">Data Visualization&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="https://holtlab.net/2015/10/03/plotting-trees-data/" target="_blank" rel="noopener">Plotting trees + data &lt;em>by&lt;/em> Holt Lab&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="blogging-tips">Blogging tips&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523" target="_blank" rel="noopener">Lifehacker&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="http://matt.might.net/articles/how-to-blog-as-an-academic/" target="_blank" rel="noopener">6 tips for low-cost academic blogging &lt;em>by&lt;/em> Matt Might&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="http://www.masalmon.eu/rladiesct/slides#1" target="_blank" rel="noopener">Ready to start your data science blog? &lt;em>by&lt;/em> Maëlle Salmon&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Useful Git/GitHub links</title><link>/post/git-github-links/</link><pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate><guid>/post/git-github-links/</guid><description>
+&lt;div id="see-also" class="section level2">
+&lt;h2>See also:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/janani137/status/926516970920562688">My tweet dated: 2017-03-11&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/interests/resources/">Resources&lt;/a> for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="git" class="section level1">
+&lt;h1>Git&lt;/h1>
+&lt;ul>
+&lt;li>Version control with &lt;a href="http://swcarpentry.github.io/git-novice/">Git on Software Carpentry&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sklise.com/2012/10/07/git-workflow-beginner/">Git workflow for beginners&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/">Mozilla Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://guides.beanstalkapp.com/version-control/getting-started-with-git.html">Getting started with Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://rogerdudler.github.io/git-guide/">Git, the simple guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/cbattista/learn-github/wiki/Learn-Github-Exercises">Git exercises&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://githowto.com/">GitHowTo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sklise.com/2012/09/22/introduction-to-git/">Introduction to Git and command line&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kirstiejane.github.io/friendly-github-intro/">Friendly introduction to Git, Jane&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://speakerdeck.com/alicebartlett/git-for-humans">Git for humans, slides by Bartlett&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://learngitbranching.js.org">Learn Git branching&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52">Git cheat sheet and best practices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://ohshitgit.com">Getting yourself out of a Git mess&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://try.github.io">Try Git&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="git-and-github" class="section level1">
+&lt;h1>Git and GitHub&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/kbroman/github_tutorial">GitHub tutorial, Broman&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/new">New GitHub repo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://seankross.com/the-unix-workbench/git-and-github.html">Git &amp;amp; Github | Seankross&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mac.github.com/help.html">GitHub on Mac&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="r-and-git" class="section level1">
+&lt;h1>R and Git&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="http://happygitwithr.com/big-picture.html">R with Git and GitHub&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="github-pages-gists-jekyll" class="section level1">
+&lt;h1>GitHub Pages, Gists | Jekyll&lt;/h1>
+&lt;ul>
+&lt;li>Github pages &lt;a href="https://guides.github.com/features/pages/">#1&lt;/a> &lt;a href="https://pages.github.com/">#2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://help.github.com/categories/gists/">Creating gists on Github&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jekyllrb.com/docs/installation/">Jekyll&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gcc.gnu.org/install/">GCC&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ruby-lang.org/en/downloads/">Ruby&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rubygems.org/pages/download">Ruby Gems&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title><link>/publication/psp_actino/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>/publication/psp_actino/</guid><description/></item><item><title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title><link>/publication/sigfac_mtb/</link><pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate><guid>/publication/sigfac_mtb/</guid><description/></item><item><title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title><link>/publication/psp_mtb/</link><pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate><guid>/publication/psp_mtb/</guid><description/></item></channel></rss>

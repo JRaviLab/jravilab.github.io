@@ -1,404 +1,164 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>R | JRaviLab</title>
-    <link>/categories/r/</link>
-      <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
-    <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2024</copyright><lastBuildDate>Mon, 15 May 2023 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/jananiravi-grp-webpage-logo.png</url>
-      <title>R</title>
-      <link>/categories/r/</link>
-    </image>
-    
-    <item>
-      <title>MolEvolvR BTS: When and how to build a web-app and software package?</title>
-      <link>/talk/2023-glbio/</link>
-      <pubDate>Mon, 15 May 2023 13:00:00 +0000</pubDate>
-      <guid>/talk/2023-glbio/</guid>
-      <description>&lt;p&gt;Workshop material: 
-&lt;a href=&#34;https://github.com/jraviLab/2023-glbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jraviLab/2023-glbio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hosted w/ 
-&lt;a href=&#34;https://jravilab.github.io/authors/jacob-d-krol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jake Krol&lt;/a&gt;, Faisal Alquaddoomi&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title>
-      <link>/talk/2022-ismb/</link>
-      <pubDate>Thu, 14 Jul 2022 13:45:00 +0000</pubDate>
-      <guid>/talk/2022-ismb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Tidyverse for Genomics</title>
-      <link>/talk/2022-iscb_academy/</link>
-      <pubDate>Sat, 28 May 2022 20:00:00 +0000</pubDate>
-      <guid>/talk/2022-iscb_academy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/publication/molevolvr_webapp/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/molevolvr_webapp/</guid>
-      <description>&lt;p&gt;JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How I teach Life Scientists to Build Inclusive Communities</title>
-      <link>/talk/2022-lst/</link>
-      <pubDate>Thu, 17 Feb 2022 20:00:00 +0000</pubDate>
-      <guid>/talk/2022-lst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strategies to build a strong diverse AsiaR community</title>
-      <link>/talk/2021-bioc_asia/</link>
-      <pubDate>Wed, 03 Nov 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-bioc_asia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/talk/2021-ismb/</link>
-      <pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-ismb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incubator: Stop reinventing the wheel: R package(s) for conference and abstract management</title>
-      <link>/talk/2021-user_rconference/</link>
-      <pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-user_rconference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: Web-app and R-package for characterizing proteins using molecular evolution and phylogeny</title>
-      <link>/talk/2021-user/</link>
-      <pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incubator: Strategies to build a strong AsiaR community</title>
-      <link>/talk/2021-user_asiar/</link>
-      <pubDate>Thu, 08 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-user_asiar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using a computational molecular evolution and phylogeny to study pathogenic proteins</title>
-      <link>/talk/2021-glbio/</link>
-      <pubDate>Thu, 13 May 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-glbio/</guid>
-      <description>&lt;p&gt;Related: Samuel Z Chen GLBio poster [video])(
-&lt;a href=&#34;https://www.youtube.com/watch?v=6rj3eTWxXkg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=6rj3eTWxXkg&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Making cool publication quality tables w/ R</title>
-      <link>/talk/2021-rlpune/</link>
-      <pubDate>Sun, 09 May 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-rlpune/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RLadies&#43; featuring useR! meetup</title>
-      <link>/talk/2021-rladies_user/</link>
-      <pubDate>Wed, 28 Apr 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-rladies_user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Tidyverse for Genomics</title>
-      <link>/talk/2021-rltunis_rlbgl/</link>
-      <pubDate>Sat, 24 Apr 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-rltunis_rlbgl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MolEvolvR: a web-app for molecular evolution and phylogeny</title>
-      <link>/talk/2021-beacon/</link>
-      <pubDate>Fri, 26 Mar 2021 20:00:00 +0000</pubDate>
-      <guid>/talk/2021-beacon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RLEL Workshop on RMarkdown &amp; Reproducible Research</title>
-      <link>/talk/2020-rmarkdown/</link>
-      <pubDate>Mon, 24 Feb 2020 18:00:00 +0000</pubDate>
-      <guid>/talk/2020-rmarkdown/</guid>
-      <description>&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RLEL Workshop on DataViz 2.0</title>
-      <link>/talk/2020-rlel-dataviz2.0/</link>
-      <pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate>
-      <guid>/talk/2020-rlel-dataviz2.0/</guid>
-      <description>&lt;img src=&#34;https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png&#34; width=&#34;60%&#34; /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tidyverse for Genomics</title>
-      <link>/talk/2020-plb/</link>
-      <pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/2020-plb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Tidyverse for Genomics workshop</title>
-      <link>/talk/2019-iitm/</link>
-      <pubDate>Tue, 05 Mar 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/2019-iitm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tidyverse workshop</title>
-      <link>/talk/2019-plb/</link>
-      <pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/2019-plb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Useful Resources</title>
-      <link>/post/useful-resources/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/post/useful-resources/</guid>
-      <description>
-
-
-&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Great posts | academic&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Bioinformatics&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/&#34;&gt;Microbial Bioinformatics Starter Kit &lt;em&gt;by&lt;/em&gt; Lauren Cowley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Microbial genome annotation &lt;em&gt;by&lt;/em&gt; Michael Eisen
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/phylogenomics/status/999406494859718662&#34;&gt;Twitter thread&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/i/moments/999641962025074696&#34;&gt;moment&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/&#34;&gt;Tools for bacterial comparative genomes &lt;em&gt;by&lt;/em&gt; Holt lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;R&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;data-visualization&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Data Visualization&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/10/03/plotting-trees-data/&#34;&gt;Plotting trees + data &lt;em&gt;by&lt;/em&gt; Holt Lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;blogdown-hugo-academic-r-markdown&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown: Creating websites with R Markdown &lt;em&gt;by&lt;/em&gt; Yihui Xie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio&#34;&gt;Hugo&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://discourse.gohugo.io/&#34;&gt;Hugo discussion forum&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Hugo Academic &lt;em&gt;by&lt;/em&gt; George Cushen&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/index.html&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/&#34;&gt;Building your blog using blogdown &lt;em&gt;by&lt;/em&gt; Marie Dussault&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;blogging-tips&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Blogging tips&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523&#34;&gt;Lifehacker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-blog-as-an-academic/&#34;&gt;6 tips for low-cost academic blogging &lt;em&gt;by&lt;/em&gt; Matt Might&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>/talk/2018-rlel-tidydata/</link>
-      <pubDate>Mon, 05 Nov 2018 18:00:00 +0000</pubDate>
-      <guid>/talk/2018-rlel-tidydata/</guid>
-      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
-&lt;p&gt;Workshop material: 
-&lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
-&lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>/talk/2018-rlel-dataviz/</link>
-      <pubDate>Mon, 08 Oct 2018 18:00:00 +0000</pubDate>
-      <guid>/talk/2018-rlel-dataviz/</guid>
-      <description>&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;
-&lt;p&gt;Workshop material: 
-&lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; • 
-&lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Launching R-Ladies East Lansing!</title>
-      <link>/post/rlel-launch/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/post/rlel-launch/</guid>
-      <description>
-
-
-&lt;div id=&#34;welcome-to-our-new-chapter&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;em&gt;Welcome to our new chapter!&lt;/em&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div id=&#34;what-were-about&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;What we’re about&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;R-Ladies East Lansing&lt;/em&gt; is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;who-should-join&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Who should join?&lt;/h2&gt;
-&lt;p&gt;R-Ladies East Lansing welcomes members of &lt;strong&gt;all R proficiency levels&lt;/strong&gt;, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. &lt;em&gt;Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Anyone and everyone interested in R/Data Science&lt;/em&gt; should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have &lt;em&gt;no restrictions&lt;/em&gt; whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family &amp;amp; R-friends!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;how-to-be-in-touch&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;How to be in touch?&lt;/h2&gt;
-&lt;p&gt;Access our presentations, R scripts and more on &lt;a href=&#34;//github.com/rladies-eastlansing&#34;&gt;Github&lt;/a&gt; and follow us on twitter to stay up to date about R-Ladies news! &lt;em&gt;Join the &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34;&gt;Meetup group&lt;/a&gt; to be notified of the first meeting in July!&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Meetup: &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34; class=&#34;uri&#34;&gt;https://meetup.com/rladies-east-lansing/&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34;&gt;@RLadiesELansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Slack: &lt;a href=&#34;https://rladies-eastlansing.slack.com&#34; class=&#34;uri&#34;&gt;https://rladies-eastlansing.slack.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies-eastlansing&#34;&gt;@rladies-eastlansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/rladies&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;E-mail:
-&lt;ul&gt;
-&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
-&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
-&lt;li&gt;info [at] rladies [dot] org&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;organizers&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Organizers&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;janani@msu.edu&#34;&gt;Janani Ravi&lt;/a&gt; &amp;amp; &lt;a href=&#34;archerc5@msu.edu&#34;&gt;Camille Archer&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;ps-community-policies-code-of-conduct&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/h2&gt;
-&lt;p&gt;Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; class=&#34;uri&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R &amp; R-Ladies East Lansing</title>
-      <link>/project/r/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <guid>/project/r/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;/tags/R&#34;&gt;R&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Useful Git/GitHub links</title>
-      <link>/post/git-github-links/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      <guid>/post/git-github-links/</guid>
-      <description>
-
-
-&lt;div id=&#34;see-also&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;See also:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;My tweet dated: 2017-03-11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Git&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Version control with &lt;a href=&#34;http://swcarpentry.github.io/git-novice/&#34;&gt;Git on Software Carpentry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/10/07/git-workflow-beginner/&#34;&gt;Git workflow for beginners&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/&#34;&gt;Mozilla Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://guides.beanstalkapp.com/version-control/getting-started-with-git.html&#34;&gt;Getting started with Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rogerdudler.github.io/git-guide/&#34;&gt;Git, the simple guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cbattista/learn-github/wiki/Learn-Github-Exercises&#34;&gt;Git exercises&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://githowto.com/&#34;&gt;GitHowTo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/09/22/introduction-to-git/&#34;&gt;Introduction to Git and command line&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kirstiejane.github.io/friendly-github-intro/&#34;&gt;Friendly introduction to Git, Jane&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/alicebartlett/git-for-humans&#34;&gt;Git for humans, slides by Bartlett&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://learngitbranching.js.org&#34;&gt;Learn Git branching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52&#34;&gt;Git cheat sheet and best practices&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ohshitgit.com&#34;&gt;Getting yourself out of a Git mess&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://try.github.io&#34;&gt;Try Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;git-and-github&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Git and GitHub&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kbroman/github_tutorial&#34;&gt;GitHub tutorial, Broman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/new&#34;&gt;New GitHub repo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://seankross.com/the-unix-workbench/git-and-github.html&#34;&gt;Git &amp;amp; Github | Seankross&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mac.github.com/help.html&#34;&gt;GitHub on Mac&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;r-and-git&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R and Git&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://happygitwithr.com/big-picture.html&#34;&gt;R with Git and GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;github-pages-gists-jekyll&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;GitHub Pages, Gists | Jekyll&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Github pages &lt;a href=&#34;https://guides.github.com/features/pages/&#34;&gt;#1&lt;/a&gt; &lt;a href=&#34;https://pages.github.com/&#34;&gt;#2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/categories/gists/&#34;&gt;Creating gists on Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/docs/installation/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/install/&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/downloads/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rubygems.org/pages/download&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R | JRaviLab</title><link>/categories/r/</link><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml"/><description>R</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2025</copyright><lastBuildDate>Mon, 15 May 2023 13:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>R</title><link>/categories/r/</link></image><item><title>MolEvolvR BTS: When and how to build a web-app and software package?</title><link>/talk/2023-glbio/</link><pubDate>Mon, 15 May 2023 13:00:00 +0000</pubDate><guid>/talk/2023-glbio/</guid><description>&lt;p>Workshop material:
+&lt;a href="https://github.com/jraviLab/2023-glbio" target="_blank" rel="noopener">https://github.com/jraviLab/2023-glbio&lt;/a>&lt;/p>
+&lt;p>Hosted w/
+&lt;a href="https://jravilab.github.io/authors/jacob-d-krol" target="_blank" rel="noopener">Jake Krol&lt;/a>, Faisal Alquaddoomi&lt;/p></description></item><item><title>Cross-database integration using evolution and machine learning to identify multiscale molecular building blocks for antibiotic resistance</title><link>/talk/2022-ismb/</link><pubDate>Thu, 14 Jul 2022 13:45:00 +0000</pubDate><guid>/talk/2022-ismb/</guid><description/></item><item><title>Using Tidyverse for Genomics</title><link>/talk/2022-iscb_academy/</link><pubDate>Sat, 28 May 2022 20:00:00 +0000</pubDate><guid>/talk/2022-iscb_academy/</guid><description/></item><item><title>MolEvolvR: a web-app for characterizing proteins using molecular evolution and phylogeny</title><link>/publication/molevolvr_webapp/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>/publication/molevolvr_webapp/</guid><description>&lt;p>JTB, SZC, LMS are co-primary authors who contributed equally; they are listed alphabetically.&lt;/p></description></item><item><title>How I teach Life Scientists to Build Inclusive Communities</title><link>/talk/2022-lst/</link><pubDate>Thu, 17 Feb 2022 20:00:00 +0000</pubDate><guid>/talk/2022-lst/</guid><description/></item><item><title>Strategies to build a strong diverse AsiaR community</title><link>/talk/2021-bioc_asia/</link><pubDate>Wed, 03 Nov 2021 20:00:00 +0000</pubDate><guid>/talk/2021-bioc_asia/</guid><description/></item><item><title>MolEvolvR: A webapp for characterizing proteins using molecular evolution and phylogeny</title><link>/talk/2021-ismb/</link><pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-ismb/</guid><description/></item><item><title>Incubator: Stop reinventing the wheel: R package(s) for conference and abstract management</title><link>/talk/2021-user_rconference/</link><pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-user_rconference/</guid><description/></item><item><title>MolEvolvR: Web-app and R-package for characterizing proteins using molecular evolution and phylogeny</title><link>/talk/2021-user/</link><pubDate>Fri, 09 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-user/</guid><description/></item><item><title>Incubator: Strategies to build a strong AsiaR community</title><link>/talk/2021-user_asiar/</link><pubDate>Thu, 08 Jul 2021 20:00:00 +0000</pubDate><guid>/talk/2021-user_asiar/</guid><description/></item><item><title>Using a computational molecular evolution and phylogeny to study pathogenic proteins</title><link>/talk/2021-glbio/</link><pubDate>Thu, 13 May 2021 20:00:00 +0000</pubDate><guid>/talk/2021-glbio/</guid><description>&lt;p>Related: Samuel Z Chen GLBio poster [video])(
+&lt;a href="https://www.youtube.com/watch?v=6rj3eTWxXkg" target="_blank" rel="noopener">https://www.youtube.com/watch?v=6rj3eTWxXkg&lt;/a>)&lt;/p></description></item><item><title>Making cool publication quality tables w/ R</title><link>/talk/2021-rlpune/</link><pubDate>Sun, 09 May 2021 20:00:00 +0000</pubDate><guid>/talk/2021-rlpune/</guid><description/></item><item><title>RLadies+ featuring useR! meetup</title><link>/talk/2021-rladies_user/</link><pubDate>Wed, 28 Apr 2021 20:00:00 +0000</pubDate><guid>/talk/2021-rladies_user/</guid><description/></item><item><title>Using Tidyverse for Genomics</title><link>/talk/2021-rltunis_rlbgl/</link><pubDate>Sat, 24 Apr 2021 20:00:00 +0000</pubDate><guid>/talk/2021-rltunis_rlbgl/</guid><description/></item><item><title>MolEvolvR: a web-app for molecular evolution and phylogeny</title><link>/talk/2021-beacon/</link><pubDate>Fri, 26 Mar 2021 20:00:00 +0000</pubDate><guid>/talk/2021-beacon/</guid><description/></item><item><title>RLEL Workshop on RMarkdown &amp; Reproducible Research</title><link>/talk/2020-rmarkdown/</link><pubDate>Mon, 24 Feb 2020 18:00:00 +0000</pubDate><guid>/talk/2020-rmarkdown/</guid><description>&lt;img src="https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png" width="60%" /></description></item><item><title>RLEL Workshop on DataViz 2.0</title><link>/talk/2020-rlel-dataviz2.0/</link><pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate><guid>/talk/2020-rlel-dataviz2.0/</guid><description>&lt;img src="https://raw.githubusercontent.com/rladies-eastlansing/meetup-presentations/master/event-flyers/202001to04-Spring-meetup-flyer.png" width="60%" /></description></item><item><title>Tidyverse for Genomics</title><link>/talk/2020-plb/</link><pubDate>Wed, 05 Feb 2020 09:00:00 +0000</pubDate><guid>/talk/2020-plb/</guid><description/></item><item><title>Using Tidyverse for Genomics workshop</title><link>/talk/2019-iitm/</link><pubDate>Tue, 05 Mar 2019 14:00:00 +0000</pubDate><guid>/talk/2019-iitm/</guid><description/></item><item><title>Tidyverse workshop</title><link>/talk/2019-plb/</link><pubDate>Wed, 13 Feb 2019 09:00:00 +0000</pubDate><guid>/talk/2019-plb/</guid><description/></item><item><title>Useful Resources</title><link>/post/useful-resources/</link><pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate><guid>/post/useful-resources/</guid><description>
+&lt;p>&lt;em>My posts with some &lt;a href="/categories/resources">#useful-resources&lt;/a>.&lt;/em>&lt;/p>
+&lt;div id="great-posts-academic" class="section level2">
+&lt;h2>Great posts | academic&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/">The Awesomest 7-year Postdoc &lt;em>by&lt;/em> Radhika Nagpal | Scientific American&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/post/2016/matt-might-blog/">Matt Might’s Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/post/2018/modelers-hippocratic-oath">Modeler’s Hippocratic oath&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="bioinformatics" class="section level2">
+&lt;h2>Bioinformatics&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/">Microbial Bioinformatics Starter Kit &lt;em>by&lt;/em> Lauren Cowley&lt;/a>&lt;/li>
+&lt;li>Microbial genome annotation &lt;em>by&lt;/em> Michael Eisen
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/phylogenomics/status/999406494859718662">Twitter thread&lt;/a> &amp;amp; &lt;a href="https://twitter.com/i/moments/999641962025074696">moment&lt;/a>&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;li>&lt;a href="https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/">Tools for bacterial comparative genomes &lt;em>by&lt;/em> Holt lab&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="r" class="section level2">
+&lt;h2>R&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="/post/2018/git-github-links">Git, GitHub and R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/">R resources&lt;/a> &lt;em>by&lt;/em> &lt;a href="paulvanderlaken.com">Paul Vanderlaken&lt;/a>&lt;/li>
+&lt;li>Related post: &lt;a href="https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/">R Tips and Tricks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="data-visualization" class="section level2">
+&lt;h2>Data Visualization&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://holtlab.net/2015/10/03/plotting-trees-data/">Plotting trees + data &lt;em>by&lt;/em> Holt Lab&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="blogdown-hugo-academic-r-markdown" class="section level2">
+&lt;h2>Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://bookdown.org/yihui/blogdown/">Blogdown: Creating websites with R Markdown &lt;em>by&lt;/em> Yihui Xie&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/gohugoio">Hugo&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://discourse.gohugo.io/">Hugo discussion forum&lt;/a>&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;li>&lt;a href="https://github.com/gcushen/hugo-academic">Hugo Academic &lt;em>by&lt;/em> George Cushen&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://sourcethemes.com/academic/">Academic&lt;/a>&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;li>&lt;a href="https://rmarkdown.rstudio.com/index.html">R Markdown&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/">Building your blog using blogdown &lt;em>by&lt;/em> Marie Dussault&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="blogging-tips" class="section level2">
+&lt;h2>Blogging tips&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523">Lifehacker&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://matt.might.net/articles/how-to-blog-as-an-academic/">6 tips for low-cost academic blogging &lt;em>by&lt;/em> Matt Might&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.masalmon.eu/rladiesct/slides#1">Ready to start your data science blog? &lt;em>by&lt;/em> Maëlle Salmon&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title><link>/talk/2018-rlel-tidydata/</link><pubDate>Mon, 05 Nov 2018 18:00:00 +0000</pubDate><guid>/talk/2018-rlel-tidydata/</guid><description>&lt;img src="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true" width="60%" />
+&lt;p>Workshop material:
+&lt;a href="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata" target="_blank" rel="noopener">GitHub&lt;/a> •
+&lt;a href="https://bit.ly/rlel-20181105" target="_blank" rel="noopener">Google Drive&lt;/a>&lt;/p></description></item><item><title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title><link>/talk/2018-rlel-dataviz/</link><pubDate>Mon, 08 Oct 2018 18:00:00 +0000</pubDate><guid>/talk/2018-rlel-dataviz/</guid><description>&lt;img src="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true" width="60%" />
+&lt;p>Workshop material:
+&lt;a href="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz" target="_blank" rel="noopener">GitHub&lt;/a> •
+&lt;a href="https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing" target="_blank" rel="noopener">Google Drive&lt;/a>&lt;/p></description></item><item><title>Launching R-Ladies East Lansing!</title><link>/post/rlel-launch/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><guid>/post/rlel-launch/</guid><description>
+&lt;div id="welcome-to-our-new-chapter" class="section level2">
+&lt;h2>&lt;em>Welcome to our new chapter!&lt;/em>&lt;/h2>
+&lt;/div>
+&lt;div id="what-were-about" class="section level2">
+&lt;h2>What we’re about&lt;/h2>
+&lt;p>&lt;em>R-Ladies East Lansing&lt;/em> is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.&lt;/p>
+&lt;/div>
+&lt;div id="who-should-join" class="section level2">
+&lt;h2>Who should join?&lt;/h2>
+&lt;p>R-Ladies East Lansing welcomes members of &lt;strong>all R proficiency levels&lt;/strong>, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. &lt;em>Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/em>&lt;/p>
+&lt;p>&lt;em>Anyone and everyone interested in R/Data Science&lt;/em> should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have &lt;em>no restrictions&lt;/em> whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family &amp;amp; R-friends!&lt;/p>
+&lt;/div>
+&lt;div id="how-to-be-in-touch" class="section level2">
+&lt;h2>How to be in touch?&lt;/h2>
+&lt;p>Access our presentations, R scripts and more on &lt;a href="//github.com/rladies-eastlansing">Github&lt;/a> and follow us on twitter to stay up to date about R-Ladies news! &lt;em>Join the &lt;a href="https://meetup.com/rladies-east-lansing/">Meetup group&lt;/a> to be notified of the first meeting in July!&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.rladies.org">R-Ladies Global&lt;/a>
+&lt;ul>
+&lt;li>Meetup: &lt;a href="https://meetup.com/rladies-east-lansing/" class="uri">https://meetup.com/rladies-east-lansing/&lt;/a>
+&lt;ul>
+&lt;li>Twitter: &lt;a href="http://twitter.com/RLadiesELansing">@RLadiesELansing&lt;/a> &amp;amp; &lt;a href="http://twitter.com/RLadiesGlobal">@RLadiesGlobal&lt;/a>&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;li>Slack: &lt;a href="https://rladies-eastlansing.slack.com" class="uri">https://rladies-eastlansing.slack.com&lt;/a>&lt;/li>
+&lt;li>Github: &lt;a href="https://github.com/rladies-eastlansing">@rladies-eastlansing&lt;/a> &amp;amp; &lt;a href="https://github.com/rladies">@rladies&lt;/a>&lt;/li>
+&lt;li>E-mail:
+&lt;ul>
+&lt;li>eastlansing [at] rladies [dot] org&lt;/li>
+&lt;li>janani [at] rladies [dot] org&lt;/li>
+&lt;li>info [at] rladies [dot] org&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;/ul>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="organizers" class="section level2">
+&lt;h2>Organizers&lt;/h2>
+&lt;p>&lt;a href="janani@msu.edu">Janani Ravi&lt;/a> &amp;amp; &lt;a href="archerc5@msu.edu">Camille Archer&lt;/a>&lt;/p>
+&lt;/div>
+&lt;div id="ps-community-policies-code-of-conduct" class="section level2">
+&lt;h2>&lt;em>PS&lt;/em> Community Policies &amp;amp; Code of Conduct:&lt;/h2>
+&lt;p>Full community guidelines are found here: &lt;a href="https://github.com/rladies/starter-kit/wiki" class="uri">https://github.com/rladies/starter-kit/wiki&lt;/a>&lt;/p>
+&lt;/div></description></item><item><title>R &amp; R-Ladies East Lansing</title><link>/project/r/</link><pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate><guid>/project/r/</guid><description>&lt;p>
+&lt;a href="/tags/R">R&lt;/a> &amp;amp;
+&lt;a href="/tags/rladies">R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a>&lt;/p></description></item><item><title>Useful Git/GitHub links</title><link>/post/git-github-links/</link><pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate><guid>/post/git-github-links/</guid><description>
+&lt;div id="see-also" class="section level2">
+&lt;h2>See also:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/janani137/status/926516970920562688">My tweet dated: 2017-03-11&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/interests/resources/">Resources&lt;/a> for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="git" class="section level1">
+&lt;h1>Git&lt;/h1>
+&lt;ul>
+&lt;li>Version control with &lt;a href="http://swcarpentry.github.io/git-novice/">Git on Software Carpentry&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sklise.com/2012/10/07/git-workflow-beginner/">Git workflow for beginners&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/">Mozilla Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://guides.beanstalkapp.com/version-control/getting-started-with-git.html">Getting started with Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://rogerdudler.github.io/git-guide/">Git, the simple guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/cbattista/learn-github/wiki/Learn-Github-Exercises">Git exercises&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://githowto.com/">GitHowTo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sklise.com/2012/09/22/introduction-to-git/">Introduction to Git and command line&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kirstiejane.github.io/friendly-github-intro/">Friendly introduction to Git, Jane&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://speakerdeck.com/alicebartlett/git-for-humans">Git for humans, slides by Bartlett&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://learngitbranching.js.org">Learn Git branching&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52">Git cheat sheet and best practices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://ohshitgit.com">Getting yourself out of a Git mess&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://try.github.io">Try Git&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="git-and-github" class="section level1">
+&lt;h1>Git and GitHub&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/kbroman/github_tutorial">GitHub tutorial, Broman&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/new">New GitHub repo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://seankross.com/the-unix-workbench/git-and-github.html">Git &amp;amp; Github | Seankross&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mac.github.com/help.html">GitHub on Mac&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="r-and-git" class="section level1">
+&lt;h1>R and Git&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="http://happygitwithr.com/big-picture.html">R with Git and GitHub&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div id="github-pages-gists-jekyll" class="section level1">
+&lt;h1>GitHub Pages, Gists | Jekyll&lt;/h1>
+&lt;ul>
+&lt;li>Github pages &lt;a href="https://guides.github.com/features/pages/">#1&lt;/a> &lt;a href="https://pages.github.com/">#2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://help.github.com/categories/gists/">Creating gists on Github&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jekyllrb.com/docs/installation/">Jekyll&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gcc.gnu.org/install/">GCC&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ruby-lang.org/en/downloads/">Ruby&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rubygems.org/pages/download">Ruby Gems&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div></description></item></channel></rss>
