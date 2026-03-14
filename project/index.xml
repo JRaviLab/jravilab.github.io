@@ -1,136 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | JRaviLab</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2026</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>Projects</title><link>/project/</link></image><item><title>Computational evolutionary approaches</title><link>/project/pathogenic-features/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/pathogenic-features/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p>
-&lt;h2 id="team">Team&lt;/h2>
-&lt;h3 id="students">Students&lt;/h3>
-&lt;h4 id="current">Current&lt;/h4>
-&lt;ul>
-&lt;li>Joe Burke&lt;/li>
-&lt;li>Elliot Majlessi&lt;/li>
-&lt;li>Vignesh Sridhar&lt;/li>
-&lt;li>Ethan Wolfe&lt;/li>
-&lt;/ul>
-&lt;h4 id="alumni">Alumni&lt;/h4>
-&lt;ul>
-&lt;li>Samuel Chen&lt;/li>
-&lt;li>Lo Sosinski&lt;/li>
-&lt;li>Karn Jongnarangsin&lt;/li>
-&lt;li>Lauryn Brooks&lt;/li>
-&lt;/ul>
-&lt;h3 id="collaborators">Collaborators&lt;/h3>
-&lt;ul>
-&lt;li>Neal Hammer, MSU (Staphylococci)&lt;/li>
-&lt;li>Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li>
-&lt;li>Antonella Fioravanti, VUB Brussels (&lt;em>B. anthracis&lt;/em>)&lt;/li>
-&lt;li>Chris Waters, MSU (Vibrio)&lt;/li>
-&lt;li>Jonathan Hardy, MSU (Listeria)&lt;/li>
-&lt;li>Stephanie Shames, KSU (Legionella)&lt;/li>
-&lt;li>Priya Shah, UCD (Flaviviruses)&lt;/li>
-&lt;li>Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li>
-&lt;/ul></description></item><item><title>sRNA discovery</title><link>/project/srna/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/srna/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p>
-&lt;h2 id="team">Team&lt;/h2>
-&lt;h3 id="students">Students&lt;/h3>
-&lt;ul>
-&lt;li>Philip Calhoun&lt;/li>
-&lt;li>Elliot Majlessi&lt;/li>
-&lt;/ul>
-&lt;h3 id="collaborators">Collaborators&lt;/h3>
-&lt;ul>
-&lt;li>Srinand Sreevatsan (Mycobacteria)&lt;/li>
-&lt;/ul></description></item><item><title>Bacterial Stress Response</title><link>/project/stress-response/</link><pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate><guid>/project/stress-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>I started working on bacterial stress responses during my postdoctoral research at Rutgers University, I continue to focus on using computational evolutionary approaches to study various facets of pathogen biology including:&lt;/p>
-&lt;ul>
-&lt;li>delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);&lt;/li>
-&lt;li>unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;&lt;/li>
-&lt;li>reconstructing and analyzing the mycobacterial sigma factor regulatory network.&lt;/li>
-&lt;/ul>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>Samuel Chen (Alumni)&lt;/li>
-&lt;/ul>
-&lt;h2 id="collaborators">Collaborators&lt;/h2>
-&lt;ul>
-&lt;li>Marila Gennaro (Rutgers)&lt;/li>
-&lt;li>L Aravind (NCBI, NIH)&lt;/li>
-&lt;li>Vivek Anantharaman (NCBI, NIH)&lt;/li>
-&lt;/ul></description></item><item><title>R &amp; R-Ladies East Lansing</title><link>/project/r/</link><pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate><guid>/project/r/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | JRaviLab</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2026</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>Projects</title><link>/project/</link></image><item><title>Phage-bacteria interactions</title><link>/project/phage-bacteria/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>/project/phage-bacteria/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We develop computational approaches to predict bacterial strain susceptibility to phages and to understand the genomic basis of phage-bacteria coevolution. Our work spans molecular mechanisms of phage defense — including phage defense by deaminase-mediated depletion of deoxynucleotides — to genomic signatures of ecotypic divergence in &lt;em>Prochlorococcus&lt;/em> light ecotypes. We are now extending these approaches to systematically predict which bacterial strains are susceptible to which phages, with direct applications to phage-based therapeutic strategies for difficult-to-treat bacterial infections.&lt;/p></description></item><item><title>Machine learning &amp; comparative genomics for antimicrobial resistance</title><link>/project/amr-ml/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>/project/amr-ml/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We develop integrative machine learning approaches to predict antimicrobial resistance (AMR) and characterize pathogen genomics across clinical and environmental contexts. Our ML framework associates multi-scale genomic features — genes, protein domains, SNPs, and k-mers — with AMR phenotypes across ESKAPE pathogens, demonstrating that resistance prediction requires integration across sequence scales, with domain-level features often outperforming gene-level markers. Analyses spanning &amp;gt;15,000 genomes reveal that feature importance varies substantially across pathogen species and drug classes, providing mechanistic insights into resistance evolution.&lt;/p>
+&lt;p>In collaboration with the Penaranda lab (National Jewish Health), we characterized the genetic and phenotypic diversity of &lt;em>Pseudomonas aeruginosa&lt;/em> across clinical and environmental isolation sites, revealing distinct genomic signatures associated with niche adaptation and novel resistance determinants. We are extending these approaches to predict host specificity in bacterial pathogens, integrating pangenomic features with host-associated metadata to identify molecular determinants of tissue tropism and species barriers.&lt;/p>
+&lt;p>Earlier collaborative work with Sreevatsan Lab (while at MSU) identified SNPs in Brazilian &lt;em>Mycobacterium tuberculosis&lt;/em> isolates critical for drug resistance, demonstrating how comparative genomics reveals population-specific resistance mechanisms.&lt;/p></description></item><item><title>Molecular evolution &amp; comparative pathogenomics</title><link>/project/pathogenic-features/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/pathogenic-features/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We developed
+&lt;a href="https://jravilab.org/molevolvr" target="_blank" rel="noopener">MolEvolvR&lt;/a>, a web application that integrates sequence analysis, domain architecture mapping, phylogenetic reconstruction, and genomic context visualization to enable systematic study of protein family evolution across the tree of life. MolEvolvR has engaged 45+ trainees worldwide through the Outreachy open-source program; we are developing MolEvolvR 2.0 with a companion R package for programmatic access.&lt;/p>
+&lt;p>Our foundational work on the phage shock protein (PSP) envelope stress response exemplifies this approach: discovering that a minimal PSP system was present in the last universal common ancestor and tracing its diversification into novel functional contexts across life, including novel partners (Toastrack domain, HTH-associated signaling domain, ATPase and Band-7 domain associations). We have applied this evolutionary framework broadly to characterize protein families across diverse pathogens — including bacterial phage defense via deoxycytidine deaminases, cell surface S-layer proteins in Gram-positive pathogens, internalins in &lt;em>Listeria&lt;/em>, DciA helicase loaders across bacterial phyla, and sulfur acquisition systems in &lt;em>Staphylococcus aureus&lt;/em>. This work is foundational to our group&amp;rsquo;s philosophy of using evolutionary genomics to predict protein function with both basic biology and translational impact.&lt;/p></description></item><item><title>sRNA discovery</title><link>/project/srna/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/srna/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We are developing computational approaches to detect unique pathogenic (and host) small RNA in infected hosts (human and non-human).&lt;/p></description></item><item><title>Bacterial stress response</title><link>/project/stress-response/</link><pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate><guid>/project/stress-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Starting from postdoctoral research at Rutgers University, we have used computational evolutionary approaches to study the phage shock protein (PSP) envelope stress response system across the tree of life. Our work revealed that the minimal PSP system was present in the last universal common ancestor — with its core protein PspA (Snf7 in ESCRT outside bacteria) diversifying into multiple distinct PSP systems across life. Systematic mapping of domain architectures and genomic contexts uncovered novel partners including the Toastrack domain, HTH-associated signaling domain, and ATPase and Band-7 domain associations.&lt;/p>
+&lt;p>Earlier work delineated the variations of the Psp system across Actinobacteria, and reconstructed and topologically characterized the sigma factor regulatory network of &lt;em>M. tuberculosis&lt;/em>, revealing a master regulator-initiated three-tiered hierarchy with over-represented network motifs including autoregulation and coregulation of sigma/anti-sigma pairs. Results are available at our interactive
+&lt;a href="https://jravilab.org/psp" target="_blank" rel="noopener">PSP web app&lt;/a>.&lt;/p></description></item><item><title>R &amp; R-Ladies East Lansing</title><link>/project/r/</link><pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate><guid>/project/r/</guid><description>&lt;p>
 &lt;a href="/tags/R">R&lt;/a> &amp;amp;
-&lt;a href="/tags/rladies">R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a>&lt;/p></description></item><item><title>Host-responses to infection</title><link>/project/host-response/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/host-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>Leveraging non-infectious disease and drug perturbation transcriptomes to characterize host-response to infection and prioritize host-directed interventions.&lt;/p>
-&lt;h2 id="team">Team&lt;/h2>
-&lt;h3 id="students">Students&lt;/h3>
-&lt;ul>
-&lt;li>Kewalin Samart (MSU)&lt;/li>
-&lt;/ul>
-&lt;h3 id="alumni">Alumni&lt;/h3>
-&lt;ul>
-&lt;li>Phoebe Tuyishime (MSU, UBC)&lt;/li>
-&lt;/ul>
-&lt;h3 id="collaborators">Collaborators&lt;/h3>
-&lt;ul>
-&lt;li>Arjun Krishnan (MSU)&lt;/li>
-&lt;/ul></description></item><item><title>Studying lipid metabolism deregulation in TB</title><link>/project/lipid-metabolism/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/lipid-metabolism/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;a href="/tags/rladies">R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a>&lt;/p></description></item><item><title>Host respones and therapeutic interventions</title><link>/project/host-response/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/host-response/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We develop computational approaches to study host responses to infection and identify host-directed therapeutic interventions. We unified and standardized computational metrics for quantifying reversal of disease gene signatures by candidate therapeutics, addressing critical reproducibility issues in connectivity score methodologies. Our framework reconciles multiple scoring approaches (GSEA, KS, cosine, XSum) and provides quantitative guidance for method selection based on data characteristics.&lt;/p>
+&lt;p>Building on this, we developed an integrative drug repurposing pipeline for tuberculosis that combines transcriptomic signatures from diverse infection models with multi-database screening (LINCS L1000, CMap). Consensus approaches across multiple connectivity scores improve prediction of drugs with known anti-TB efficacy and identify novel repurposed candidates.&lt;/p></description></item><item><title>Studying lipid metabolism deregulation in TB</title><link>/project/lipid-metabolism/</link><pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate><guid>/project/lipid-metabolism/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;p>We also studied host responses to &lt;em>M. tuberculosis&lt;/em> infection using computational approaches:&lt;/p>
 &lt;ul>
 &lt;li>characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;&lt;/li>
 &lt;li>understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.&lt;/li>
-&lt;/ul>
-&lt;h2 id="collaborators">Collaborators&lt;/h2>
-&lt;h4 id="rutgers-university">Rutgers University&lt;/h4>
-&lt;ul>
-&lt;li>Marila Gennaro&lt;/li>
-&lt;li>Sanjay Tyagi&lt;/li>
-&lt;li>Eduardo Sontag (now in North Eastern)&lt;/li>
-&lt;/ul>
-&lt;h4 id="tulane-university">Tulane University&lt;/h4>
-&lt;ul>
-&lt;li>Deepak Kaushal&lt;/li>
-&lt;/ul>
-&lt;h4 id="knowledge-synthesis">Knowledge Synthesis&lt;/h4>
-&lt;ul>
-&lt;li>Hugh Salamon&lt;/li>
-&lt;/ul></description></item><item><title>Dynamical Systems &amp; Modeling</title><link>/project/dynamical-systems/</link><pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate><guid>/project/dynamical-systems/</guid><description>&lt;h2 id="research">Research&lt;/h2>
-&lt;p>During
-&lt;a href="http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/" target="_blank" rel="noopener">my graduate research with Dr John Tyson&lt;/a>, I built mathematical models to understand dynamical aspects:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Modeling the START transition in the budding yeast cell cycle:&lt;/p>
-&lt;ul>
-&lt;li>Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li>
-&lt;li>Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li>
-&lt;li>Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li>
-&lt;li>Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li>
-&lt;li>This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Modeling bistability in the canonical Wnt pathway:&lt;/p>
-&lt;ul>
-&lt;li>Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
-additional key regulatory interactions.&lt;/li>
-&lt;li>Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
-experimental results.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="related-publications">Related publications&lt;/h2>
-&lt;ul>
-&lt;li>Ravi J&lt;sup>#&lt;/sup>, Samart K, Zwolak JW, Tyson JJ&lt;sup>#&lt;/sup>. Modeling the START transition in the budding yeast cell cycle.
-&lt;a href="http://sbmlsimulator.org/simulator/by-start" target="_blank" rel="noopener">Model&lt;/a> &lt;em>Submitted&lt;/em>. &lt;sup>#&lt;/sup>Co-corresponding authors.&lt;/li>
-&lt;li>Cantoria MJ&lt;sup>*&lt;/sup>, Alizadeh E&lt;sup>*&lt;/sup>, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup>#&lt;/sup>, Lee E&lt;sup>#&lt;/sup>, Thorne CA&lt;sup>#&lt;/sup>. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022
-&lt;a href="https://doi.org/10.1101/2022.01.28.478206" target="_blank" rel="noopener">bioRxiv&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>Kewalin Samart&lt;/li>
-&lt;/ul>
-&lt;h2 id="collaborators">Collaborators&lt;/h2>
-&lt;h4 id="virginia-tech">Virginia Tech&lt;/h4>
-&lt;ul>
-&lt;li>John Tyson&lt;/li>
-&lt;/ul>
-&lt;h4 id="vanderbilt-university">Vanderbilt University&lt;/h4>
-&lt;ul>
-&lt;li>Ethan Lee&lt;/li>
-&lt;li>Curtis Thorne (now at University of Arizona)&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Dynamical systems &amp; modeling</title><link>/project/dynamical-systems/</link><pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate><guid>/project/dynamical-systems/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We developed mathematical models that capture dynamic aspects of cellular regulatory systems. A detailed model (~100 molecular species, ~150 parameters) of the START transition in budding yeast reconciles diverse experimental findings on mechanisms and timing of transcriptional, post-translational, and localization events, and addresses the nutritional effect on size control. Consistent with ~200 experimental phenotypes, the model successfully predicts whether novel mutants rescue or induce cell cycle arrest; many predictions have been experimentally validated. Interactive model simulations are available for the research community to explore START dynamics.&lt;/p>
+&lt;p>We also built a simplified model of the Wnt signaling pathway demonstrating that incorporating key feedback regulatory interactions enables bistable behavior, reconciling theoretical predictions with experimental observations of cellular memory in differentiation decisions. In bacterial systems, network analysis of the &lt;em>M. tuberculosis&lt;/em> sigma factor regulatory network revealed a master regulator-initiated three-tiered hierarchy and distinct sigma factor communities with over-represented network motifs including autoregulation and coregulation of sigma/anti-sigma pairs.&lt;/p>
+&lt;p>+++&lt;/p></description></item></channel></rss>

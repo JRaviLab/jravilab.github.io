@@ -1,29 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>banthracis | JRaviLab</title><link>/tags/banthracis/</link><atom:link href="/tags/banthracis/index.xml" rel="self" type="application/rss+xml"/><description>banthracis</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2026</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>banthracis</title><link>/tags/banthracis/</link></image><item><title>Computational evolutionary approaches</title><link>/project/pathogenic-features/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/pathogenic-features/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>We are developing an integrated computational evolutionary framework that will bring together: 1) molecular evolution and phylogeny; and 2) comparative genomics/pangenomics to study any pathogen-group or protein family, and discover distinctive protein/genomic features relevant to biological comparisons of interest (such as identifying diagnostic or candidate vaccine targets in emerging, poorly characterized pathogens).&lt;/p>
-&lt;h2 id="team">Team&lt;/h2>
-&lt;h3 id="students">Students&lt;/h3>
-&lt;h4 id="current">Current&lt;/h4>
-&lt;ul>
-&lt;li>Joe Burke&lt;/li>
-&lt;li>Elliot Majlessi&lt;/li>
-&lt;li>Vignesh Sridhar&lt;/li>
-&lt;li>Ethan Wolfe&lt;/li>
-&lt;/ul>
-&lt;h4 id="alumni">Alumni&lt;/h4>
-&lt;ul>
-&lt;li>Samuel Chen&lt;/li>
-&lt;li>Lo Sosinski&lt;/li>
-&lt;li>Karn Jongnarangsin&lt;/li>
-&lt;li>Lauryn Brooks&lt;/li>
-&lt;/ul>
-&lt;h3 id="collaborators">Collaborators&lt;/h3>
-&lt;ul>
-&lt;li>Neal Hammer, MSU (Staphylococci)&lt;/li>
-&lt;li>Srinand Sreevatsan, Robert Abramovitch, and Andrew Olive (MSU), Christina Stallings, WUSTL (Mycobacteria)&lt;/li>
-&lt;li>Antonella Fioravanti, VUB Brussels (&lt;em>B. anthracis&lt;/em>)&lt;/li>
-&lt;li>Chris Waters, MSU (Vibrio)&lt;/li>
-&lt;li>Jonathan Hardy, MSU (Listeria)&lt;/li>
-&lt;li>Stephanie Shames, KSU (Legionella)&lt;/li>
-&lt;li>Priya Shah, UCD (Flaviviruses)&lt;/li>
-&lt;li>Sean Crosson, MSU (Brucella, Caulobacter)&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>banthracis | JRaviLab</title><link>/tags/banthracis/</link><atom:link href="/tags/banthracis/index.xml" rel="self" type="application/rss+xml"/><description>banthracis</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Janani Ravi, 2026</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>/img/jananiravi-grp-webpage-logo.png</url><title>banthracis</title><link>/tags/banthracis/</link></image><item><title>Molecular evolution &amp; comparative pathogenomics</title><link>/project/pathogenic-features/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/pathogenic-features/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We developed
+&lt;a href="https://jravilab.org/molevolvr" target="_blank" rel="noopener">MolEvolvR&lt;/a>, a web application that integrates sequence analysis, domain architecture mapping, phylogenetic reconstruction, and genomic context visualization to enable systematic study of protein family evolution across the tree of life. MolEvolvR has engaged 45+ trainees worldwide through the Outreachy open-source program; we are developing MolEvolvR 2.0 with a companion R package for programmatic access.&lt;/p>
+&lt;p>Our foundational work on the phage shock protein (PSP) envelope stress response exemplifies this approach: discovering that a minimal PSP system was present in the last universal common ancestor and tracing its diversification into novel functional contexts across life, including novel partners (Toastrack domain, HTH-associated signaling domain, ATPase and Band-7 domain associations). We have applied this evolutionary framework broadly to characterize protein families across diverse pathogens — including bacterial phage defense via deoxycytidine deaminases, cell surface S-layer proteins in Gram-positive pathogens, internalins in &lt;em>Listeria&lt;/em>, DciA helicase loaders across bacterial phyla, and sulfur acquisition systems in &lt;em>Staphylococcus aureus&lt;/em>. This work is foundational to our group&amp;rsquo;s philosophy of using evolutionary genomics to predict protein function with both basic biology and translational impact.&lt;/p></description></item></channel></rss>

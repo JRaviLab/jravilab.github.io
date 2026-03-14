@@ -75,48 +75,7 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
 &lt;p>&lt;em>December 22, 2012&lt;/em>, marks the 125th anniversary of the birth of legendary Indian mathematician Srinivasa Ramanujan. An intuitive mathematical genius, Ramanujan’s discoveries have influenced several areas of mathematics, but he is probably most famous for his contributions to number theory and infinite series, among them fascinating formulas that can be used to calculate digits of pi in unusual ways.&lt;/p>
 &lt;p>&lt;a href="http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india">More&lt;/a>&lt;/p>
 &lt;/div>
-&lt;/div></description></item><item><title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title><link>/talk/2014-imsc/</link><pubDate>Fri, 31 Oct 2014 13:00:00 +0000</pubDate><guid>/talk/2014-imsc/</guid><description/></item><item><title>Dynamical Systems &amp; Modeling</title><link>/project/dynamical-systems/</link><pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate><guid>/project/dynamical-systems/</guid><description>&lt;h2 id="research">Research&lt;/h2>
-&lt;p>During
-&lt;a href="http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/" target="_blank" rel="noopener">my graduate research with Dr John Tyson&lt;/a>, I built mathematical models to understand dynamical aspects:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Modeling the START transition in the budding yeast cell cycle:&lt;/p>
-&lt;ul>
-&lt;li>Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle.&lt;/li>
-&lt;li>Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-translational and localization events, as well as size control under varying growth conditions.&lt;/li>
-&lt;li>Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of the cell cycle.&lt;/li>
-&lt;li>Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li>
-&lt;li>This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial set of START mutants.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Modeling bistability in the canonical Wnt pathway:&lt;/p>
-&lt;ul>
-&lt;li>Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
-additional key regulatory interactions.&lt;/li>
-&lt;li>Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
-experimental results.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="related-publications">Related publications&lt;/h2>
-&lt;ul>
-&lt;li>Ravi J&lt;sup>#&lt;/sup>, Samart K, Zwolak JW, Tyson JJ&lt;sup>#&lt;/sup>. Modeling the START transition in the budding yeast cell cycle.
-&lt;a href="http://sbmlsimulator.org/simulator/by-start" target="_blank" rel="noopener">Model&lt;/a> &lt;em>Submitted&lt;/em>. &lt;sup>#&lt;/sup>Co-corresponding authors.&lt;/li>
-&lt;li>Cantoria MJ&lt;sup>*&lt;/sup>, Alizadeh E&lt;sup>*&lt;/sup>, Ravi J, Bunnag N, Kettenbach N, Ahmed Y, Paek AL, Tyson JJ, Doubrovinski K&lt;sup>#&lt;/sup>, Lee E&lt;sup>#&lt;/sup>, Thorne CA&lt;sup>#&lt;/sup>. Feedback in the β-catenin destruction complex imparts bistability and cellular memory. 2022
-&lt;a href="https://doi.org/10.1101/2022.01.28.478206" target="_blank" rel="noopener">bioRxiv&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>Kewalin Samart&lt;/li>
-&lt;/ul>
-&lt;h2 id="collaborators">Collaborators&lt;/h2>
-&lt;h4 id="virginia-tech">Virginia Tech&lt;/h4>
-&lt;ul>
-&lt;li>John Tyson&lt;/li>
-&lt;/ul>
-&lt;h4 id="vanderbilt-university">Vanderbilt University&lt;/h4>
-&lt;ul>
-&lt;li>Ethan Lee&lt;/li>
-&lt;li>Curtis Thorne (now at University of Arizona)&lt;/li>
-&lt;/ul></description></item><item><title>Modeling the START transition in the budding yeast cell cycle</title><link>/talk/2011-cshl/</link><pubDate>Tue, 29 Mar 2011 18:00:00 +0000</pubDate><guid>/talk/2011-cshl/</guid><description/></item><item><title>Modeling the START transition in the budding yeast cell cycle</title><link>/talk/2009-grc/</link><pubDate>Sun, 05 Jul 2009 13:00:00 +0000</pubDate><guid>/talk/2009-grc/</guid><description/></item><item><title>Modeling the START transition and size control in budding yeast</title><link>/talk/2009-cshl/</link><pubDate>Tue, 24 Mar 2009 13:00:00 +0000</pubDate><guid>/talk/2009-cshl/</guid><description/></item><item><title>Modeling the START transition and size control in budding yeast</title><link>/talk/2009-vt-symp/</link><pubDate>Sun, 01 Mar 2009 13:00:00 +0000</pubDate><guid>/talk/2009-vt-symp/</guid><description/></item></channel></rss>
+&lt;/div></description></item><item><title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title><link>/talk/2014-imsc/</link><pubDate>Fri, 31 Oct 2014 13:00:00 +0000</pubDate><guid>/talk/2014-imsc/</guid><description/></item><item><title>Dynamical systems &amp; modeling</title><link>/project/dynamical-systems/</link><pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate><guid>/project/dynamical-systems/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>We developed mathematical models that capture dynamic aspects of cellular regulatory systems. A detailed model (~100 molecular species, ~150 parameters) of the START transition in budding yeast reconciles diverse experimental findings on mechanisms and timing of transcriptional, post-translational, and localization events, and addresses the nutritional effect on size control. Consistent with ~200 experimental phenotypes, the model successfully predicts whether novel mutants rescue or induce cell cycle arrest; many predictions have been experimentally validated. Interactive model simulations are available for the research community to explore START dynamics.&lt;/p>
+&lt;p>We also built a simplified model of the Wnt signaling pathway demonstrating that incorporating key feedback regulatory interactions enables bistable behavior, reconciling theoretical predictions with experimental observations of cellular memory in differentiation decisions. In bacterial systems, network analysis of the &lt;em>M. tuberculosis&lt;/em> sigma factor regulatory network revealed a master regulator-initiated three-tiered hierarchy and distinct sigma factor communities with over-represented network motifs including autoregulation and coregulation of sigma/anti-sigma pairs.&lt;/p>
+&lt;p>+++&lt;/p></description></item><item><title>Modeling the START transition in the budding yeast cell cycle</title><link>/talk/2011-cshl/</link><pubDate>Tue, 29 Mar 2011 18:00:00 +0000</pubDate><guid>/talk/2011-cshl/</guid><description/></item><item><title>Modeling the START transition in the budding yeast cell cycle</title><link>/talk/2009-grc/</link><pubDate>Sun, 05 Jul 2009 13:00:00 +0000</pubDate><guid>/talk/2009-grc/</guid><description/></item><item><title>Modeling the START transition and size control in budding yeast</title><link>/talk/2009-cshl/</link><pubDate>Tue, 24 Mar 2009 13:00:00 +0000</pubDate><guid>/talk/2009-cshl/</guid><description/></item><item><title>Modeling the START transition and size control in budding yeast</title><link>/talk/2009-vt-symp/</link><pubDate>Sun, 01 Mar 2009 13:00:00 +0000</pubDate><guid>/talk/2009-vt-symp/</guid><description/></item></channel></rss>
